@@ -1,0 +1,26 @@
+[
+  {
+    "date":"2014-06-26T23:36:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Gentlemen,"
+  },
+  {
+    "date":"2014-06-26T23:37:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will not be able to join the chat today."
+  },
+  {
+    "date":"2014-06-26T23:42:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am working on the prototype - mainly app screens for now and will have this complete by Friday night.  We will submit the screens as non working prototype for phase 1.  Saturday I am planning layout the java classes and have it for your review on Sunday.  I am thinking we will submit these java classes as working prototype in next phase.  I will be available from Friday afternoon so dont hesitate to send an email if needed."
+  }
+]

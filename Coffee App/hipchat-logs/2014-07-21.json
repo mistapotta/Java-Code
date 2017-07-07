@@ -1,0 +1,730 @@
+[
+  {
+    "date":"2014-07-21T00:26:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I don't believe the conversion to use the API is going to be able to be completed since progress is much too slow and I know there's still a bunch of work to do in order to do that right"
+  },
+  {
+    "date":"2014-07-21T00:27:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I guess at this point what we can do is create a new branch for Deliverable4 to collect our documents and simply turn in the version of the app we had last week"
+  },
+  {
+    "date":"2014-07-21T00:43:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so what else needs to be done now?"
+  },
+  {
+    "date":"2014-07-21T00:47:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Hi Guys - sorry to see all that hard work is wasted.  Can we test a little of the app and let me know any changes - I will be available until we are done."
+  },
+  {
+    "date":"2014-07-21T00:48:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"you should be able to pull the changes.  "
+  },
+  {
+    "date":"2014-07-21T00:48:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Two fronts to attack - docs and app."
+  },
+  {
+    "date":"2014-07-21T00:48:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think docs are more or less complete, unless there's some additions\/changes that need to be made to anything."
+  },
+  {
+    "date":"2014-07-21T00:49:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"If we're going with the beta app, then the test document I have already submitted (Deliv 3) is still the most relevant."
+  },
+  {
+    "date":"2014-07-21T00:49:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I just created a Deliverable4-docs branch and pushed up the latest versions of all of the documents from the past deliverables and put them in the Deliverable4 folder:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable4-docs"
+  },
+  {
+    "date":"2014-07-21T00:49:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I went through the documents, it's pretty much complete but we can take a look if needed"
+  },
+  {
+    "date":"2014-07-21T00:50:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If we backtrack to the beta app I think there might just be a few things to check on, such as being able to edit\/delete a Customer"
+  },
+  {
+    "date":"2014-07-21T00:50:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"as I mentioned beofre, I lost nine points on something called \"Cardinality\" on UML Assign. 4.  Anyone know what that is and did we address it?"
+  },
+  {
+    "date":"2014-07-21T00:51:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that had to do more with the relationships (1 to 1, 1 to many, etc.)"
+  },
+  {
+    "date":"2014-07-21T00:51:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ah."
+  },
+  {
+    "date":"2014-07-21T00:56:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"it looks like our current DesignModel docs includes some of that"
+  },
+  {
+    "date":"2014-07-21T00:57:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Guys...just reviewing status of the files...continue with identifying tasks...while I am reviewing on github."
+  },
+  {
+    "date":"2014-07-21T00:58:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"make sure to go ahead and use the Deliverable4-docs branch for any changes since the Deliverable4 one has all of the other stuff related to the API integration work that was going on"
+  },
+  {
+    "date":"2014-07-21T01:01:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I think the main tasks I had were the ability to add\/delete customers in the old version (I'm not sure if the Save \/ Delete buttons are actually tied to any actions at the moment)"
+  },
+  {
+    "date":"2014-07-21T01:01:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think if we can get that working I'd be happier with turning in the beta version"
+  },
+  {
+    "date":"2014-07-21T01:05:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Checking add\/delete ... dont remember if I completed these."
+  },
+  {
+    "date":"2014-07-21T01:09:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If we cover those that should take care of Requirements 3 and 4 from the Project Description"
+  },
+  {
+    "date":"2014-07-21T01:09:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think for the rest of the requirements we have something in place"
+  },
+  {
+    "date":"2014-07-21T01:11:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So are we planning on putting Murali's beta in a folder and these other files we've developed in a separate folder and submitting them to show work towards implementing a db?"
+  },
+  {
+    "date":"2014-07-21T01:12:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll mention it when we submit (the work is there in the original Deliverable4 branch so that'll show as evidence)"
+  },
+  {
+    "date":"2014-07-21T01:12:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that way they have some more information to go on"
+  },
+  {
+    "date":"2014-07-21T01:22:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I implemented delete and add - actually delete just makes the vip inactive (keeping records for future?)"
+  },
+  {
+    "date":"2014-07-21T01:22:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i think if they want to be deleted we have to reset all the info to empty"
+  },
+  {
+    "date":"2014-07-21T01:22:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"add can be done by pressing the vip button once you are in vip menu."
+  },
+  {
+    "date":"2014-07-21T01:24:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I can work on complete info delete."
+  },
+  {
+    "date":"2014-07-21T01:24:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"please check the add and give me feedback."
+  },
+  {
+    "date":"2014-07-21T01:24:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sorry I meant edit Murali I did end up noticing the add capability a little earlier today"
+  },
+  {
+    "date":"2014-07-21T01:25:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Complete info delete seems best from what's mentioned in the project description"
+  },
+  {
+    "date":"2014-07-21T01:26:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"edit can be done in the vip screen just change and save any vip info - please check this also."
+  },
+  {
+    "date":"2014-07-21T01:27:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It didn't seem to be working when I tried earlier but I'll try again"
+  },
+  {
+    "date":"2014-07-21T01:31:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Edit does seem to work (but there isn't any reaction from the UI when Save is clicked so it seems like nothing happens)"
+  },
+  {
+    "date":"2014-07-21T01:32:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"On the Add screen the Delete button is still showing (if you click it it causes the program to stop responding)"
+  },
+  {
+    "date":"2014-07-21T01:35:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Does Delete make it crash - it did not for me.  For UI reaction I should take it back a screen."
+  },
+  {
+    "date":"2014-07-21T01:37:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It would be nice if there was a response for a successful add\/delete "
+  },
+  {
+    "date":"2014-07-21T01:43:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Delete only made it crash when I was on the add new customer screen...it didn't make it crash when editing an existing user"
+  },
+  {
+    "date":"2014-07-21T01:43:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"You should only be able to delte an existing customer.  You can't delete a customer until it's aprt of the db, right?"
+  },
+  {
+    "date":"2014-07-21T01:43:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Exactly"
+  },
+  {
+    "date":"2014-07-21T02:29:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju any updates for us?"
+  },
+  {
+    "date":"2014-07-21T02:30:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Not yet...working on it."
+  },
+  {
+    "date":"2014-07-21T02:30:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"No problem thanks"
+  },
+  {
+    "date":"2014-07-21T02:31:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"in the meantime antyhing else chandra and I can work on "
+  },
+  {
+    "date":"2014-07-21T02:33:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think things are ok on the docs side of things. I think the main things I noticed are the ones murali's working on"
+  },
+  {
+    "date":"2014-07-21T02:41:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So it'll primarily be some testing here at the end i think between all of us"
+  },
+  {
+    "date":"2014-07-21T02:45:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I am also testing it, it does crash if we add a VIP customer and go back to the customer to edit"
+  },
+  {
+    "date":"2014-07-21T02:46:11+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Then the customer is removed since the system crashes"
+  },
+  {
+    "date":"2014-07-21T02:46:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks Chandra that should be helpful for Murali "
+  },
+  {
+    "date":"2014-07-21T02:51:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra - did not crash for me can you check and give more details."
+  },
+  {
+    "date":"2014-07-21T02:53:38+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ok, so what i did is click on the add customer on the bottom left, it gives the list of customers, then i clicked on the button again, i get to the page where i provide the info"
+  },
+  {
+    "date":"2014-07-21T02:53:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I type the name, then go back to the list"
+  },
+  {
+    "date":"2014-07-21T02:54:00+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"If i click the person again, it crashes"
+  },
+  {
+    "date":"2014-07-21T02:54:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"And just for reference everyone is testing with the Deliverable4-docs branch correct?"
+  },
+  {
+    "date":"2014-07-21T02:54:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"just the name no other data?"
+  },
+  {
+    "date":"2014-07-21T02:55:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"either way, just name or all the info"
+  },
+  {
+    "date":"2014-07-21T02:56:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"and yes to Omar"
+  },
+  {
+    "date":"2014-07-21T02:56:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks just wanted to make sure"
+  },
+  {
+    "date":"2014-07-21T02:57:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It could be just me, can anyone see if that happens, i don't want to add more work to Murali :)"
+  },
+  {
+    "date":"2014-07-21T02:58:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra - I recreated the issue."
+  },
+  {
+    "date":"2014-07-21T02:59:20+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok"
+  },
+  {
+    "date":"2014-07-21T03:53:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I know it's late for you on your end, hopefully this isn't causing you to lose too much sleep"
+  },
+  {
+    "date":"2014-07-21T03:54:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Not a problem...almost there.  Will push pretty soon."
+  },
+  {
+    "date":"2014-07-21T03:57:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Awesome, we should be able to take it from there ;-)"
+  },
+  {
+    "date":"2014-07-21T04:05:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed changes.  I ran into issues with deleting VIP - changes to database are required and I am afraid I will break the data model.  Can we live with Inactive?"
+  },
+  {
+    "date":"2014-07-21T04:07:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"possibly, what was the main issue that occurred when trying to go that route?"
+  },
+  {
+    "date":"2014-07-21T04:09:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I implemented the new vip numbering using next position in the array.  (I was not thinking of deleting at that time).  Now if I delete the VIP that array slot will be empty and my lists will have empty slots."
+  },
+  {
+    "date":"2014-07-21T04:10:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Gets a little more complicated because I use list position to map it back to vip number...so basically too deep a change this late in the game."
+  },
+  {
+    "date":"2014-07-21T04:10:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If we are OK with empty slot in the list I can go ahead with the change."
+  },
+  {
+    "date":"2014-07-21T04:10:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"gotcha yeah I was trying to work around that earlier with the Rest API...the Android stuff was kind of tricky with that Adapter stuff since it seemed like it made it difficult to know exactly which one had been selected (you had the position in the list, but like you couldn't get the VIP Card Number or something else that might be more useful)"
+  },
+  {
+    "date":"2014-07-21T04:11:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Inactive state we can live with for now"
+  },
+  {
+    "date":"2014-07-21T04:11:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It's ok"
+  },
+  {
+    "date":"2014-07-21T04:12:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Alright test it...let me know.  I will stay up and do a little more testing and wait for feedback."
+  },
+  {
+    "date":"2014-07-21T04:12:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Quick question...I noticed when we go into edit a customer it defaults to making the DOB field active (when I created a new record for myself I entered my DOB and after saving and going back in it highlights the DOB field automatically but the field is blank)"
+  },
+  {
+    "date":"2014-07-21T04:13:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"You know what I think it's because I was using MM\/DD\/YYYY format instead of MM-DD-YYYY"
+  },
+  {
+    "date":"2014-07-21T04:16:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think we're good unless someone else runs into any issues"
+  },
+  {
+    "date":"2014-07-21T04:17:24+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I haven't run into any other issues, looks great to me "
+  },
+  {
+    "date":"2014-07-21T04:18:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Give me 10 more minutes...checking a few things."
+  },
+  {
+    "date":"2014-07-21T04:40:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Are we good? Or do you need a few more?"
+  },
+  {
+    "date":"2014-07-21T04:43:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"few more - fixed the focus issue.  working on preventing ordering for inactive vip."
+  },
+  {
+    "date":"2014-07-21T04:51:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Cool, I'm on standby ;-)"
+  },
+  {
+    "date":"2014-07-21T05:02:45+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Guys, i'm gonna hit the sack, work tomorrow, great work everyone and goodnight."
+  },
+  {
+    "date":"2014-07-21T05:03:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"me too. I have to be at leave at 6:00 tomorrow morning.  Sorry."
+  },
+  {
+    "date":"2014-07-21T05:05:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"no worries good night guys and good work...I'll get it turned in and send everyone the confirmation email once that's complete ;-)"
+  },
+  {
+    "date":"2014-07-21T05:05:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Thanks omar...few more minutes final testing..."
+  },
+  {
+    "date":"2014-07-21T05:09:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar pushed my changes...check them out.  330-356-2448 if you need to wake me."
+  },
+  {
+    "date":"2014-07-21T05:10:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"thanks...hopefully there isn't anything major ;-)"
+  },
+  {
+    "date":"2014-07-21T05:10:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Dont hesitate if you need to wake me."
+  },
+  {
+    "date":"2014-07-21T05:10:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll run some quick tests on my end and then start the merging process and all that to get things turned in"
+  },
+  {
+    "date":"2014-07-21T05:12:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"things seem to be working fine...I wouldn't worry ;-)"
+  }
+]

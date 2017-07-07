@@ -1,0 +1,50 @@
+[
+  {
+    "date":"2014-07-23T00:00:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Where o you see the new expectations Omar?"
+  },
+  {
+    "date":"2014-07-23T00:01:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Well, they aren't new expectations, it's mainly what's described here (as the Expected Output for Deliverables 2 and 3):\\nhttps:\/\/www.udacity.com\/wiki\/ud494\/project3?nocache"
+  },
+  {
+    "date":"2014-07-23T00:04:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"We can wait till Sunday to work on it if you want, by the mean time i will get a chance to work on my own version, so probably will be more helpful and also we would avoid any unnecessary work"
+  },
+  {
+    "date":"2014-07-23T00:09:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota That might be a good plan (patience is a virtue after all ;-))"
+  },
+  {
+    "date":"2014-07-23T00:10:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll go ahead and just do a review of the current code at home later today and do some minor touch-up \/ finalizations to it so it'll be ready for submission"
+  },
+  {
+    "date":"2014-07-23T00:10:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds like a plan :)"
+  }
+]

@@ -1,0 +1,1246 @@
+[
+  {
+    "date":"2014-07-04T00:27:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Nice work Tony ;-)"
+  },
+  {
+    "date":"2014-07-04T00:49:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"UseCaseDescription.pdf",
+      "size":61380,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/ZZGCdUxtR5np4fx\/UseCaseDescription.pdf"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-04T00:49:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"This the description for three classes of use-case description"
+  },
+  {
+    "date":"2014-07-04T00:50:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I have also pushed the supplementaryRequirements.md in git, since we had three only, it is quite short"
+  },
+  {
+    "date":"2014-07-04T00:50:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"updatedUseCaseModel.png",
+      "size":89778,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/pgjNSUIx625R8A6\/updatedUseCaseModel.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-04T00:50:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"And this is the updated use-case model"
+  },
+  {
+    "date":"2014-07-04T00:52:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Thanks :-)"
+  },
+  {
+    "date":"2014-07-04T00:53:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos, i still couldn't figure out to push those onto the git using eclipse, can you please push the for me, i will figure that out for before the end of year lol ;) "
+  },
+  {
+    "date":"2014-07-04T00:53:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*for sure"
+  },
+  {
+    "date":"2014-07-04T00:55:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If there won't be any additional changes to the UseCaseModel, could you turn it into a PDF for me? That way I can go ahead and get it and the UseCaseDescription files added in together"
+  },
+  {
+    "date":"2014-07-04T00:55:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, sure i'll do that"
+  },
+  {
+    "date":"2014-07-04T00:56:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"updatedUseCaseModel.pdf",
+      "size":150133,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/ZF9iXGxou5vABw1\/updatedUseCaseModel.pdf"
+    },
+    "message":"Here you are"
+  },
+  {
+    "date":"2014-07-04T00:57:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks!"
+  },
+  {
+    "date":"2014-07-04T00:59:29+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"no problem, but please look at it once though, if you guys see anything that you want me to change"
+  },
+  {
+    "date":"2014-07-04T00:59:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"OK they should be in the repo now: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable2\/6300Sum14Project2\/Deliverable2\/in-progress"
+  },
+  {
+    "date":"2014-07-04T00:59:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If any updates come up during our discussion today I can update it easily ;-)"
+  },
+  {
+    "date":"2014-07-04T01:00:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok great, thanks"
+  },
+  {
+    "date":"2014-07-04T01:06:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Risk No 21: Murali goes A wall.  Risk level: High. Counter: None."
+  },
+  {
+    "date":"2014-07-04T01:06:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"haha"
+  },
+  {
+    "date":"2014-07-04T01:06:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-07-04T01:06:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-07-04T01:06:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Hi guys.  I was trying to push some code and blew up on me.  Lost my changes."
+  },
+  {
+    "date":"2014-07-04T01:07:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"aw, sorry."
+  },
+  {
+    "date":"2014-07-04T01:07:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Luckily I think I remeber most of them so I will correct and push."
+  },
+  {
+    "date":"2014-07-04T01:07:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk, I'll pull after and start typing out the Software Architecture document."
+  },
+  {
+    "date":"2014-07-04T01:07:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did you ever have git undo changes upto last commit."
+  },
+  {
+    "date":"2014-07-04T01:08:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Do you mean it did that to you or you want to do that?"
+  },
+  {
+    "date":"2014-07-04T01:08:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I was reverting commits and then tried rest and something else and all my changes since the last committ are gone."
+  },
+  {
+    "date":"2014-07-04T01:09:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"It put comments like this:"
+  },
+  {
+    "date":"2014-07-04T01:09:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"\t\\n<<<<<<< Deliverable2\\n\tPurchaseOrder activePurchaseOrder;\\n\t\\n\tpublic CoffeeCart() {\t\\n\t\tcoffeeList.add(new Coffee(\"Caramel Macchiato\", new Money(4)));\\n\t\tcoffeeList.add(new Coffee(\"Cinnamon Dolce Latte\", new Money(3)));\\n\t\tcoffeeList.add(new Coffee(\"Cafe Latte\", new Money(2)));\\n\t\tcoffeeList.add(new Coffee(\"Cafe Americano\", new Money(1)));\\n\t\tcoffeeList.add(new Coffee(\"Regular\", new Money(1)));\\n=======\\n\tpublic CoffeeCart() {\\n\t\tcoffeeList.add(new Coffee(\"regular\", new Money(2)));\\n\t\tcoffeeList.add(new Coffee(\"dark\", new Money(1)));\\n\t\tcoffeeList.add(new Coffee(\"light\", new Money(3)));\\n>>>>>>> 86c463a Updated CoffeeCart Class. Added CoffeCartManager Class.\\n\t\t\\n\t\tdessertList.add(new Dessert(\"Carrot Cake Muffin\", new Money(5)));\\n\t\tdessertList.add(new Dessert(\"Blueberry Scone\", new Money(2)));\\n\t\tdessertList.add(new Dessert(\"Bannana Nut Bread\", new Money(4)));\\n\t\tdessertList.add(new Dessert(\"Classic Coffee Cake\", new Money(1)));\\n\t\t\\n\t\taddVIPCustomer(\"Lionel Messi\",\"00001\");\\n\t\taddVIPCustomer(\"Cristiano Ronaldo\",\"00002\");\\n\t\taddVIPCustomer(\"Xavi Hernandez\",\"00003\");\\n\t\taddVIPCustomer(\"Luis Suarez\",\"00004\");\\n\\n\t}"
+  },
+  {
+    "date":"2014-07-04T01:10:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"you can see original then changes then some more changes dont even show...gone."
+  },
+  {
+    "date":"2014-07-04T01:10:36+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any idea if I can undo."
+  },
+  {
+    "date":"2014-07-04T01:11:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Does https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable2\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/model\/cart reflect your original code?"
+  },
+  {
+    "date":"2014-07-04T01:12:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"checking..."
+  },
+  {
+    "date":"2014-07-04T01:12:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it says last updated 13 hours ago. not sure how long ago the previous push was"
+  },
+  {
+    "date":"2014-07-04T01:12:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It sounds like it may have a had a merge conflict, so when you saw the output above, did you do into the file it was talking about and remove one set of changes (usually you'd have to remove the one you don't want and leave what you want to keep and then you should be able to try committing again)"
+  },
+  {
+    "date":"2014-07-04T01:13:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did not know git could mess with your code like this."
+  },
+  {
+    "date":"2014-07-04T01:14:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will restart with new clone."
+  },
+  {
+    "date":"2014-07-04T01:14:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So had you done some intermediate commits and it was just the push that caused issues?"
+  },
+  {
+    "date":"2014-07-04T01:15:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"It wouldnt push due to fast forward something...so I had to local commits that I tried to undo."
+  },
+  {
+    "date":"2014-07-04T01:15:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"All through egit..."
+  },
+  {
+    "date":"2014-07-04T01:16:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Not to worry most of the work I did this afternoon so it will come back to me...and I will push again."
+  },
+  {
+    "date":"2014-07-04T01:16:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok sounds good ;-)"
+  },
+  {
+    "date":"2014-07-04T01:17:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Basically I have the cofee activity working...want you guys to try it and see if it is OK and I will replicate it across all the other activities."
+  },
+  {
+    "date":"2014-07-04T01:17:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"We can do that ;-)"
+  },
+  {
+    "date":"2014-07-04T01:17:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"In terms of the other documents and stuff for the week"
+  },
+  {
+    "date":"2014-07-04T01:18:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I feel like we're pretty close to having them all done"
+  },
+  {
+    "date":"2014-07-04T01:18:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will push it tonite may be you can try tomorow."
+  },
+  {
+    "date":"2014-07-04T01:19:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Almost complete use-case model (completed)\\nSupplementary requirements (completed)\\nSoftware architecture (to-do)\\nInitial design model (?)\\nTest cases (completed)\\nExecutable prototype (in-progress)\\nRevised risk assessment (?)\\nRevised project plan (?)\\nPreliminary user manua (completed)l\\n"
+  },
+  {
+    "date":"2014-07-04T01:19:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"The project plan I revised the graphic, and you uploaded a .md version"
+  },
+  {
+    "date":"2014-07-04T01:20:17+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I am still working on the revised risk assessment, will have it ready by our next meet :)"
+  },
+  {
+    "date":"2014-07-04T01:20:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will catch up with you guys later.  Back to coding."
+  },
+  {
+    "date":"2014-07-04T01:20:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Alright, ttyl Murali :-)"
+  },
+  {
+    "date":"2014-07-04T01:20:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah. that's what I'm working on tonight\/romorrow"
+  },
+  {
+    "date":"2014-07-04T01:21:00+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ya me too"
+  },
+  {
+    "date":"2014-07-04T01:21:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"just making sure, since it can sneak up on you ;-)"
+  },
+  {
+    "date":"2014-07-04T01:22:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter There was an additional ProjectPlan graphic revision (after Deliverable1)?"
+  },
+  {
+    "date":"2014-07-04T01:22:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"And I think the .md version you're referring to is the ProcessPlan document I added the other day?"
+  },
+  {
+    "date":"2014-07-04T01:23:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"there was. I've been having problems with getting git to work with these branches (both command line and egit)"
+  },
+  {
+    "date":"2014-07-04T01:23:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i thought i uploaded it. let me check."
+  },
+  {
+    "date":"2014-07-04T01:23:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and yes, the one you put as well. I figured both would be better than one."
+  },
+  {
+    "date":"2014-07-04T01:23:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Maybe you updated it in the Deliverable1 folder?"
+  },
+  {
+    "date":"2014-07-04T01:24:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If not, then it probably isn't in there yet"
+  },
+  {
+    "date":"2014-07-04T01:24:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I wonder what causes all of those git issues."
+  },
+  {
+    "date":"2014-07-04T01:25:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":31034,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/nqNeqIJcGkSZ0Rc\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"i have no idea.  This was the updated version."
+  },
+  {
+    "date":"2014-07-04T01:26:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks! Do you want me to go ahead and plop it in?"
+  },
+  {
+    "date":"2014-07-04T01:26:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so, how do I check out the deliverable2 branch."
+  },
+  {
+    "date":"2014-07-04T01:26:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's fine. but I eventually need tolearn how to do this right"
+  },
+  {
+    "date":"2014-07-04T01:27:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"since I've messed up a couple of times already."
+  },
+  {
+    "date":"2014-07-04T01:27:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"You seemed to have checked it out properly with your commits a little while ago (all of those were made into Deliverable2 just fine)"
+  },
+  {
+    "date":"2014-07-04T01:27:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"but now I cna't access it."
+  },
+  {
+    "date":"2014-07-04T01:27:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so I'm starting fresh in a new folder."
+  },
+  {
+    "date":"2014-07-04T01:27:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"After doing a git clone (or a git pull) I believe you should be able to run \"git branch\" and see Deliverable2 listed as an available branch"
+  },
+  {
+    "date":"2014-07-04T01:28:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and then you can run \"git checkout Deliverable2\" to switch to it"
+  },
+  {
+    "date":"2014-07-04T01:28:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"At that point any changes you make should be made to that branch"
+  },
+  {
+    "date":"2014-07-04T01:28:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"git checkout Deliverable2 gives error: pathspec 'Deliverable2' did not match any files known to git"
+  },
+  {
+    "date":"2014-07-04T01:29:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"git branch only shows master."
+  },
+  {
+    "date":"2014-07-04T01:29:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"try running \"git pull origin\" first"
+  },
+  {
+    "date":"2014-07-04T01:29:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Already up to date."
+  },
+  {
+    "date":"2014-07-04T01:30:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"git branch still shows *master only"
+  },
+  {
+    "date":"2014-07-04T01:30:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok, try \"git fetch\" instead"
+  },
+  {
+    "date":"2014-07-04T01:30:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(I'm trying to get it so that git pulls in those remote branches for you)"
+  },
+  {
+    "date":"2014-07-04T01:30:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(I'm just trying to figure out what the right command to do so is)"
+  },
+  {
+    "date":"2014-07-04T01:30:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"no, still only master."
+  },
+  {
+    "date":"2014-07-04T01:30:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's my problem. "
+  },
+  {
+    "date":"2014-07-04T01:31:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"\"git fetch origin\" perhaps?"
+  },
+  {
+    "date":"2014-07-04T01:31:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm going off of this thread:\\nhttp:\/\/stackoverflow.com\/questions\/1783405\/checkout-remote-git-branch"
+  },
+  {
+    "date":"2014-07-04T01:32:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i can check out 'remotes\/origin\/Deliverable2"
+  },
+  {
+    "date":"2014-07-04T01:32:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that should work ;-)"
+  },
+  {
+    "date":"2014-07-04T01:32:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Deliverable2 folder is empty."
+  },
+  {
+    "date":"2014-07-04T01:33:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"not good :-S"
+  },
+  {
+    "date":"2014-07-04T01:34:17+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"did you try using egit @TonyPotter , a fresh close should allow you to, that what i do"
+  },
+  {
+    "date":"2014-07-04T01:34:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*clone"
+  },
+  {
+    "date":"2014-07-04T01:34:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i can, but then I'm not sure what directory it's putting stuff in my hierarchy.  somewhere different in my workspace each time."
+  },
+  {
+    "date":"2014-07-04T01:34:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and I have to go hunting"
+  },
+  {
+    "date":"2014-07-04T01:35:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yeah, I don't think you should have that issue (I'm pretty sure as soon as you create a fresh clone of https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22 it should show both branches there for you)"
+  },
+  {
+    "date":"2014-07-04T01:37:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, i tried to push the pdf."
+  },
+  {
+    "date":"2014-07-04T01:37:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"please see if you can pull."
+  },
+  {
+    "date":"2014-07-04T01:37:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Not seeing any commit activity on GitHub"
+  },
+  {
+    "date":"2014-07-04T01:38:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Want to start a join.me session? https:\/\/www.join.me\/"
+  },
+  {
+    "date":"2014-07-04T01:38:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I can get a visual and see if there's anything quick we can try if you'd like"
+  },
+  {
+    "date":"2014-07-04T01:40:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"doesn't work for linux. "
+  },
+  {
+    "date":"2014-07-04T01:41:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"mistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ cp ~\/Desktop\/Project\\ Plan\\ -\\ Team\\ 22\\ Project\\ 2.pdf .\\nmistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ ls\\nProject Plan - Team 22 Project 2.pdf  README.md\\nmistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ git add Project\\ Plan\\ -\\ Team\\ 22\\ Project\\ 2.pdf \\nmistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ git commit \\n[remotes\/origin\/Deliverable2 8bed342] Trying to push to Deliverable2\\n 1 file changed, 0 insertions(+), 0 deletions(-)\\n create mode 100644 6300Sum14Project2\/Deliverable2\/Project Plan - Team 22 Project 2.pdf\\nmistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ git push\\nwarning: push.default is unset; its implicit value is changing in\\nGit 2.0 from 'matching' to 'simple'. To squelch this message\\nand maintain the current behavior after the default changes, use:\\n\\n  git config --global push.default matching\\n\\nTo squelch this message and adopt the new behavior now, use:\\n\\n  git config --global push.default simple\\n\\nWhen push.default is set to 'matching', git will push local branches\\nto the remote branches that already exist with the same name.\\n\\nIn Git 2.0, Git will default to the more conservative 'simple'\\nbehavior, which only pushes the current branch to the corresponding\\nremote branch that 'git pull' uses to update the current branch.\\n\\nSee 'git help config' and search for 'push.default' for further information.\\n(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode\\n'current' instead of 'simple' if you sometimes use older versions of Git)\\n\\nUsername for 'https:\/\/github.com': mistapotta\\nPassword for 'https:\/\/mistapotta@github.com': \\nEverything up-to-date\\nmistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$"
+  },
+  {
+    "date":"2014-07-04T01:41:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"hmm..."
+  },
+  {
+    "date":"2014-07-04T01:41:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"how do I get the checksum for the last push?"
+  },
+  {
+    "date":"2014-07-04T01:41:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"git log -1"
+  },
+  {
+    "date":"2014-07-04T01:41:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"mistapotta@zathrus:~\/6300\/cs6300-summer-team22\/6300Sum14Project2\/Deliverable2$ git log -1\\ncommit 8bed3428677e8a0dca17bd91896172f39239c204\\nAuthor: Tony D. Potter <tpotter8@mail.gatech.edu>\\nDate:   Thu Jul 3 20:36:38 2014 -0500\\n\\n    Trying to push to Deliverable2\\n"
+  },
+  {
+    "date":"2014-07-04T01:42:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So that's the commit"
+  },
+  {
+    "date":"2014-07-04T01:42:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah."
+  },
+  {
+    "date":"2014-07-04T01:42:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and then after that you did a push?"
+  },
+  {
+    "date":"2014-07-04T01:42:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, from my copypaste above."
+  },
+  {
+    "date":"2014-07-04T01:43:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ah..."
+  },
+  {
+    "date":"2014-07-04T01:44:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok that may have to do with the new changes in git 2.0 (you did say yo urecently started running into issues, so your box may have updated to it recently and introduced some of those new behavior changes)"
+  },
+  {
+    "date":"2014-07-04T01:46:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It may be that the push behavior needs a bit more info to do things correctly"
+  },
+  {
+    "date":"2014-07-04T01:47:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"on my end I've been typing \"git push origin Deliverable2\" everytime I push (you may need to adjust that command for your machine)"
+  },
+  {
+    "date":"2014-07-04T01:47:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Git 2.0 version probably does explain the issues you've been having recently though"
+  },
+  {
+    "date":"2014-07-04T01:47:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've been having those messages all year though"
+  },
+  {
+    "date":"2014-07-04T01:47:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and had no problems with Project 1 or other HW"
+  },
+  {
+    "date":"2014-07-04T01:48:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"can you check now? "
+  },
+  {
+    "date":"2014-07-04T01:48:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I can see it :)"
+  },
+  {
+    "date":"2014-07-04T01:49:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup it's there now"
+  },
+  {
+    "date":"2014-07-04T01:49:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll have to edit it again though. I thought I'd be able to help Murali with his prototype, but he's doing all the work."
+  },
+  {
+    "date":"2014-07-04T01:49:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It was looking like after this bit he was going to turn it over to the rest of us ;-)"
+  },
+  {
+    "date":"2014-07-04T01:49:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(He mentioned that on Tuesday)"
+  },
+  {
+    "date":"2014-07-04T01:50:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-04T01:50:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Was he also working on the Initial Design Model?"
+  },
+  {
+    "date":"2014-07-04T01:50:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yes, it's part of his prototype."
+  },
+  {
+    "date":"2014-07-04T01:50:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I guess he is (referred myself to our own Project Plan ;-)"
+  },
+  {
+    "date":"2014-07-04T01:52:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Thanks for helping me. I'm feeling quite inept right now.  I'll be back tomorrow to run Murali's prototype."
+  },
+  {
+    "date":"2014-07-04T01:52:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So I think we're good at this point and are really just waiting on Murali's last additions which should be coming soon."
+  },
+  {
+    "date":"2014-07-04T01:53:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Was there anything else we needed to reivew?"
+  },
+  {
+    "date":"2014-07-04T01:53:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"oh"
+  },
+  {
+    "date":"2014-07-04T01:53:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I guess if you could look over the tests I put up and see if anything else needs to be covered."
+  },
+  {
+    "date":"2014-07-04T01:53:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I covered as many cases as I thought could cover"
+  },
+  {
+    "date":"2014-07-04T01:54:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and pls check for spelling mistakes. they're the bane of my existence."
+  },
+  {
+    "date":"2014-07-04T01:54:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Will do, I'll go ahead and give it a thorough review ;-)"
+  },
+  {
+    "date":"2014-07-04T01:54:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had to add that file from the website, not through egit or command line."
+  },
+  {
+    "date":"2014-07-04T01:54:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"s'why it got on correclty."
+  },
+  {
+    "date":"2014-07-04T01:54:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"thanks. "
+  },
+  {
+    "date":"2014-07-04T01:54:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"gotcha"
+  },
+  {
+    "date":"2014-07-04T01:54:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and I'll type up the System Architecture when I have Murali's files."
+  },
+  {
+    "date":"2014-07-04T01:55:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"perfect ;-)"
+  },
+  {
+    "date":"2014-07-04T01:56:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also folks please look in the use-case and use-case descriptions if you have a chance to see if you want any change on it"
+  },
+  {
+    "date":"2014-07-04T01:56:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"will have the revised risk assesment when we meet next :)"
+  },
+  {
+    "date":"2014-07-04T01:56:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Will do :-)"
+  },
+  {
+    "date":"2014-07-04T01:56:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"will do."
+  },
+  {
+    "date":"2014-07-04T01:57:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm probably going to have to head out now (I think there's a movie in the park going on the little one wants to go to)...I hope you all have a Happy 4th of July! \\n\\n(We'll meet at the same time on Saturday?)"
+  },
+  {
+    "date":"2014-07-04T01:57:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sure."
+  },
+  {
+    "date":"2014-07-04T01:58:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"sounds good and enjoy the movie :)"
+  },
+  {
+    "date":"2014-07-04T01:58:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"thanks :D"
+  },
+  {
+    "date":"2014-07-04T03:25:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony:"
+  },
+  {
+    "date":"2014-07-04T03:25:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed files.  Should give you an idea of the architecture."
+  },
+  {
+    "date":"2014-07-04T03:26:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Eventually Omar will implement the Database class in SQL."
+  }
+]

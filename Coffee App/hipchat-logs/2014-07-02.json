@@ -1,0 +1,852 @@
+[
+  {
+    "date":"2014-07-02T00:42:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"ProcessPlan.pdf",
+      "size":579936,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/xuxit6lWKkxLpza\/ProcessPlan.pdf"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-02T00:43:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"UserManual.pdf",
+      "size":322698,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/J9vh69EOiKPXYkO\/UserManual.pdf"
+    },
+    "message":"Just uploading the Process Plan and User Manual initial drafts (I have Word document versions I am planning to upload into the Deliverable2 in-progress folder...I've just been without a connection at home still so I'm at Starbucks again)"
+  },
+  {
+    "date":"2014-07-02T00:43:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I has an incident at school today where I had to wait with a student for a bus for over an hour today in the sun.  I am not felling well, so I don't think I can make today's meeting. "
+  },
+  {
+    "date":"2014-07-02T00:44:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For the User Manual I took a few liberties in how I felt the app should work so I'd definitely like a closer review to see if what's mentioned is in line with what you guys think too"
+  },
+  {
+    "date":"2014-07-02T00:44:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"If Murali can e-mail me how to load his project so I can add the classes I wrote, I can't seem to get it to run from the Android version of Eclipse I have. "
+  },
+  {
+    "date":"2014-07-02T00:44:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm sorry.  I'll come on tomorrow morning and see what I missed."
+  },
+  {
+    "date":"2014-07-02T00:45:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I was able to get the last version he sent into the repository and running in Eclipse\/GenyMotion without much issue (I don't know if Murali has sent another version yet within the last day)."
+  },
+  {
+    "date":"2014-07-02T00:45:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hope you feel better!"
+  },
+  {
+    "date":"2014-07-02T00:46:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Thanks. The Process Plan looks good."
+  },
+  {
+    "date":"2014-07-02T00:46:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll see you all tomorrow."
+  },
+  {
+    "date":"2014-07-02T00:48:12+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Reading the piazza  i realized that we need to add descriptions in out use-case model, i'll be working on that next couple of days"
+  },
+  {
+    "date":"2014-07-02T00:49:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also i have few supplimentary requirements in mind, probably we should wait for Murali to see how easy are those to implement\/code"
+  },
+  {
+    "date":"2014-07-02T00:50:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Nice catch, I haven't been keeping up with Piazza the past two weeks like I normally had been. (Partially because I haven't had as many questions as I normally do, but as I saw on Sunday there are certain answers it's nice to see, since they help guide the type of work that needs to be done)"
+  },
+  {
+    "date":"2014-07-02T00:50:31+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ya i would have totally missed the description if not for the Piazza lol"
+  },
+  {
+    "date":"2014-07-02T00:51:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Great! One extra requirement I ended up thinking of while I was creating the manual was the need to select a location for the app (so the orders\/pre-orders can get associated with the proper location)"
+  },
+  {
+    "date":"2014-07-02T00:52:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"That is a good one @OmarRamos, nice!! I'll add that as well"
+  },
+  {
+    "date":"2014-07-02T00:53:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"One more that i thought was an option where, \"every 100\/200 (we can choose) points you can have a dessert for free\""
+  },
+  {
+    "date":"2014-07-02T00:56:05+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Another one, After 5000 points, we don;t know what happens with the points, so after 5000 points when you are in VIP level, you can redeem your points, \"convert the points earned into giftcards where each points equal to penny"
+  },
+  {
+    "date":"2014-07-02T00:56:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Another, for VIP customers, \"free delivery within 5 miles radius\""
+  },
+  {
+    "date":"2014-07-02T00:59:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hmmm, the dessert for free option one might be doable, but the point redemption one would add quite a bit of additional complexity (because then you'd have to keep track of point usage) and the free delivery one we wouldn't really be able to test\/verify so it probably wouldn't work either."
+  },
+  {
+    "date":"2014-07-02T01:01:31+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, ya we don't want anything that would me the project more complex, so probably we can add just couple (2\/3) supplementary requirements one being location, other free dessert and next we can come up with something easy"
+  },
+  {
+    "date":"2014-07-02T01:01:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*make"
+  },
+  {
+    "date":"2014-07-02T01:07:07+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So @MuraliRaju what do you think about the two supplementary requirements are they doable?"
+  },
+  {
+    "date":"2014-07-02T01:07:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Reading..."
+  },
+  {
+    "date":"2014-07-02T01:08:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Location...will make it complex;  "
+  },
+  {
+    "date":"2014-07-02T01:09:11+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Free Dessert...easy."
+  },
+  {
+    "date":"2014-07-02T01:09:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did nor push a new proto."
+  },
+  {
+    "date":"2014-07-02T01:10:08+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hmm, so probably we would want something that would be easier, so lets brainwash couple others"
+  },
+  {
+    "date":"2014-07-02T01:10:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"How about additional reports."
+  },
+  {
+    "date":"2014-07-02T01:11:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"thats interesting, like what?"
+  },
+  {
+    "date":"2014-07-02T01:11:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Most sold items."
+  },
+  {
+    "date":"2014-07-02T01:11:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Recalculating the best seller, thats a good one too"
+  },
+  {
+    "date":"2014-07-02T01:12:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I think I already put one additional report in there...let me check."
+  },
+  {
+    "date":"2014-07-02T01:13:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I had VIP list and Bestsellers as two additional reports."
+  },
+  {
+    "date":"2014-07-02T01:13:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju As a sidebar, I'm currently doing some research about using MySQL with Android and I'm seeing very little information on creating a direct MySQL connection within the Java code, all of the approaches I'm seeing show creating a simple API on the server side and having the Android code create an HTTP Client and send POST requests and receive JSON in response."
+  },
+  {
+    "date":"2014-07-02T01:13:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"How man do we need."
+  },
+  {
+    "date":"2014-07-02T01:14:23+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"3\/4 should do it"
+  },
+  {
+    "date":"2014-07-02T01:14:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I listed a few additional reports as well in the Initial User Manual draft above (they're listed at the end)"
+  },
+  {
+    "date":"2014-07-02T01:14:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I like the most sold items one"
+  },
+  {
+    "date":"2014-07-02T01:15:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar - Mt SQL sounds complicated for our project."
+  },
+  {
+    "date":"2014-07-02T01:15:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any other options to store data."
+  },
+  {
+    "date":"2014-07-02T01:15:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any talk in Piaz."
+  },
+  {
+    "date":"2014-07-02T01:16:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Supliment:"
+  },
+  {
+    "date":"2014-07-02T01:16:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"1. Free dessert"
+  },
+  {
+    "date":"2014-07-02T01:16:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"2. Bessellers"
+  },
+  {
+    "date":"2014-07-02T01:16:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"MySQL would actually not be too bad (from my perspective, since I have the hosting service already available and could create the API endpoints that could be talked to over HTTP). The only internal to Android data storage option we would have is SQLite, but that wouldn't lend itself to a central data store (with multiple cart locations)"
+  },
+  {
+    "date":"2014-07-02T01:17:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Lets implement this round with SQLite.  "
+  },
+  {
+    "date":"2014-07-02T01:18:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"https:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=507"
+  },
+  {
+    "date":"2014-07-02T01:18:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will work with you on MySQL after we have the proto done."
+  },
+  {
+    "date":"2014-07-02T01:18:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Also this answer from Professor Orso indicates the central database is more of a nice to have: https:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=445"
+  },
+  {
+    "date":"2014-07-02T01:21:27+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Going back to supplementary requirements, i think, a report to show all the new VIP customer created in a day, would be a good one too"
+  },
+  {
+    "date":"2014-07-02T01:21:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like we dont have to do distributed data."
+  },
+  {
+    "date":"2014-07-02T01:21:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We can stick with SQLite?"
+  },
+  {
+    "date":"2014-07-02T01:22:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra lets make that No. 3"
+  },
+  {
+    "date":"2014-07-02T01:22:17+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok"
+  },
+  {
+    "date":"2014-07-02T01:22:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"We could (we can leave that in the nice to have department if we want to go the extra mile towards the end and everything is already solid ;-))"
+  },
+  {
+    "date":"2014-07-02T01:23:53+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"great, so three supplimentary would be enough for us, what do you guys think?"
+  },
+  {
+    "date":"2014-07-02T01:24:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"https:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=520"
+  },
+  {
+    "date":"2014-07-02T01:24:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think that's a fair amount to keep us busy ;-)"
+  },
+  {
+    "date":"2014-07-02T01:24:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will upload a proto with data classes tomorrow."
+  },
+  {
+    "date":"2014-07-02T01:25:14+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"In the Piazza her emphasizes on if any, so i think 3 is enough for us"
+  },
+  {
+    "date":"2014-07-02T01:25:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Me too"
+  },
+  {
+    "date":"2014-07-02T01:25:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Sounds great :-)"
+  },
+  {
+    "date":"2014-07-02T01:25:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Not sure why Tony is having a problem.  I tried the proto in Mac and Windows and it worked."
+  },
+  {
+    "date":"2014-07-02T01:26:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"FOR TONY:"
+  },
+  {
+    "date":"2014-07-02T01:26:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"update all - eclipse, ADK, Plugin..."
+  },
+  {
+    "date":"2014-07-02T01:26:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Clean project..."
+  },
+  {
+    "date":"2014-07-02T01:27:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Delete and reinstall AVD..."
+  },
+  {
+    "date":"2014-07-02T01:28:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Please wait for my starter classes..."
+  },
+  {
+    "date":"2014-07-02T01:29:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The only issue I ran into is I had to overwrite the example project I already had in the repo when I brought your copy in, so there were a few things I had to delete afterwards to clean things up, but it did run without any issues after that."
+  },
+  {
+    "date":"2014-07-02T01:29:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully we'll be able to help him work out any issues he might run into the next time he's able to try."
+  },
+  {
+    "date":"2014-07-02T01:30:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"On the PROTO - I got stuck switching to Fragments instead of Activities....now I am thinking of going back but want to give it one more try...If it doesnt work we will use the Activities which we know work."
+  },
+  {
+    "date":"2014-07-02T01:31:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"With Fragments I dont have to recreate the menu every time."
+  },
+  {
+    "date":"2014-07-02T01:31:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If this sounds greek...ignore."
+  },
+  {
+    "date":"2014-07-02T01:32:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Let me pull up eclipse so I can take a closer look at what you mean."
+  },
+  {
+    "date":"2014-07-02T01:32:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I ended up using Fragments for the first project, which was kind of interesting"
+  },
+  {
+    "date":"2014-07-02T01:32:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"You cant....I didnt push it."
+  },
+  {
+    "date":"2014-07-02T01:32:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"but it seemed like it made some other stuff more difficult for me but that's probably because I'm still pretty new to working with Java"
+  },
+  {
+    "date":"2014-07-02T01:32:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Gotcha"
+  },
+  {
+    "date":"2014-07-02T01:32:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok then, nevermind ;-)"
+  },
+  {
+    "date":"2014-07-02T01:33:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Anything else...I plan to have a working Proto soon Before Thursday."
+  },
+  {
+    "date":"2014-07-02T01:34:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Can you guys take it from there ... on the weekend"
+  },
+  {
+    "date":"2014-07-02T01:34:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any plans for the weekend..."
+  },
+  {
+    "date":"2014-07-02T01:34:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I hope so (about being able to take it from there)"
+  },
+  {
+    "date":"2014-07-02T01:35:10+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@MuraliRaju "
+  },
+  {
+    "date":"2014-07-02T01:35:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"you will include the new supplimentary requirements too right?"
+  },
+  {
+    "date":"2014-07-02T01:35:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Do we need to at Proto?"
+  },
+  {
+    "date":"2014-07-02T01:35:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"As for Plans, we may drive up to San Diego and stay at my sister's house for the weekend, but I should still be available to help get everything all finalized and turned in so no worries there ;-)"
+  },
+  {
+    "date":"2014-07-02T01:36:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"There's still some more World Cup matches to watch too ;-)"
+  },
+  {
+    "date":"2014-07-02T01:36:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"SD - best place in the country (for weather atleast)"
+  },
+  {
+    "date":"2014-07-02T01:36:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I don't think we need to include them yet at this stage"
+  },
+  {
+    "date":"2014-07-02T01:36:37+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i will have the use-case updated with the supplimentary requirements, add the requirements itself, add documentatoin in use-case and so on by thursday\/friday"
+  },
+  {
+    "date":"2014-07-02T01:36:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"but definitely would incorporate them into next week and\/or final version"
+  },
+  {
+    "date":"2014-07-02T01:36:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Lets plan on it for next round..."
+  },
+  {
+    "date":"2014-07-02T01:37:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I need something to do...rest of the project."
+  },
+  {
+    "date":"2014-07-02T01:37:27+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ya that should be fine"
+  },
+  {
+    "date":"2014-07-02T01:37:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Becasue My proto will be the final thing... :p "
+  },
+  {
+    "date":"2014-07-02T01:38:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"That confident ;-)"
+  },
+  {
+    "date":"2014-07-02T01:38:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":":D "
+  },
+  {
+    "date":"2014-07-02T01:38:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Just Kiddin ofcourse...I want you guys to enjoy programming also; so I might switch to docs."
+  },
+  {
+    "date":"2014-07-02T01:39:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"And Tony will be working on the Test Cases part for this week IIRC"
+  },
+  {
+    "date":"2014-07-02T01:39:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Alright...off to bed; have to go to work early."
+  },
+  {
+    "date":"2014-07-02T01:40:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Good night!"
+  },
+  {
+    "date":"2014-07-02T01:40:20+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Alright, good night guys!!"
+  },
+  {
+    "date":"2014-07-02T01:40:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Good night ;-)"
+  }
+]

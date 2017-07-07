@@ -1,0 +1,135 @@
+[
+  {
+    "date":"2014-07-18T05:05:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"For some reason my hipchat chats aren't showing up here.  For example, I asked if everyone got 100 on the Assign 4 so we can make changes to our UML if necessary"
+  },
+  {
+    "date":"2014-07-18T05:06:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Also, I've pushed a few things (updated Money to bigDecimal, changes to DatabaseHelperJSON0 but they're not being mentioned here if I put them here."
+  },
+  {
+    "date":"2014-07-18T18:02:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"No 100 here."
+  },
+  {
+    "date":"2014-07-18T18:02:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"me neither, so I was wondering if we should make sure our UML doens't have the issues we got penalized for."
+  },
+  {
+    "date":"2014-07-18T18:21:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did not complete my UML : I don't have patience for documentation as you must have figured from my code by now.  So I lost points.  No issues otherwise."
+  },
+  {
+    "date":"2014-07-18T18:44:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Assignment 4 I think corresponds the most with the Initial Design Model doc:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/master\/6300Sum14Project2\/Deliverable2\/InitialDesignModel.pdf"
+  },
+  {
+    "date":"2014-07-18T18:45:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The main thing I got penalized on was not including a daily report method I think (even though I had two other methods shown for getTodaysPurchasedItems() and getTodaysPreorders() in the diagram)"
+  },
+  {
+    "date":"2014-07-18T18:49:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Hopefully your replies won't have anymore issues ;-). I'll be back to check out your updates later tonight and see where I can start providing some assistance (if the Java JSON work has been slow going I can help out)"
+  },
+  {
+    "date":"2014-07-18T22:50:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony guru how is the db coming..."
+  },
+  {
+    "date":"2014-07-18T22:50:34+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It's going ok. I still have to implement the daily purchases but then it should go well. I converted all the money in your program to BigDecimal"
+  },
+  {
+    "date":"2014-07-18T22:51:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Chandra if you have time you might want to update the UML diagram so it doens't have what we had missing for assignment 4."
+  },
+  {
+    "date":"2014-07-18T23:08:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sure Tony, let me check that out later tonight and will update it to best of my abilities ;)"
+  },
+  {
+    "date":"2014-07-18T23:09:31+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@MuraliRaju can you please upload the UML file here?"
+  },
+  {
+    "date":"2014-07-18T23:12:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Actually found it up there @MuraliRaju , no need. Thanks"
+  },
+  {
+    "date":"2014-07-18T23:14:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"Project2-DesignModel.zargo",
+      "size":90083,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/Z30mZtHG3eRPBAW\/Project2-DesignModel.zargo"
+    },
+    "message":"Chandra we will have to do a new UML after we finalize what we will submit...so hold on until tomo...meanwhile you can review it..."
+  },
+  {
+    "date":"2014-07-18T23:17:18+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, will check for any updates but i will renew it tomorrow when we have finalized everything"
+  }
+]

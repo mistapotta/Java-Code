@@ -1,0 +1,411 @@
+[
+  {
+    "date":"2014-06-23T00:50:52+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Did anyone watch the US Portugal soccer match, what a game, unlucky for US but i was a nail biter lol :)"
+  },
+  {
+    "date":"2014-06-23T00:51:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm not much of a soccer fan, sorry."
+  },
+  {
+    "date":"2014-06-23T00:51:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Basketball on the other hand :)"
+  },
+  {
+    "date":"2014-06-23T00:52:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Me neither i do watch the world cup, it was worth every minute though, we watched it in a park and people were going nuts"
+  },
+  {
+    "date":"2014-06-23T00:52:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"watched it ... missed the last goal though... walked away for a moment and..."
+  },
+  {
+    "date":"2014-06-23T00:53:08+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It was unfortunate Murali, we should have won"
+  },
+  {
+    "date":"2014-06-23T00:53:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hi everyone! After taking a look at the project description, it looks like the chat today will probably be pretty quick.\\n\\nWe'll all need to start off with watching this week's videos real quick and then proceed with another meeting on Tuesday so we can start with assigning the documents for deliverable 1 I'd think, that way we're all up to date with everything."
+  },
+  {
+    "date":"2014-06-23T00:53:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The soccer game was pretty exciting :-)"
+  },
+  {
+    "date":"2014-06-23T00:53:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"nice goals on the US side, but a bummer at the end with the tie"
+  },
+  {
+    "date":"2014-06-23T00:53:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"agree...I did not watch the videos yet.."
+  },
+  {
+    "date":"2014-06-23T00:54:00+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Yup, but we can do it lol"
+  },
+  {
+    "date":"2014-06-23T00:54:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I've prepped the repository already with the new project 2 folder (along with the subfolders for the 4 sets of Deliverables):\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22"
+  },
+  {
+    "date":"2014-06-23T00:55:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar we need to have some rules and instructions on the github so we are effecient...push frequency...branching...etc"
+  },
+  {
+    "date":"2014-06-23T00:55:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good, we can watch the videos and divide work so we could get started"
+  },
+  {
+    "date":"2014-06-23T00:56:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I dont agree with push often..."
+  },
+  {
+    "date":"2014-06-23T00:57:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"deliverable appear to be documentation...prototype optional."
+  },
+  {
+    "date":"2014-06-23T00:57:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we should work on docs all week and get into proto on the wekend ... submit if we have a something...otherwise move on."
+  },
+  {
+    "date":"2014-06-23T00:58:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sounds good"
+  },
+  {
+    "date":"2014-06-23T00:58:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"luckily with the documentation we shouldn't have too many issues coordinating that"
+  },
+  {
+    "date":"2014-06-23T00:58:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"if folks don't want to mess too much with working with a local copy of the repo we can all work on the documents directly in GitHub"
+  },
+  {
+    "date":"2014-06-23T00:59:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So after AOE do you want to share the UML's we came up with on Assignment 4 so we can come to some consensus??"
+  },
+  {
+    "date":"2014-06-23T00:59:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"With the initial version I uploaded it's just a blank Android project so there's nothing there but everyone should be able to draw down a local copy of that and see the basic starter android project currently"
+  },
+  {
+    "date":"2014-06-23T00:59:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup"
+  },
+  {
+    "date":"2014-06-23T00:59:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think that would be a great idea @TonyPotter "
+  },
+  {
+    "date":"2014-06-23T00:59:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we can discuss then on Tuesday any common ideas we want to implement in our docs."
+  },
+  {
+    "date":"2014-06-23T01:01:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"goal to watch all videos by Tue and project plan Tue?"
+  },
+  {
+    "date":"2014-06-23T01:01:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"agreed :D"
+  },
+  {
+    "date":"2014-06-23T01:01:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju yup yup"
+  },
+  {
+    "date":"2014-06-23T01:01:53+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good and i will do some research on risk assessment "
+  },
+  {
+    "date":"2014-06-23T01:02:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Nice ;-)"
+  },
+  {
+    "date":"2014-06-23T01:02:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Anything else for the good of the order?"
+  },
+  {
+    "date":"2014-06-23T01:02:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"upload our umls?"
+  },
+  {
+    "date":"2014-06-23T01:03:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah @MuraliRaju  after AOE.  (I'm still working on mine. :)"
+  },
+  {
+    "date":"2014-06-23T01:03:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju If you're referring to Tony's comment, then yes, but uploads would only occur tomorrow afternoon or so once the assignment is past due"
+  },
+  {
+    "date":"2014-06-23T01:04:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Agreed"
+  },
+  {
+    "date":"2014-06-23T01:04:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ok...i did mine quickly and submitted it earlier...I dont think its detailed enough...then neither was the p3l2..."
+  },
+  {
+    "date":"2014-06-23T01:05:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So same time on Tuesday everyone?"
+  },
+  {
+    "date":"2014-06-23T01:05:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ok..."
+  },
+  {
+    "date":"2014-06-23T01:05:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"works for me.  see ya then."
+  },
+  {
+    "date":"2014-06-23T01:05:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good"
+  },
+  {
+    "date":"2014-06-23T01:05:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"gnite..."
+  },
+  {
+    "date":"2014-06-23T01:05:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Enjoy the rest of your sundays everyone :-)"
+  },
+  {
+    "date":"2014-06-23T01:06:14+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Gudnite"
+  },
+  {
+    "date":"2014-06-23T22:50:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"oramos6_assignment_04.pdf",
+      "size":147521,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/AzGrmhL0LCXB2kL\/oramos6_assignment_04.pdf"
+    },
+    "message":"Just uploading the PDF of my UML Diagrams from Assignment 4 for others to look at."
+  },
+  {
+    "date":"2014-06-23T23:17:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"P3L4_phases_within_a_cycle.png",
+      "size":273611,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/2JTK4oGqWt1H1Ud\/P3L4_phases_within_a_cycle.png"
+    },
+    "message":"Just going to upload some screenshots from the P3L4 videos."
+  },
+  {
+    "date":"2014-06-23T23:17:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"P3L4_inception_phase_01.png",
+      "size":985248,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/s1Wp65K8mWoMNoK\/P3L4_inception_phase_01.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-23T23:17:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"P3L4_inception_phase_02.png",
+      "size":821404,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/5c6UdmuTyK4kNr6\/P3L4_inception_phase_02.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-23T23:17:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"P3L4_inception_phase_03.png",
+      "size":976415,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/2fXW5oDd6RVI36m\/P3L4_inception_phase_03.png"
+    },
+    "message":""
+  }
+]

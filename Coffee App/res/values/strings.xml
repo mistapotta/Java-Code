@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BruBux</string>
+    <string name="title_activity_main">BruBux</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_vip">VipActivity</string>
+    <string name="action_vip">MANAGE VIP</string>
+    <string name="action_report">VIEW REPORT</string>
+    <string name="action_login">LOGIN</string>
+    <string name="action_coffee">BUY COFFEE</string>
+    <string name="action_purchase">CHECKOUT CART</string>
+    <string name="action_cancel">EMPTY CART</string>
+    <string name="action_dessert">BUY DESSERT</string>
+    <string name="title_activity_coffee">Buy Coffee</string>
+    <string name="title_activity_dessert">Buy Dessert</string>
+    <string name="title_activity_report">Reports</string>
+    <string name="title_activity_report_activity2">Report</string>
+    <string name="title_activity_vip_activity2">Manage VIP</string>
+    <string name="title_activity_vip_list_fragment">VIP List</string>
+    <string name="title_activity_vip_edit_fragment">VIP Details</string>
+
+</resources>

@@ -1,0 +1,402 @@
+[
+  {
+    "date":"2014-07-14T00:35:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Were there any updates to the Use Case Model for this week to turn in as the \"Complete Use Case Model\" Deliverable3?"
+  },
+  {
+    "date":"2014-07-14T00:36:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter How were we collecting the \"System Tests Results\", even if they're partial, for this week?"
+  },
+  {
+    "date":"2014-07-14T00:37:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm going to update the User Manual a bit with the new updates we now have"
+  },
+  {
+    "date":"2014-07-14T01:01:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I figured we'd just add tests results as passed, failed, or pending."
+  },
+  {
+    "date":"2014-07-14T01:02:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Did you want me to run the tests we have down or were you going thorugh some of them?"
+  },
+  {
+    "date":"2014-07-14T01:08:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I was just going through some of the basics (not really following the actual plan document yet). I can go ahead and take the Test Cases section of the TestPlan.md file from last week and create a new file in Deliverable3 with that with the results?"
+  },
+  {
+    "date":"2014-07-14T01:09:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Seems like a decent way to document the results, unless you think it's better to just copy over the TestPlan.md file into Deliverable3 and just update it?"
+  },
+  {
+    "date":"2014-07-14T01:10:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm planning on copying TestPlan.md into deliverable 3 and running the tests, pushing the results."
+  },
+  {
+    "date":"2014-07-14T01:10:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos i think the use-case model is pretty complete, don't think we need to make any changes to that"
+  },
+  {
+    "date":"2014-07-14T01:10:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I just commented out the errors in DatabaseHelperJSON so the project will compile and push that change."
+  },
+  {
+    "date":"2014-07-14T01:10:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok perfect ;-)"
+  },
+  {
+    "date":"2014-07-14T01:10:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"And I'm going through test cases now."
+  },
+  {
+    "date":"2014-07-14T01:10:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Thanks!"
+  },
+  {
+    "date":"2014-07-14T01:10:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota thanks for the update, so I should just copy over the file from last week it sounds like"
+  },
+  {
+    "date":"2014-07-14T01:11:14+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ya, that should be fine. How about the tracaebility, did you get a chance to look at it, it should be good enough but just in case"
+  },
+  {
+    "date":"2014-07-14T01:13:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos fixed the vipnumber match crash.   And pushed it. "
+  },
+  {
+    "date":"2014-07-14T01:13:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks!"
+  },
+  {
+    "date":"2014-07-14T01:14:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Well that's it from me for tonight. "
+  },
+  {
+    "date":"2014-07-14T01:14:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let's call it beta. "
+  },
+  {
+    "date":"2014-07-14T01:15:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota I'm taking a 2nd look at the traceability doc it looks good to me from what I can see...I'll go ahead and convert to PDF and add that to the Deliverable3 folder for us ;-)"
+  },
+  {
+    "date":"2014-07-14T01:15:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Murali, is there a VIP that already has gold or do I have to purchase $500 today to get it?"
+  },
+  {
+    "date":"2014-07-14T01:15:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos sounds good. Thanks"
+  },
+  {
+    "date":"2014-07-14T01:18:38+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Tests updated in Deliverabel3 folder with current test results.  Will revisit as the week goes on."
+  },
+  {
+    "date":"2014-07-14T01:19:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I also updated the Project Plan to reflect this week, although it's in the in-progress folder."
+  },
+  {
+    "date":"2014-07-14T01:20:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"no problem, let me know if you want me to move it over"
+  },
+  {
+    "date":"2014-07-14T01:21:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Just updated it again (for db work you've done) and put it in Deliverable3 folder."
+  },
+  {
+    "date":"2014-07-14T01:22:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what else do we need to submit by AOE tonight?"
+  },
+  {
+    "date":"2014-07-14T01:25:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"We have the Use Case Model, Traceability Info, the Initial Version of the Software (Beta Release), the Partial System Test results (you just added that in) and I'm working on updating the user manual which should be the last thing"
+  },
+  {
+    "date":"2014-07-14T01:25:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cool"
+  },
+  {
+    "date":"2014-07-14T01:26:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So I'll finish that up and get everything collected and merge in the branch so I can get that turned in for us in the next hour or so"
+  },
+  {
+    "date":"2014-07-14T01:27:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Sounds great. as usual you'll e-mail us confirmation?  You're the bomb!"
+  },
+  {
+    "date":"2014-07-14T01:27:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup, I'll send that over once it's complete. Another great week everyone (I felt like this one was particularly busy, haha)"
+  },
+  {
+    "date":"2014-07-14T01:28:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully this next week will be a little easier finalizing things (and assuming Assignment 6 isn't too difficult)"
+  },
+  {
+    "date":"2014-07-14T01:28:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Indeed. luckily my summer job is settling down.  this was a particularly hard week - i lost six students due to failures."
+  },
+  {
+    "date":"2014-07-14T01:29:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ouch"
+  },
+  {
+    "date":"2014-07-14T01:29:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it's a summer enrichment program, but some of the parentsthink of us as a summer outreach program, or even worse, 7 weeks of babysitting for $300."
+  },
+  {
+    "date":"2014-07-14T01:30:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"They have to pass the first logic exam with a grade of 75 or higher, they get an opportunity to get a retake.  six didn't succeed on either."
+  },
+  {
+    "date":"2014-07-14T01:30:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"of course, it adds 2 hrs\/day extra ttuoring on my part, and I had to write\/grade retests for 21 students.  So this week was especially busy for me.  "
+  },
+  {
+    "date":"2014-07-14T01:30:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Real life calls, as usual."
+  },
+  {
+    "date":"2014-07-14T01:30:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Anyway, enough about my troubles."
+  },
+  {
+    "date":"2014-07-14T01:31:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Feel free to vent anytime :-D"
+  },
+  {
+    "date":"2014-07-14T01:31:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Have fun with the family!"
+  },
+  {
+    "date":"2014-07-14T01:31:33+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hopefully next week will be easier for you Tony, ya vent away :)"
+  },
+  {
+    "date":"2014-07-14T01:31:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Lol, venting season _should_ be over now.."
+  },
+  {
+    "date":"2014-07-14T01:46:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos I broke the program with the last push - looking at it now."
+  },
+  {
+    "date":"2014-07-14T02:02:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks for the update Murali"
+  },
+  {
+    "date":"2014-07-14T02:02:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Done. Good to go.  "
+  },
+  {
+    "date":"2014-07-14T02:02:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed."
+  },
+  {
+    "date":"2014-07-14T02:03:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks, I'll go ahead and update our submission in a few minutes"
+  },
+  {
+    "date":"2014-07-14T02:32:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Submission was updated and I forwarded the notification email over to everyone. I've gone ahead and already created the Deliverable4 branch for the upcoming week so it'll be available."
+  }
+]

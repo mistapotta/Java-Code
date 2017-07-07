@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/action_login"
+          android:icon="@drawable/ic_action_add_person"
+          android:title="@string/action_vip"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_coffee"
+          android:icon="@drawable/ic_action_cup"
+          android:title="@string/action_coffee"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_dessert"
+          android:icon="@drawable/ic_action_muffin"
+          android:title="@string/action_dessert"
+          android:showAsAction="ifRoom" />
+	<item android:id="@+id/action_report"
+          android:icon="@drawable/ic_action_view_as_list"
+          android:title="@string/action_report"
+          android:showAsAction="ifRoom" />
+</menu>

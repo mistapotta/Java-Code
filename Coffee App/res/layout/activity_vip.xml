@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+
+    <EditText
+        android:id="@+id/editNameVip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editPhoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editNameVip"
+        android:layout_below="@+id/editNameVip"
+        android:layout_marginTop="57dp"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/mainVipName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editNameVip"
+        android:layout_below="@+id/editNameVip"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/mainDessertList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editPhoneNumber"
+        android:layout_below="@+id/editPhoneNumber"
+        android:text="Phone Number" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editBirthDate"
+        android:layout_below="@+id/editBirthDate"
+        android:text="Birth Date" />
+
+    <EditText
+        android:id="@+id/editBirthDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mainDessertList"
+        android:layout_below="@+id/mainDessertList"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:inputType="date" />
+
+    <Button
+        android:id="@+id/saveVipBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="26dp"
+        android:layout_toRightOf="@+id/textView4"
+        android:text="ADD" 
+        android:onClick="createVIP"/>
+
+</RelativeLayout>

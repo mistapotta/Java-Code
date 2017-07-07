@@ -1,0 +1,18 @@
+[
+  {
+    "date":"2014-07-15T22:11:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I took a look to double check I hadn't built something like that in. Currently I do not have a direct method with that capability but I can easily add one in.\\n\\nCurrently I just have the main one we need as part of the requirements:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/master\/6300Sum14Project2\/php-webservice-api\/docs\/reports.md#retrieve-list-of-purchases-made-today\\n\\nOr you can indirectly do it by getting the list of all purchases and then filtering it out in the application (but that's a wasteful approach because you have to send\/receive a lot more data):\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/master\/6300Sum14Project2\/php-webservice-api\/docs\/purchases.md#retrieve-list-of-purchases"
+  },
+  {
+    "date":"2014-07-15T22:11:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So I'll get that added in for you if you need it."
+  }
+]

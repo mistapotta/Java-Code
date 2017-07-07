@@ -1,0 +1,119 @@
+[
+  {
+    "date":"2014-07-11T19:15:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"Tracaebility.docx",
+      "size":103900,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/s5XO5cFC5W0PYah\/Tracaebility.docx"
+    },
+    "message":"This is what i have come up so far. I hope this is what he is looking for lol ;)"
+  },
+  {
+    "date":"2014-07-11T22:53:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@OmarRamos @MuraliRaju  I added DatabaseHelper class and put in methods to recover, create, update, and remove a customer.  Let me know what you think.  I'll need to add methods to manipulate the purchases as well."
+  },
+  {
+    "date":"2014-07-11T22:56:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony want to divide up the tasks so we don't conflict with code changes.\\nI am planning on working tonight and all day tommorow to finish the program.\\nLooks like I will be MIA next week.  So I want to finish this this weekend."
+  },
+  {
+    "date":"2014-07-11T22:57:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Ok. i thought you'd work on android specific changes, and I would work on java and db interactions"
+  },
+  {
+    "date":"2014-07-11T22:59:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I pushed a database helper class that can pull and push Customer objects to\/from db so the android pages can access customer details"
+  },
+  {
+    "date":"2014-07-11T22:59:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm working on the Purchases now, so we'll be able to get points, gold status, and reports"
+  },
+  {
+    "date":"2014-07-11T23:09:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter thanks for the update! ;-)"
+  },
+  {
+    "date":"2014-07-11T23:10:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK - I will work on Android and lets touch base again tomorrow afternoon.  I will review your Java classes also.  Just to be clear you will code all the data aspects and I will do the UI to grab your data."
+  },
+  {
+    "date":"2014-07-11T23:10:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-07-11T23:10:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Got it."
+  },
+  {
+    "date":"2014-07-11T23:11:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"And Omar will take your data and put it in the cloud."
+  },
+  {
+    "date":"2014-07-11T23:12:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right. there'll be static fields in DatabaseHelper for address, username, password, and such for mySQL"
+  },
+  {
+    "date":"2014-07-11T23:49:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@OmarRamos  my SQL is rather bad.  if you get a chance would you check the sql commands in DatabaseHelper to make sure I did them right?"
+  },
+  {
+    "date":"2014-07-11T23:51:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Sure, will do!"
+  }
+]

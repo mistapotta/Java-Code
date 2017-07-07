@@ -1,0 +1,178 @@
+[
+  {
+    "date":"2014-08-08T00:22:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos  I was unable create your issue.  Project compiles for me."
+  },
+  {
+    "date":"2014-08-08T00:24:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I believe it compiles for me too, but I tried debugging the setUp()  method in the ProjectsTest file (the line where it creates the Projects instance) and that's usually where the debugger would hiccup for me. I'll try just closing everything down and trying again later today since I think I remember a few weeks ago the debugger getting fixed after that had occurred. Thanks for the update!"
+  },
+  {
+    "date":"2014-08-08T00:28:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OutofBound Array exceptions there - no ClassNotFound."
+  },
+  {
+    "date":"2014-08-08T00:32:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all Whats the plan of attack put it all together."
+  },
+  {
+    "date":"2014-08-08T00:33:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"once we have the supporting classes working (they're implementing the new interfaces and the data is being collected into the classes from the Excel file) it should be pretty close to be being able to tie that back into the GUI."
+  },
+  {
+    "date":"2014-08-08T00:33:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The GradesDB extra credit for this week could possibly be integrated into the UI as well, but the first thing is to get those classes populating with the data correctly I feel"
+  },
+  {
+    "date":"2014-08-08T00:35:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Are Deilv3 the final or is there week4?"
+  },
+  {
+    "date":"2014-08-08T00:35:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"nope this is it"
+  },
+  {
+    "date":"2014-08-08T00:35:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"as far as I know"
+  },
+  {
+    "date":"2014-08-08T00:35:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Mst be cause sem ends this week."
+  },
+  {
+    "date":"2014-08-08T00:38:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"First the supporting classes: who is working on what and when will we finish? wow lot of w's in my question."
+  },
+  {
+    "date":"2014-08-08T00:39:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Chandra pushed up the Teams stuff earlier but asked for additional review from us to help finalize"
+  },
+  {
+    "date":"2014-08-08T00:39:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Working?"
+  },
+  {
+    "date":"2014-08-08T00:39:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I know my Projects class needs the initialize() method to be completed still"
+  },
+  {
+    "date":"2014-08-08T00:40:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think the ratings and assignments classes should go pretty quickly once those two are completed"
+  },
+  {
+    "date":"2014-08-08T00:41:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I don't mind handling those (I was just having trouble debugging that day so it stalled my progress since I wanted to be able to inspect what was coming out and where it was going)"
+  },
+  {
+    "date":"2014-08-08T00:41:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I was not able to get the ClassNotFound - I got out of bound exceptions."
+  },
+  {
+    "date":"2014-08-08T01:36:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It looks like restarting eclipsed helped out for me now I think I'm getting that same error you're getting murali, and it's due to some of the mods I had to make to GradesDB the other day I think. I'm able to debug properly now so that should help me finish up the Projects class and I'll help Chandra get the Teams going (I think it's initialize method still needs to be implemented as well)."
+  },
+  {
+    "date":"2014-08-08T17:57:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all I will be MIA Until Sunday AM. I will be available all of Sunday starting 8:00 Am EST. Please keep parking all things you want me to work on here."
+  },
+  {
+    "date":"2014-08-08T17:59:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Hopefully you will have a list for me I Can work through on Sunday until we finish."
+  },
+  {
+    "date":"2014-08-08T20:52:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Thanks for the update Murali! I just pushed up a still-in-progress update (I'm still working on things) here: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable-3\/6300Sum14Project3\/GradesTool\\n\\nPrimarily, I brought in some of your original Table code but reworked things (hopefully) in a new Table2 class that shouldn't depend on specified column numbers necessarily and making it a bit easier to get a value out of a row using the column name instead of an index number (you can see the code in action in GradesDB.refresh() currently, but I'm going to continue working right now on the Projects and Teams class initialize() methods which will end up using somewhat similar code)."
+  },
+  {
+    "date":"2014-08-08T22:34:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Just pushed up a more complete Projects class (initialize() method is pretty complete and tests are passing). I'm going to continue with the Teams class next."
+  }
+]

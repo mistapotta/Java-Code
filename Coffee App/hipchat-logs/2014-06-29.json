@@ -1,0 +1,1491 @@
+[
+  {
+    "date":"2014-06-29T00:52:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Nice (I hadn't noticed those when I tested earlier)"
+  },
+  {
+    "date":"2014-06-29T00:53:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"long press.  There is also the short press - could not do screen capture."
+  },
+  {
+    "date":"2014-06-29T00:54:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If we are on the right track I will continue or change direction now before too much time is invested in proto."
+  },
+  {
+    "date":"2014-06-29T00:57:16+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hey guys, @OmarRamos i was not able to add the use-case in the deliverable1, i am having issues, can you please add it there for me?"
+  },
+  {
+    "date":"2014-06-29T00:57:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"useCaseModel.pdf",
+      "size":94116,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/F2LlwB4g4VpewRk\/useCaseModel.pdf"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T00:57:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju So far it looks pretty good from what I saw earlier...we'd just need to make sure I guess that it fits in with the overall planned architecture we have in the models and such"
+  },
+  {
+    "date":"2014-06-29T00:57:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Sure no problem"
+  },
+  {
+    "date":"2014-06-29T00:58:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"thanks"
+  },
+  {
+    "date":"2014-06-29T00:59:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":19846,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/1z6PNUqcUMhVx1r\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"This is the Project plan I uploaded to the Deliverable folder.  Let me know what you think\/needs to be updated or modified."
+  },
+  {
+    "date":"2014-06-29T00:59:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"actually that's an older one"
+  },
+  {
+    "date":"2014-06-29T01:00:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":19846,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/y4y0IVxhfQvCVKT\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"This should be the updated one."
+  },
+  {
+    "date":"2014-06-29T01:00:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"gah!"
+  },
+  {
+    "date":"2014-06-29T01:00:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"hold on a sec. sorry."
+  },
+  {
+    "date":"2014-06-29T01:01:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":30589,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/T7r68crjwfseYC9\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"this one."
+  },
+  {
+    "date":"2014-06-29T01:01:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Get some coffee Tony."
+  },
+  {
+    "date":"2014-06-29T01:01:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Your Use Case Model should be up in the Deliverabl1 Branch now"
+  },
+  {
+    "date":"2014-06-29T01:02:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sorry, I did this last night, but updated the wrong PDF."
+  },
+  {
+    "date":"2014-06-29T01:02:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so I had to open OpenOffice and redo the pdf."
+  },
+  {
+    "date":"2014-06-29T01:02:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Thanks @OmarRamos , did you guys wanted to modify it or see if there is any changes necessary?"
+  },
+  {
+    "date":"2014-06-29T01:03:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota We can discuss it in a little bit and see ;-)"
+  },
+  {
+    "date":"2014-06-29T01:03:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, cool"
+  },
+  {
+    "date":"2014-06-29T01:05:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter thanks for the updated one ;-)"
+  },
+  {
+    "date":"2014-06-29T01:06:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The only comments I have on it would be for the User Manual bit (it mentions that starting in the Elaboration Phase and continuing on in the Construction phase)"
+  },
+  {
+    "date":"2014-06-29T01:06:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"And then just a quick typo on Tracability -> Traceability"
+  },
+  {
+    "date":"2014-06-29T01:07:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, will do that."
+  },
+  {
+    "date":"2014-06-29T01:08:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":30657,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/eMpqDqToCm38fq0\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"Update"
+  },
+  {
+    "date":"2014-06-29T01:09:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"how about names for leads for each etc - may be too early."
+  },
+  {
+    "date":"2014-06-29T01:10:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we can. sure."
+  },
+  {
+    "date":"2014-06-29T01:11:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"also wondering if this supposed to be similar to the process plan we did before."
+  },
+  {
+    "date":"2014-06-29T01:12:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I based it on the \"Phases within a cycle\" graphic Omar posted earlier, as well as the schedule for deliverables given in the assignment."
+  },
+  {
+    "date":"2014-06-29T01:13:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"From what I'm seeing it looks like a project plan looks just like this (different activities mapped to various times \/ phases)"
+  },
+  {
+    "date":"2014-06-29T01:14:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If we want to do a ProcessPlan.md file we could always do that in addition, but I think that info would be separate from the Project Plan itself"
+  },
+  {
+    "date":"2014-06-29T01:14:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":30916,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/hucuQWubwVCeK7K\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"Updated with corrections and names."
+  },
+  {
+    "date":"2014-06-29T01:14:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am not sure processplan is part of unified."
+  },
+  {
+    "date":"2014-06-29T01:15:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am just thinking if we could borrow some ideas to make differentiate from other project plans."
+  },
+  {
+    "date":"2014-06-29T01:15:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that's a good point, haha, if it's not part of that then it wouldn't really fit."
+  },
+  {
+    "date":"2014-06-29T01:16:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I like the update though with the names"
+  },
+  {
+    "date":"2014-06-29T01:16:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(it at least gives an idea of who is responsible for what)"
+  },
+  {
+    "date":"2014-06-29T01:17:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Though now I'm thinking we should have an additiona line item for the Initial Prototype"
+  },
+  {
+    "date":"2014-06-29T01:17:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and assign Murali to that one"
+  },
+  {
+    "date":"2014-06-29T01:18:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(though he'll probably be responsible for the executable prototype as well, since the initial prototype is for this week it would like up more with one of the first rows)"
+  },
+  {
+    "date":"2014-06-29T01:18:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can do that.  I thought the prototype was optional at this phase.  S'why I put it there, since prototype should be in Elaboration phase."
+  },
+  {
+    "date":"2014-06-29T01:19:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i had tried to collect like ideas (Develop\/Revise\/Produce\/Complete) in each row."
+  },
+  {
+    "date":"2014-06-29T01:19:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"to show the transition between phases as expected from this video;  https:\/\/www.udacity.com\/course\/viewer#!\/c-ud904\/l-634439289\/m-666188836"
+  },
+  {
+    "date":"2014-06-29T01:21:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so do you wnat me to add a line for Initial prototype or add a inception phase to the existing prototype line?"
+  },
+  {
+    "date":"2014-06-29T01:22:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Its not an executable proto :( "
+  },
+  {
+    "date":"2014-06-29T01:23:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I think adding a line for initial prototype is better"
+  },
+  {
+    "date":"2014-06-29T01:23:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok. will do."
+  },
+  {
+    "date":"2014-06-29T01:24:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"lets attack Chandra ...i mean use case model."
+  },
+  {
+    "date":"2014-06-29T01:24:38+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol, keep'em coming"
+  },
+  {
+    "date":"2014-06-29T01:25:47+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":30952,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/peTIDTlkrUNkrCI\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"updated with initial prototype"
+  },
+  {
+    "date":"2014-06-29T01:26:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and you can keep the attacks^H^H^H^H^H^Hconstructive criticism coming :)"
+  },
+  {
+    "date":"2014-06-29T01:26:26+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"there is a typo there Tony :)"
+  },
+  {
+    "date":"2014-06-29T01:27:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"inintial instead of initial"
+  },
+  {
+    "date":"2014-06-29T01:27:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"get some coffee Tony."
+  },
+  {
+    "date":"2014-06-29T01:27:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":30947,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/e6vnc8topeQWqro\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"sorry, my dyslexia works better with an ide that color-codes the mistakes I make."
+  },
+  {
+    "date":"2014-06-29T01:28:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if there are any more typoes please let me know so I can fix them.  it's not a coffee issue Murali."
+  },
+  {
+    "date":"2014-06-29T01:28:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sorry my internet cut so I'm on bad 3G on my phone"
+  },
+  {
+    "date":"2014-06-29T01:29:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"They're doing some network work at the college"
+  },
+  {
+    "date":"2014-06-29T01:29:20+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Don't tell me its uverse :D "
+  },
+  {
+    "date":"2014-06-29T01:30:14+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It's looks great Tony, lets move on to use-case"
+  },
+  {
+    "date":"2014-06-29T01:31:17+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Since Murali has specified exactly what kind of coffee\/dessert are available, do we want to specify that in this use-case model?"
+  },
+  {
+    "date":"2014-06-29T01:31:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Doesn't the owner or cart vendor do registration? Not the customer?"
+  },
+  {
+    "date":"2014-06-29T01:32:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and owner should have register, edit, and delete option for data"
+  },
+  {
+    "date":"2014-06-29T01:32:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Good point, i could assign that to the owner and add three more classes for register, edit and delete"
+  },
+  {
+    "date":"2014-06-29T01:33:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"well two more as register is already there"
+  },
+  {
+    "date":"2014-06-29T01:33:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Maybe have Register and Edit point to an Account class that contains all the data fields"
+  },
+  {
+    "date":"2014-06-29T01:34:01+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, that'll make it cleaner, good idea Tony"
+  },
+  {
+    "date":"2014-06-29T01:37:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It'll take me few minutes to make changes, keep on the good suggestion coming guys :)"
+  },
+  {
+    "date":"2014-06-29T01:38:34+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Did we decide yea\/nay on address?"
+  },
+  {
+    "date":"2014-06-29T01:39:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I wanna say nay - space constraint and data size."
+  },
+  {
+    "date":"2014-06-29T01:39:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Then it shouldn't be in the Use-Case."
+  },
+  {
+    "date":"2014-06-29T01:39:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"On nexus 4."
+  },
+  {
+    "date":"2014-06-29T01:40:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"If it's a nay then i'll remove it"
+  },
+  {
+    "date":"2014-06-29T01:41:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I don't think it would cause any space issues but if we have time in the end and want to add it we can try and then modify the documents to include it"
+  },
+  {
+    "date":"2014-06-29T01:41:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I have a good one...so are we supposed to sync with central data of vips and items."
+  },
+  {
+    "date":"2014-06-29T01:42:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I meant space on edit screen for vip."
+  },
+  {
+    "date":"2014-06-29T01:42:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I read it as a central database we load from."
+  },
+  {
+    "date":"2014-06-29T01:43:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think ideally there'd be some sort of centralized database all the coffee carts could draw from but since we are just designing the initial one I think just having the local SQLite database will probably be good enough"
+  },
+  {
+    "date":"2014-06-29T01:44:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"That adds complexity...where are we going to host the database - or simulate it with local."
+  },
+  {
+    "date":"2014-06-29T01:44:59+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"useCaseModel.png",
+      "size":85607,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/Cbxv5WhunlV87Mn\/useCaseModel.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T01:45:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Revised version"
+  },
+  {
+    "date":"2014-06-29T01:47:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Should gold level be part of account?"
+  },
+  {
+    "date":"2014-06-29T01:48:11+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So you mean gold level included in the account class with either of the conditions met?"
+  },
+  {
+    "date":"2014-06-29T01:48:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think so.  It's part o what's stored on the server, right?"
+  },
+  {
+    "date":"2014-06-29T01:50:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk"
+  },
+  {
+    "date":"2014-06-29T01:50:25+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"let me make the changes, and see it reads right"
+  },
+  {
+    "date":"2014-06-29T01:54:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Omar you holding on there?"
+  },
+  {
+    "date":"2014-06-29T01:54:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sorry guys my replies keep on not sending correctly and then get deleted when hipchat reconnects"
+  },
+  {
+    "date":"2014-06-29T01:55:26+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"useCaseModel1.png",
+      "size":85327,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/eDZZqc2eYlHI51P\/useCaseModel1.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T01:56:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"My phone keeps going from 3G to 1x. I wanted to say if we wanted a centralized MySQL server I can create a database on rack space cloud sites pretty easy (if we wanted to do that)"
+  },
+  {
+    "date":"2014-06-29T01:56:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"that looks correct, goldLevel is an option that is met only when either of the factor is satisfied"
+  },
+  {
+    "date":"2014-06-29T01:57:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"looks better Chandra."
+  },
+  {
+    "date":"2014-06-29T01:58:08+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"what else do you think needs modifying?"
+  },
+  {
+    "date":"2014-06-29T01:58:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"On the customer side should we show refill."
+  },
+  {
+    "date":"2014-06-29T01:58:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I see it on item side."
+  },
+  {
+    "date":"2014-06-29T01:59:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"refill\/refill for half proce would both be refill and then proce calc for refill."
+  },
+  {
+    "date":"2014-06-29T01:59:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"i\/o error."
+  },
+  {
+    "date":"2014-06-29T02:00:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I was wondering if preorder\/free coffee refill should somehow link to gold level, since they're only available to gold VIP"
+  },
+  {
+    "date":"2014-06-29T02:00:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"even though it's a refill, its still an item right but of we decide on either charging half or giving it for free"
+  },
+  {
+    "date":"2014-06-29T02:01:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"its not an item - just type of choose."
+  },
+  {
+    "date":"2014-06-29T02:01:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"buy vs refill."
+  },
+  {
+    "date":"2014-06-29T02:02:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we can calc full price if not vip."
+  },
+  {
+    "date":"2014-06-29T02:02:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"so somehow we have to model calculation."
+  },
+  {
+    "date":"2014-06-29T02:02:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Linking it to vip level."
+  },
+  {
+    "date":"2014-06-29T02:03:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok that sounds right, but how do you suggest we do that, i the calculate total class, we could break it down?"
+  },
+  {
+    "date":"2014-06-29T02:04:05+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*in"
+  },
+  {
+    "date":"2014-06-29T02:04:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we do this in checkout - checkout total should habdle the logic."
+  },
+  {
+    "date":"2014-06-29T02:07:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, for this deliverable one, i could add two more classes in the calculate total, saying total of dessert and total of coffee, in total of coffee, we could have full price, half price or free, what do you say?"
+  },
+  {
+    "date":"2014-06-29T02:07:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"fine with me. It's more like what we'll implement."
+  },
+  {
+    "date":"2014-06-29T02:08:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"no..no.."
+  },
+  {
+    "date":"2014-06-29T02:08:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Choose Item - should we split into two choose dessert\/choose coffee."
+  },
+  {
+    "date":"2014-06-29T02:09:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Proto has them split because of options available refill vs preorder - simple ui."
+  },
+  {
+    "date":"2014-06-29T02:09:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"up for discussion though."
+  },
+  {
+    "date":"2014-06-29T02:10:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Its only proto - can be changed without worrying about sunk costs."
+  },
+  {
+    "date":"2014-06-29T02:10:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Does a VIP customer have to request a free refill or is any refill for them free automatically based on the system?"
+  },
+  {
+    "date":"2014-06-29T02:11:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Checkout is fine as is .... just link ti vip level and somehow indicate refill costs will be evaluated here."
+  },
+  {
+    "date":"2014-06-29T02:11:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"in other words, can a Gold customer get a half-price refill?"
+  },
+  {
+    "date":"2014-06-29T02:11:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"automatic checkout."
+  },
+  {
+    "date":"2014-06-29T02:11:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"calculation."
+  },
+  {
+    "date":"2014-06-29T02:11:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"no requests."
+  },
+  {
+    "date":"2014-06-29T02:11:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"for price i mean."
+  },
+  {
+    "date":"2014-06-29T02:12:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"then preorder and refill (free or half price) should connect to Gold Level"
+  },
+  {
+    "date":"2014-06-29T02:12:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"system calculates correct cost for refill."
+  },
+  {
+    "date":"2014-06-29T02:13:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we need to implement checkout cart - a project by itself."
+  },
+  {
+    "date":"2014-06-29T02:13:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, i will need to read through all and see what we can do to implement the logic with out making lines go all over the place"
+  },
+  {
+    "date":"2014-06-29T02:14:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"first off we want to implement the logic that VIP customers get half price, link VIP customer to half price and gold to free right?"
+  },
+  {
+    "date":"2014-06-29T02:14:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"just move the gold level bubbles above name\/register bubbles and then it should be a straight line."
+  },
+  {
+    "date":"2014-06-29T02:15:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, what murali said."
+  },
+  {
+    "date":"2014-06-29T02:15:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"move gold level between account line and checkout line"
+  },
+  {
+    "date":"2014-06-29T02:16:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"got it"
+  },
+  {
+    "date":"2014-06-29T02:16:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"That should do it."
+  },
+  {
+    "date":"2014-06-29T02:17:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"after moving we connect the gold level to free refill right?"
+  },
+  {
+    "date":"2014-06-29T02:17:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"and free refill to calculate total.  remove it from coffee."
+  },
+  {
+    "date":"2014-06-29T02:18:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"connect to free refill and preorder, since only Gold level can preorder deserts"
+  },
+  {
+    "date":"2014-06-29T02:18:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"between checkout and calculate total?"
+  },
+  {
+    "date":"2014-06-29T02:19:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"also refill for half price."
+  },
+  {
+    "date":"2014-06-29T02:19:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, let me make the changes and upload the new one and we'll go from there"
+  },
+  {
+    "date":"2014-06-29T02:20:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"how about preorder to checkout is it to be linked eventually?"
+  },
+  {
+    "date":"2014-06-29T02:20:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Preorder is linked to purchase which is linked to checout"
+  },
+  {
+    "date":"2014-06-29T02:21:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"sorry did not see that."
+  },
+  {
+    "date":"2014-06-29T02:21:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"might want to move preorder to the right of the line."
+  },
+  {
+    "date":"2014-06-29T02:21:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"yup good idea ;)"
+  },
+  {
+    "date":"2014-06-29T02:22:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"chandra not done yet....three venti lattes today I was traveling."
+  },
+  {
+    "date":"2014-06-29T02:23:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"did we forget the managers?"
+  },
+  {
+    "date":"2014-06-29T02:23:11+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"different than owners."
+  },
+  {
+    "date":"2014-06-29T02:23:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"owners aren't listed in the requirements, are they?  just managers"
+  },
+  {
+    "date":"2014-06-29T02:24:20+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"isn't the owner the manager?"
+  },
+  {
+    "date":"2014-06-29T02:24:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so can we replace owner with manager for this system? Owners aren't a part of it."
+  },
+  {
+    "date":"2014-06-29T02:24:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Owners planning to install a number of coffee carts in various local spots."
+  },
+  {
+    "date":"2014-06-29T02:24:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"teach cart has a manager."
+  },
+  {
+    "date":"2014-06-29T02:25:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Brad and Janet want the coffee cards' managers to manage system on their android devices."
+  },
+  {
+    "date":"2014-06-29T02:25:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"where's Magenta and Columbia?"
+  },
+  {
+    "date":"2014-06-29T02:25:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"sc?"
+  },
+  {
+    "date":"2014-06-29T02:29:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"useCaseModel2.png",
+      "size":83733,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/GNZ7uQIKh1wo3yf\/useCaseModel2.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T02:30:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Guy's let me know if i missed anything, tried to read it all through, now i need a coffee lol"
+  },
+  {
+    "date":"2014-06-29T02:30:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"will never end...so we might as well move on."
+  },
+  {
+    "date":"2014-06-29T02:30:55+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i think i messed up in the direction of couple lines, updating a new one"
+  },
+  {
+    "date":"2014-06-29T02:31:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"useCaseModel3.png",
+      "size":83763,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/K2Me7AjEutkIzyp\/useCaseModel3.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T02:31:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Little better ;)"
+  },
+  {
+    "date":"2014-06-29T02:32:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like omar is having trouble.  Should we talk prototype tomorrow?  We should brainstorm changes so we can get an eraly start on executable proto."
+  },
+  {
+    "date":"2014-06-29T02:33:21+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also we need to identify the risks (high\/med\/low) in the risk assessment"
+  },
+  {
+    "date":"2014-06-29T02:33:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"oh yeah...more important than proto for this phase."
+  },
+  {
+    "date":"2014-06-29T02:34:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so meet tomorrow, usual time, to discuss risk assessment and prototype?"
+  },
+  {
+    "date":"2014-06-29T02:34:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"sounds good to me"
+  },
+  {
+    "date":"2014-06-29T02:34:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup what Chandra said ;-). Risk assessment discussion "
+  },
+  {
+    "date":"2014-06-29T02:34:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah and proto if you guys play with it a little."
+  },
+  {
+    "date":"2014-06-29T02:34:55+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Actually the new stuff you added @MuraliRaju is not pushed yet?"
+  },
+  {
+    "date":"2014-06-29T02:35:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did not add the new stuff it was from the origianl."
+  },
+  {
+    "date":"2014-06-29T02:35:36+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar did not drop them here so I did."
+  },
+  {
+    "date":"2014-06-29T02:36:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"press on the item and also long press on the item."
+  },
+  {
+    "date":"2014-06-29T02:36:37+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i pulled the repo after you dropped the pics here and it didn't show the changes, probably i messed up, will try it again later"
+  },
+  {
+    "date":"2014-06-29T02:37:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"All right guys, talk to you tomorrow, g'nite"
+  },
+  {
+    "date":"2014-06-29T02:37:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"nite all."
+  },
+  {
+    "date":"2014-06-29T02:37:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ok. see you guys tomo."
+  },
+  {
+    "date":"2014-06-29T21:14:53+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hey guys, i'll be little late to join today, will be joining by 9:30 (6:30 pacific), thanks a bunch."
+  },
+  {
+    "date":"2014-06-29T21:16:11+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"use-CaseModel.pdf",
+      "size":144258,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/5yLN5T78rQS9zPi\/use-CaseModel.pdf"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-29T21:16:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also this is the new-updated use case model from yesterday's conversation, @OmarRamos can you please push this into the repo? Thanks again"
+  }
+]

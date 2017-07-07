@@ -1,0 +1,370 @@
+[
+  {
+    "date":"2014-07-28T14:11:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So, Looking at Deliverable 2, I'm thinking Team\/Teams for one, Project\/Projects for another, updating Student and GradesDB for a third, and GUI for a fourth"
+  },
+  {
+    "date":"2014-07-28T16:32:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter You mean in terms of being able to break things up?"
+  },
+  {
+    "date":"2014-07-28T16:32:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I was a little confused in my first run through reading about Deliverable 2, but now I saw the following notice which clears things up a bit \"*Important: you should NOT write the code that implements the functionality described in the story cards, but just the JUnit tests for that code! (And possibly the skeleton code needed to make the tests compile, as described above.) *\""
+  },
+  {
+    "date":"2014-07-28T16:33:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So it looks like this week we're just focusing on the JUnit test cases and writing some stubs for making the tests compile"
+  },
+  {
+    "date":"2014-07-28T18:11:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-07-28T18:11:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so how did we want to divide up the work"
+  },
+  {
+    "date":"2014-07-28T18:12:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm happy to take any of the parts you mentioned above, no preference on my part"
+  },
+  {
+    "date":"2014-07-28T18:14:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can work on updating the Student and GradesDB since I already have some investment in those files."
+  },
+  {
+    "date":"2014-07-28T18:19:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"OK, I can take the Project\/Projects ones (it looks like the GUI tests are for Extra Credit only?)"
+  },
+  {
+    "date":"2014-07-28T18:20:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It does but it would be nice to get it taken care of to offset any issues with Project 2."
+  },
+  {
+    "date":"2014-07-28T18:28:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Hi guys,"
+  },
+  {
+    "date":"2014-07-28T18:29:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Heya1"
+  },
+  {
+    "date":"2014-07-28T18:29:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"You can give me any task - since I have been disconnected I am not in a position to pick; So I will trust your judgement to assign something to me."
+  },
+  {
+    "date":"2014-07-28T18:30:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I tried to access Del2 this morning and got an error - when did they get posted?"
+  },
+  {
+    "date":"2014-07-28T18:30:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"about 8AMish CST.  "
+  },
+  {
+    "date":"2014-07-28T18:31:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we're just writing tests.  Do you want to write for Team\/Teams or GUI?"
+  },
+  {
+    "date":"2014-07-28T18:31:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK - that explains it.   You pick."
+  },
+  {
+    "date":"2014-07-28T18:32:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"No coding?...bummer!"
+  },
+  {
+    "date":"2014-07-28T18:32:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"well, Chandra wanted to do some programming, so I'd say let Chandra have Team\/Teams and you can set up tests for GUI"
+  },
+  {
+    "date":"2014-07-28T18:32:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm sure we'll end up coding this in Part 3."
+  },
+  {
+    "date":"2014-07-28T18:32:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Ok - got it."
+  },
+  {
+    "date":"2014-07-28T18:34:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"When does next sem start?"
+  },
+  {
+    "date":"2014-07-28T18:35:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"No idea.  Our last deliverable is due Fri of next week.  So one week for grading\/posting, It'll probably start the following Monday.  So Aug 18 for real GT, Aug 25 for us since we're alwasy a week late?"
+  },
+  {
+    "date":"2014-07-28T18:43:49+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hey guys, i was reading through the deliverable 2, i can work with creating the GUI for the tool. "
+  },
+  {
+    "date":"2014-07-28T18:44:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Right now we're just creating tests for GUI, etc.  You and Murali can arm-wrestle for what to do :)"
+  },
+  {
+    "date":"2014-07-28T18:46:07+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"LOL, well i can get started with it, and i'm sure Murali will guide me through, i wouldn't dare to arm-wrestle him lol"
+  },
+  {
+    "date":"2014-07-28T18:51:49+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I should have read above before typing, i'm taking the Team\/Teams, sounds good :)"
+  },
+  {
+    "date":"2014-07-28T18:57:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Grrr..."
+  },
+  {
+    "date":"2014-07-28T18:57:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Grrr?"
+  },
+  {
+    "date":"2014-07-28T18:57:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Trying to scare Chandra..."
+  },
+  {
+    "date":"2014-07-28T18:58:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol, i'm scared enough Murali :D "
+  },
+  {
+    "date":"2014-07-28T18:59:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-07-28T18:59:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Since we are all clear....we will post back here Tuesday Night?  I will work on GUI and report back."
+  },
+  {
+    "date":"2014-07-28T19:00:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-07-28T19:00:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Ok - see you guys then."
+  },
+  {
+    "date":"2014-07-28T19:00:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So to clarify we are writing j unit test cases on the tasks provided right, im my case the test cases will be for class Team and Teams?"
+  },
+  {
+    "date":"2014-07-28T19:07:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Correct :-)"
+  },
+  {
+    "date":"2014-07-28T19:08:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"good deal, thanks Omar"
+  },
+  {
+    "date":"2014-07-28T19:16:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Chandra, I'm pushing a skeleton Team I need to get the Student Test to work."
+  },
+  {
+    "date":"2014-07-28T19:16:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, great Thanks Tony"
+  },
+  {
+    "date":"2014-07-28T19:23:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I just created at Deliverable-2 branch, and added the StudentTest and GradesDBTest"
+  },
+  {
+    "date":"2014-07-28T19:23:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"as well as your Skeleton Test"
+  },
+  {
+    "date":"2014-07-28T19:23:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"skeleton team"
+  },
+  {
+    "date":"2014-07-28T19:30:28+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I see it cool, hey @TonyPotter  can i use your StudentTest as a reference to create a TeamTest, it will make it easier for me to create one?"
+  },
+  {
+    "date":"2014-07-28T19:30:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sure."
+  },
+  {
+    "date":"2014-07-28T19:30:53+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"cool, thank you Sir :)"
+  }
+]

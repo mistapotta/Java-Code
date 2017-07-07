@@ -1,0 +1,553 @@
+[
+  {
+    "date":"2014-07-07T00:48:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"What is the difference between ReportActivity and ReportActivity2?"
+  },
+  {
+    "date":"2014-07-07T00:50:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Report Activity was older version - left it in for additional screens for future.  No function currently."
+  },
+  {
+    "date":"2014-07-07T00:50:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-07T00:52:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Same with VIPActivity and VIP Activity2?"
+  },
+  {
+    "date":"2014-07-07T00:52:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I was wondering if you were working on the UML model as a part of Architect document.  "
+  },
+  {
+    "date":"2014-07-07T00:52:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yes."
+  },
+  {
+    "date":"2014-07-07T00:52:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I was doing JavaDoc commenting, and preparing the JavaDoc as the Software Architecture."
+  },
+  {
+    "date":"2014-07-07T00:53:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK. I need to work on UML then.  I will get to it."
+  },
+  {
+    "date":"2014-07-07T00:54:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any changes to proto."
+  },
+  {
+    "date":"2014-07-07T00:54:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"just adding comments, I haven't changed any functionality."
+  },
+  {
+    "date":"2014-07-07T00:55:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Can we submit without changes."
+  },
+  {
+    "date":"2014-07-07T00:55:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Good enough?"
+  },
+  {
+    "date":"2014-07-07T01:01:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what is ipsum?"
+  },
+  {
+    "date":"2014-07-07T01:02:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yes, we can submit without changes"
+  },
+  {
+    "date":"2014-07-07T01:02:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"http:\/\/en.wikipedia.org\/wiki\/Lorem_ipsum"
+  },
+  {
+    "date":"2014-07-07T01:02:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"well, i meant Ipsum.java.  Was wondering what it had to do with the coffeecart."
+  },
+  {
+    "date":"2014-07-07T01:04:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and I'm still not sure what the Fragments are for"
+  },
+  {
+    "date":"2014-07-07T01:05:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So for the documents we currently have in-progress, are those final (at least for Deliverable2)?\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable2\/6300Sum14Project2\/Deliverable2\/in-progress\\n\\nThat way I can go ahead and start moving them up into the Deliverable2 folder for us.\\n\\nI think at this point we're just missing the Software Architecture and the Initial Design Model documents."
+  },
+  {
+    "date":"2014-07-07T01:06:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"The ones from me are pretty much final @OmarRamos, unless you have anything :)"
+  },
+  {
+    "date":"2014-07-07T01:07:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"It took me couple of days to figure out frags.\\nI used the exact same model as in android developer tutorial by google.\\nIpsum is just place holder for temp data.  We don't use it.  "
+  },
+  {
+    "date":"2014-07-07T01:07:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Nope I went ahead and made some minor corrections to the Risk Assessment, but it's good now"
+  },
+  {
+    "date":"2014-07-07T01:07:57+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, great thanks Omar"
+  },
+  {
+    "date":"2014-07-07T01:08:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"SoftwareArchitechture.pdf",
+      "size":536884,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/PPqhny7jzYdW8Vm\/SoftwareArchitechture.pdf"
+    },
+    "message":"I need to update the Software Architecture.  See attached."
+  },
+  {
+    "date":"2014-07-07T01:08:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I understand fragments.  Is this something I need to add to soft arch for this deliverable?"
+  },
+  {
+    "date":"2014-07-07T01:10:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like I need to get busy on UML.  Since its getting late...let me get on it right now.  I will mail it to Omar once complete."
+  },
+  {
+    "date":"2014-07-07T01:12:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We are using frags for UI to subactivities .  So we should show it that way."
+  },
+  {
+    "date":"2014-07-07T01:12:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok let me doc that up then."
+  },
+  {
+    "date":"2014-07-07T01:12:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If there is nothing else for me I will hit Argo..."
+  },
+  {
+    "date":"2014-07-07T01:22:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Sounds good"
+  },
+  {
+    "date":"2014-07-07T01:25:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I'm not sure if the JavaDocs is actually what the Software Architecture document should be, at least from what I'm reading and seeing in some examples I've been pulling up:\\nhttp:\/\/stackoverflow.com\/questions\/4435792\/what-should-you-put-into-an-architecture-specification\\nhttps:\/\/www.google.com\/search?q=software+architecture+document\\n\\nBut at this point in the process I'm not sure that we actually have time to create an architecture document as described in the links above (additionally, I'm a bit confused by the examples I saw, since quite a few of them had portions of the documents we've already been working on creating these past two weeks...I saw pieces that looked like the project plan, like the use case model, like the design model, etc. all within the architecture examples so it's a bit difficult to draw the line)"
+  },
+  {
+    "date":"2014-07-07T01:26:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It does look like the Software Architechture Document as shown there incorporates a lot of what we've done so far."
+  },
+  {
+    "date":"2014-07-07T01:27:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Perhaps the javadocs I'm assembling can be a rough draft start, and I'll continue to adapt these changes in the next week."
+  },
+  {
+    "date":"2014-07-07T01:28:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup, no worries :-)"
+  },
+  {
+    "date":"2014-07-07T01:28:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, just finished commenting the fragments and javadocing it up, combining to a single pdf."
+  },
+  {
+    "date":"2014-07-07T01:31:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"SoftwareArchitechture.pdf",
+      "size":794588,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/9LojL5epTtRHtOw\/SoftwareArchitechture.pdf"
+    },
+    "message":"Here's the combined pdf."
+  },
+  {
+    "date":"2014-07-07T01:32:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks...did you want me to go ahead and add that into the repo for you?"
+  },
+  {
+    "date":"2014-07-07T01:33:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Yah. I'm still having troubles adding stuff to the repo."
+  },
+  {
+    "date":"2014-07-07T01:33:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sure no problem, I'll get it added in ;-)"
+  },
+  {
+    "date":"2014-07-07T01:34:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So I'll keep up with Murali's last bit and then get everything turned in and send the team the confirmation email once I receive it ;-)"
+  },
+  {
+    "date":"2014-07-07T01:34:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i think it pushed ok. let me know?"
+  },
+  {
+    "date":"2014-07-07T01:34:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For Deliverable3 I don't think we have too much to discuss, but I was hoping you could take the initial look Tony for the next stage of development"
+  },
+  {
+    "date":"2014-07-07T01:34:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Let me check"
+  },
+  {
+    "date":"2014-07-07T01:35:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"What's new is Traceability Information and Functioning Software Product."
+  },
+  {
+    "date":"2014-07-07T01:35:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter The file is in there but it's not in the Deliverable2 folder"
+  },
+  {
+    "date":"2014-07-07T01:35:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll get it moved over though"
+  },
+  {
+    "date":"2014-07-07T01:36:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(it's currently in the src folder)"
+  },
+  {
+    "date":"2014-07-07T01:36:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"User Manual needs to be updated, as does Use Case, Project Plan, and Risk Assessment."
+  },
+  {
+    "date":"2014-07-07T01:36:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right. sorry"
+  },
+  {
+    "date":"2014-07-07T01:37:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I was reading about the traceability information, so let me give a crack at it :)"
+  },
+  {
+    "date":"2014-07-07T01:37:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"My plan for the User Manual was to update it again once the UI starts coming together a bit more (I totally wrote it from thought...just thinking about how I would like it to work so we might be able to use it as a partial guide and then whatever doesn't fit the app by the end of the week I can update\/remove)"
+  },
+  {
+    "date":"2014-07-07T01:37:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Awesome!"
+  },
+  {
+    "date":"2014-07-07T01:38:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I know definitely for this week I'd like us to integrate some sort of persistent storage (SQLite at least) for the app if we can"
+  },
+  {
+    "date":"2014-07-07T01:38:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think currently it's all in-memory"
+  },
+  {
+    "date":"2014-07-07T01:38:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So I need to update the Software Architecure to implment what you mentioned Omar, and work with Murali on the tests I put up, making them more appropriate for the app."
+  },
+  {
+    "date":"2014-07-07T01:46:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So what else do we need for this week?"
+  },
+  {
+    "date":"2014-07-07T01:47:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Main thing is a heavy focus on construction for me (we can even push some of the non-critical document updates till next week if we wish)"
+  },
+  {
+    "date":"2014-07-07T01:49:24+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I'll work on completing the use-case model and also traceability information, ya more focus on the product is the most important"
+  },
+  {
+    "date":"2014-07-07T01:49:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-07T01:50:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'd like to take a crack at the database integration piece, and hopefully that won't be too dramatic (assuming we can simply switch out the current model classes for the database-enabled ones) "
+  },
+  {
+    "date":"2014-07-07T01:52:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll start running some experiments with that tomorrow if I can but that shouldn't stop you from working on anything on your end Tony (I won't be pushing anything up until checking in with the team, just to hopefully avoid stepping on each other's toes with code changes)."
+  },
+  {
+    "date":"2014-07-07T01:53:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good."
+  },
+  {
+    "date":"2014-07-07T02:19:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Everything should be present in the Deliverable2 folder at this point (minus the Design Model):\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable2\/6300Sum14Project2\/Deliverable2\\n\\nSo everything's been prepped. Once Murali has that piece completed and we have it added into the repo I'll merge in the Deliverable2 branch and get the final commit hash so we can get it turned in :-)"
+  },
+  {
+    "date":"2014-07-07T03:02:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar can you confirm you got the design model and that you can open it."
+  },
+  {
+    "date":"2014-07-07T03:04:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"Project2-DesignModel.zargo",
+      "size":90083,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/JPKqJVTh54vlQPX\/Project2-DesignModel.zargo"
+    },
+    "message":"@OmarRamos attached here also."
+  },
+  {
+    "date":"2014-07-07T03:18:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I did receive it and can open it just fine"
+  },
+  {
+    "date":"2014-07-07T03:32:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I converted the zargo file to PDF and added it into the repo (Murali had mentioned adding in some additional notes, but I thought it was good enough for the initial design model as is).Just forwarded the confirmation email after submitting the assignment ;-)"
+  },
+  {
+    "date":"2014-07-07T03:33:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Good work team :-). Now onto the fun Construction Phase :-) (I'll create a Deliverable3 branch we can start using for this week's work before I go to bed)."
+  }
+]

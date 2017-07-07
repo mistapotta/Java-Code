@@ -1,0 +1,551 @@
+[
+  {
+    "date":"2014-07-20T00:11:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm at 91\/85 right now, which is good enough until I get the rest of the DB stuff coded in."
+  },
+  {
+    "date":"2014-07-20T00:15:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am still working ass6.  Do I have to do RegEx testing to get coverage?  Instructions seem to indicate simple strings is sufficient?"
+  },
+  {
+    "date":"2014-07-20T00:15:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm at 91\/85 with five tests\/no regex coverage."
+  },
+  {
+    "date":"2014-07-20T00:16:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Then I should be able to wrap it quickly...I will stay online if we need to talk project."
+  },
+  {
+    "date":"2014-07-20T00:59:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Nice @TonyPotter i couldn't get past 85\/78, still figuring out but not tonight i'm out with family so may be tomorrow morning :)"
+  },
+  {
+    "date":"2014-07-20T02:50:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I've been working with the Java side interaction with the API and trying to abstract some of those requirements out so I can create some easy to use helpers. One of the items I was sorting through the past hour or so is that if you try and execute an HTTP request you end up running into this \"NetworkOnMainThreadException\", which made sense once I read up on the issue (you have the potential for this to block the main application thread) so they recommended using an AsyncTask. However, that approach seems like it would end up requiring a whole lot more code in each of the Activities so I'm going to use an alternative workaround that gets rid of the Android restriction that throws the Exception which will allow me to continue moving forward and keep the code simpler, even though it might increase the thread blocking potential a bit. I should be able to put together a good basic example of retrieving the different Customer info now (partially basing it off your existing JSON class) and push it up in the next hour or so. The next part will be adapting the existing code elsewhere to make use of that instead of the current in-memory database."
+  },
+  {
+    "date":"2014-07-20T03:10:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've got quite a bit done.  I'm trying to resolve the differences between Murali's classes and mine.  I'm leery to push an updated version since Murali's is somewhat functioning and I havne't cleared all the errors on the merge between our classes yet.  I'm working on it."
+  },
+  {
+    "date":"2014-07-20T03:11:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter if you need to push something up it should be ok...I'm creating new classes on my end so as to not interfere with the existing stuff so once it's pushed up I can go over it"
+  },
+  {
+    "date":"2014-07-20T04:50:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I just pushed up my work. The main additions are ApiHelper.java, CustomerHelper.java, and the addition of the edu.gatech.coffeecart.model.data.types package and moving a modified version of your Customer.java class into that. Also there's a quick ApiExamples.java file which just shows a bit of how to use CustomerHelper. I created a quick walkthrough video of some example usage of CustomerHelper and just posted it here (it should be available in a few minutes): https:\/\/www.youtube.com\/watch?v=HN7NSxSMbZ4 the next stage though is really starting to integrate retrieving the customer information into the CoffeeCart class to replace the in-memory data. I can continue building some additional helpers for the other entity types (Purchases \/ Pre-Orders etc.) available in the API"
+  },
+  {
+    "date":"2014-07-20T04:52:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Also, in the video I get an HTTP Status Code of 500 in the example call to update the customer...that request should have succeeded but sometimes my web host (Rackspace Cloud Sites) can be a tad slow and result in a 500 error like that so in the code I pushed up I added an additional check for that status code so a retry can be initiated (usually the subsequent request should succeed just fine with my web host)."
+  },
+  {
+    "date":"2014-07-20T04:58:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Hold up, i'm starting up my simulations."
+  },
+  {
+    "date":"2014-07-20T05:03:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Screenshot from 2014-07-20 00:00:12.png",
+      "size":204942,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/E7dGWglT4qLgOHt\/Screenshot from 2014-07-20 00:00:12.png"
+    },
+    "message":"Can you look at this error and tell me what you think?"
+  },
+  {
+    "date":"2014-07-20T05:03:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"For some reason Android doesn't like looking up your host."
+  },
+  {
+    "date":"2014-07-20T05:13:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter That's the error I mentioned a little earlier (my post at around 7:50 PM...it might show up as 8:50 PM for you maybe). A little more info about it here: http:\/\/simpledeveloper.com\/network-on-main-thread-error-solution\/. Basically though we're not actually allowed to just make HTTP Requests by default...Android typically wants you to do that asyncronously so the request can be done in the background, but there's a workaround I implemented (the article above mentions it too, but if you want to take a look it's these 3 lines that allow you to tell Android it's ok to make the requests synchronously: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/Deliverable4\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/model\/data\/ApiHelper.java#L79-L81"
+  },
+  {
+    "date":"2014-07-20T05:25:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, so how do we implemnt this in our program?"
+  },
+  {
+    "date":"2014-07-20T05:30:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"implement what? the workaround?"
+  },
+  {
+    "date":"2014-07-20T05:31:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah. I'm not that good with android code, "
+  },
+  {
+    "date":"2014-07-20T05:32:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"the workaround is already implemented in my ApiHelper.java file (I'm not sure if you've already pulled down my updates or not). The ApiExamples.java shows a few example calls using the new CustomerHelper.java file"
+  },
+  {
+    "date":"2014-07-20T05:32:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"those examples show the basic actions (get list of customers, get single customer, create customer, update customer, delete customer)."
+  },
+  {
+    "date":"2014-07-20T05:33:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Each of those actions we'd need to end up placing in the correct locations in the CoffeeCart class (I think from what I was reviewing earlier) in order to replace the current in-memory actions we're using at the moment"
+  },
+  {
+    "date":"2014-07-20T06:04:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I implemented them, but I still have a null pointer excpetion.  I'll work on them tomorrow.  I've pushed what i've done today."
+  },
+  {
+    "date":"2014-07-20T06:10:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"thanks, I'll take a closer look before I go to bed ;-)"
+  },
+  {
+    "date":"2014-07-20T06:29:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think I see the main issue...for the URL you are currently using \"customer\" instead of \"customers\" I think making that switch should do the trick."
+  },
+  {
+    "date":"2014-07-20T06:47:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Additionally, when using the ApiHelper, there's no need to include the mainURLBase part (since that's already taken care of in the ApiHelper)"
+  },
+  {
+    "date":"2014-07-20T07:56:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just pushed up some corrections to the DatabaseHelperJSON class (related to my comments above) and also added in the ItemHelper class and a few more of the basic data.types classes. We'll have to start consolidating things tomorrow (or should I saw later today). "
+  },
+  {
+    "date":"2014-07-20T07:58:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"As an example, the new CustomerHelper class should be used to interact with the Customers (in lieu of the current methods in the DatabaseHelperJSON class) that way we can work with smaller files (right now DatabaseHelperJSON looks like it'll start to grow to include methods for interacting with everything related to the API which might make it a bit unwieldy). However, there's some stuff I'd like to integrate from that file into the CustomerHelper one (such as the list of Customer objects you created in getCustomers())."
+  },
+  {
+    "date":"2014-07-20T07:59:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"There was still an issue with your getCustomers() even after my corrections that you may need to check out though...I think it was being triggered on the line where it parsed the date."
+  },
+  {
+    "date":"2014-07-20T07:59:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"alright need to get some shut eye so I can be useful in the morning ;-)"
+  },
+  {
+    "date":"2014-07-20T18:13:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"pulling now."
+  },
+  {
+    "date":"2014-07-20T18:27:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"hi tony"
+  },
+  {
+    "date":"2014-07-20T18:27:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"heya"
+  },
+  {
+    "date":"2014-07-20T18:28:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"workingo n JSON Purchases right now"
+  },
+  {
+    "date":"2014-07-20T18:28:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I've been pushing up small updates (I'm building out the API Helper classes so you can use those as a foundation)"
+  },
+  {
+    "date":"2014-07-20T18:29:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I just need to do the ReportHelper next and then maybe backtrack slightly and update the CustomerHelper with a few additional methods that are available in the API (retrieve a customer's purchases, preorders, total points, total points over last 30 days, etc.)"
+  },
+  {
+    "date":"2014-07-20T18:30:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully the examples I'm placing in the ApiExamples class are making sense...you should be able to simplify some of the stuff in the DatabaseHelperJSON class by making use of them."
+  },
+  {
+    "date":"2014-07-20T18:31:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I should be able to wrap up the ReportHelper and CustomerHelper updates in the next hour or so"
+  },
+  {
+    "date":"2014-07-20T18:34:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So we're using CustomerHelper, PurchaseHelper, etc. instead of DatabaseHelperJSON\/"
+  },
+  {
+    "date":"2014-07-20T18:34:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"t?"
+  },
+  {
+    "date":"2014-07-20T18:37:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think that would be my eventual goal (if what I'm imagining in my head is right), but at a more basic level it should just allow you to simplify some of the code already in DatabaseHelperJSON . For example, createCustomer could just have you create the JSONObject, and then you can pass that into CustomerHelper.createCustomer(vipCardNumber, json) and get a result back."
+  },
+  {
+    "date":"2014-07-20T18:38:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok\/"
+  },
+  {
+    "date":"2014-07-20T18:39:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"sorry I used the updateCustomer signature in that example (you wouldn't need the vipCardNumber parameter in the create case)"
+  },
+  {
+    "date":"2014-07-20T18:39:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Also, in general for the create methods there's no need to provide the new VIP Card Number since that gets generated on the server automatically by MySQL"
+  },
+  {
+    "date":"2014-07-20T19:36:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just pushed up the ReportHelper file (additional examples for it have been added to the ApiExamples.java file)"
+  },
+  {
+    "date":"2014-07-20T19:37:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Right now I'm tryign to fix date formatting issues, making it more consistent with what you ahve in teh database."
+  },
+  {
+    "date":"2014-07-20T19:37:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"awesome ;-)"
+  },
+  {
+    "date":"2014-07-20T19:39:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm going to add those additional methods to the CustomerHelper class I mentioned a little earlier that are currently missing and then I can assist with integrating any of that work into the other locations or helping to review things (or whatever you feel might be needed)."
+  },
+  {
+    "date":"2014-07-20T19:55:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Added in the additional helper methods for the CustomerHelper class (now you should be able to easily retrieve the total points for a user, points earned over the last 30 days, past purchases or preorders, etc.). Additional examples have been added to the ApiExamples file."
+  },
+  {
+    "date":"2014-07-20T20:22:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter So now that the Helper classes are more or less ready to go where would you like me to jump in and help you troubleshoot or test?"
+  },
+  {
+    "date":"2014-07-20T21:01:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I just fixed and pushed up some minor modifications in the DatabaseHelperJSON.getCustomers() method (mainly a fix to the date parsing portion of it to properly parse the expected MySQL date format) and in your Customer class constructor I commented out the setGold() method temporarily (currently it is causing an exception).\\n\\nThis allows the app to load up and if you go and see the Customers screen it shows the live data retrieved from the server."
+  },
+  {
+    "date":"2014-07-20T21:18:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Thanks. I've been simultaneously putting out fires in the home today."
+  },
+  {
+    "date":"2014-07-20T21:20:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm trying to pull and get a checkout conflict"
+  },
+  {
+    "date":"2014-07-20T21:20:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Checkout conflict with files: \\n6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/DatabaseHelperJSON.java\\nCheckout conflict with files: \\n6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/DatabaseHelperJSON.java"
+  },
+  {
+    "date":"2014-07-20T21:20:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm trying to get yoru new DatabaseHelperJSON."
+  },
+  {
+    "date":"2014-07-20T21:21:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"How do I discard changes I've made to my DatabaseHelperJSON so I can get yours?"
+  },
+  {
+    "date":"2014-07-20T21:29:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I believe you can do a \"git checkout -- 6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/DatabaseHelperJSON.java\""
+  },
+  {
+    "date":"2014-07-20T21:29:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that should revert DatabaseHelperJSON to whatever was in the repo originally as of the last pull you made"
+  },
+  {
+    "date":"2014-07-20T21:29:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and then you can try pulling again"
+  },
+  {
+    "date":"2014-07-20T21:31:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, that worked, i think."
+  },
+  {
+    "date":"2014-07-20T21:32:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"after my last comment about the fix in DatabaseHelpeJSON I went back and started clearing some things up (changing some of the methods to use the CustomerHelper ones). I haven't committed those changes locally so I can push them up"
+  },
+  {
+    "date":"2014-07-20T21:32:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-20T21:33:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"However what is becoming clear is that we currently have a few different sets of competing classes (yours in edu.gatech.coffeecart, Murali's in edu.gatech.coffeecart.model.cart and then the new ones I created in edu.gatech.coffeecart.model.data.types)"
+  },
+  {
+    "date":"2014-07-20T21:33:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm gonna push my Assignment 6 then."
+  },
+  {
+    "date":"2014-07-20T21:34:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Alright"
+  },
+  {
+    "date":"2014-07-20T22:05:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I just pushed up another round of changes, this time around though things are going to be pretty broken (aside from the Customers button along the button which should live data correctly at this point).\\n\\nMainly I got rid of the duplicate classes and consolidated some functionality. At this point I'm not sure if we're going to use the model.item classes or not but I left them in just in case.\\n\\nThe classes you had in the root coffeecart package have been moved over to the data.types or the model.item folders (DatabaseHelperJSON should be in model.data once you pull down these changes). I deleted a few files which were no longer needed (such as the original DatabaseHelper)."
+  },
+  {
+    "date":"2014-07-20T22:06:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm going to start seeing where I can put back functionality that is currently broken using the API calls."
+  },
+  {
+    "date":"2014-07-20T22:53:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter A quick update...Now the Coffee and Dessert Activities are pulling Live Data from the server with the latest push."
+  },
+  {
+    "date":"2014-07-20T23:03:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"excellent!  I gotta take care fo a couple of things here, be back later."
+  },
+  {
+    "date":"2014-07-20T23:52:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Now you can select a Customer and see their live data with the latest push."
+  }
+]

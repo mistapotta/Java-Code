@@ -1,0 +1,1044 @@
+[
+  {
+    "date":"2014-07-13T00:56:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I don't have access to VIPCustomer.java.  Have you pushed it?"
+  },
+  {
+    "date":"2014-07-13T00:58:26+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I pushed it last week - the program does not work without it; So you should have it."
+  },
+  {
+    "date":"2014-07-13T00:59:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We are working in Del3 branch right?"
+  },
+  {
+    "date":"2014-07-13T01:00:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Right. it's not in the Del3 unless I'm lookin gin the wrong folder."
+  },
+  {
+    "date":"2014-07-13T01:00:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what folder is it in github?"
+  },
+  {
+    "date":"2014-07-13T01:01:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let me get on github..."
+  },
+  {
+    "date":"2014-07-13T01:05:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"upload.png",
+      "size":100111,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/OFIz581xilI3itb\/upload.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-13T01:08:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So how does VIPCustomer check Gold Status of the customer?"
+  },
+  {
+    "date":"2014-07-13T01:10:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I dont remember exactly but I think I implemented the check on Database class last week."
+  },
+  {
+    "date":"2014-07-13T01:11:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let me check..."
+  },
+  {
+    "date":"2014-07-13T01:11:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Do you have the database class..."
+  },
+  {
+    "date":"2014-07-13T01:11:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Also you shouldn't use float for money. you should use BigDecimal"
+  },
+  {
+    "date":"2014-07-13T01:11:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"otherwise you cna introduce floating point issues"
+  },
+  {
+    "date":"2014-07-13T01:12:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Agreed."
+  },
+  {
+    "date":"2014-07-13T01:12:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I didnt bother because its only a few coffees."
+  },
+  {
+    "date":"2014-07-13T01:13:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what is the difference between Customer and VIPCustomer in CCDatabase.java?"
+  },
+  {
+    "date":"2014-07-13T01:14:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"That was my comment in the afternoon - I wanted to create VIP Customers and Regular Customer from Customer Class originally.  I short cut this by making the first VIP customer non VIP customer."
+  },
+  {
+    "date":"2014-07-13T01:15:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"But what is a VIP customer?  "
+  },
+  {
+    "date":"2014-07-13T01:15:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"All customers are VIP members"
+  },
+  {
+    "date":"2014-07-13T01:15:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"some are gold and some aren't."
+  },
+  {
+    "date":"2014-07-13T01:16:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Customers who dont sign up for VIP number?"
+  },
+  {
+    "date":"2014-07-13T01:16:38+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Do we need to keep track of those customers?"
+  },
+  {
+    "date":"2014-07-13T01:17:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's why I kept the purchases separate from the customers"
+  },
+  {
+    "date":"2014-07-13T01:17:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Back to my comment this afternoon we dont have to from our final requirements so I said we can ignore it."
+  },
+  {
+    "date":"2014-07-13T01:18:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like you are not using much of the data model I created last week?"
+  },
+  {
+    "date":"2014-07-13T01:18:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I didn't see the data model. "
+  },
+  {
+    "date":"2014-07-13T01:18:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I only saw the files in the src folder, not the model folder"
+  },
+  {
+    "date":"2014-07-13T01:19:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so that's why I wrote the Customer.java, Purchase.java, DatabaseHelper.java"
+  },
+  {
+    "date":"2014-07-13T01:19:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Oh no...then you are recreating most of it."
+  },
+  {
+    "date":"2014-07-13T01:19:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"apparently i did."
+  },
+  {
+    "date":"2014-07-13T01:20:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think we should tkae the setGold and the summary methods from my Customer class to add to your VIPCustomer class."
+  },
+  {
+    "date":"2014-07-13T01:20:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"since they directly access the database to get th emost recent purchases."
+  },
+  {
+    "date":"2014-07-13T01:24:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I assumed you were going the other way....using my model to create better classes.  Since your coding is much cleaner I rather go from mine to yours unless you have lot of work to do yet."
+  },
+  {
+    "date":"2014-07-13T01:24:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"My model works for most part."
+  },
+  {
+    "date":"2014-07-13T01:24:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"So depending on how your classes are doing we can make a decision."
+  },
+  {
+    "date":"2014-07-13T01:24:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we need to agree what to do with which then."
+  },
+  {
+    "date":"2014-07-13T01:25:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So with regards to customers"
+  },
+  {
+    "date":"2014-07-13T01:25:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did you implement all the data model?"
+  },
+  {
+    "date":"2014-07-13T01:25:47+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it's all implemented, I just need to incorporate it into Omar's DB system"
+  },
+  {
+    "date":"2014-07-13T01:25:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"but that's just changes to one class - DatabaseHelper"
+  },
+  {
+    "date":"2014-07-13T01:26:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I don't have any Android specific code - I thought that was what you were wroking on."
+  },
+  {
+    "date":"2014-07-13T01:27:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yeah...I will have to change the function calls to your model; I was working with calls to my model."
+  },
+  {
+    "date":"2014-07-13T01:27:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Most of the screens are done."
+  },
+  {
+    "date":"2014-07-13T01:28:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I have getFormattedName and getFormattedPhoneNumber in my Customer class"
+  },
+  {
+    "date":"2014-07-13T01:28:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-13T01:28:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"let me look at your Customer class..."
+  },
+  {
+    "date":"2014-07-13T01:29:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it should be in the src folder"
+  },
+  {
+    "date":"2014-07-13T01:32:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let me do this - I will add TODO's in Android classes where we need to switch to your classes once the database is implemented."
+  },
+  {
+    "date":"2014-07-13T01:32:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Until the datbase is implemented your model will not work right?"
+  },
+  {
+    "date":"2014-07-13T01:33:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, because calls go to 127.0.0.1, but I can work on that. I see where Omar added how to use the existing db he set up."
+  },
+  {
+    "date":"2014-07-13T01:34:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"You guys concentrate on getting a complete model ready.  I will test with my model and have the Android side ready."
+  },
+  {
+    "date":"2014-07-13T01:34:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cool.  I'll work with that tonight, and post here when it's up."
+  },
+  {
+    "date":"2014-07-13T01:35:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Ok....I will add TODO's so you will know where the data is needed."
+  },
+  {
+    "date":"2014-07-13T01:36:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cool.  thanks."
+  },
+  {
+    "date":"2014-07-13T01:36:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Should we plan a morning chat...?"
+  },
+  {
+    "date":"2014-07-13T01:36:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what timezone are you?"
+  },
+  {
+    "date":"2014-07-13T01:36:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i'm cdt."
+  },
+  {
+    "date":"2014-07-13T01:36:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"EST."
+  },
+  {
+    "date":"2014-07-13T01:37:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let me know in the AM based on your progress..."
+  },
+  {
+    "date":"2014-07-13T01:37:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok.  let's say 10AM CDT\/11AM EDT."
+  },
+  {
+    "date":"2014-07-13T01:38:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK."
+  },
+  {
+    "date":"2014-07-13T01:38:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok. i'll post later tongiht and see you then."
+  },
+  {
+    "date":"2014-07-13T06:43:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@OmarRamos  can you look at DatabaseHelperJSON.java and see if what I'm doing in createCustomer is the correct way to implement JSON requests for your db?"
+  },
+  {
+    "date":"2014-07-13T06:54:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter It's looking pretty close, though instead of using sockets, it might be easier to make use of the HttpClient class that seems to be included within Android (from what I can see). The ServiceHandler class on this page seems like pretty similar to your class, but uses HttpClient instead: http:\/\/www.androidhive.info\/2012\/01\/android-json-parsing-tutorial\/"
+  },
+  {
+    "date":"2014-07-13T06:54:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, i'll work more later."
+  },
+  {
+    "date":"2014-07-13T06:55:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm almost done with the docs (I'm double-checking things as I'm going through creating them). I'll upload the code to the livesite before I go to bed so it should be available in the morning to run some tests if we wish ;-)"
+  },
+  {
+    "date":"2014-07-13T06:55:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk thanks!"
+  },
+  {
+    "date":"2014-07-13T09:08:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all The Web Service API should be available now. Example Link: http:\/\/coffeecart.orware.com\/api\/customers\\n\\nMore details on the API available here:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable3\/6300Sum14Project2\/php-webservice-api\/docs\\n\\nI still need to finish up the documentation on the Purchases and Reports portions of the API, but I should be able to complete those in the morning (after a bit of rest ;-))."
+  },
+  {
+    "date":"2014-07-13T15:08:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"upload.png",
+      "size":47380,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/OuDX7OAzKh6H10o\/upload.png"
+    },
+    "message":"well git rejected my push..."
+  },
+  {
+    "date":"2014-07-13T15:08:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"again..."
+  },
+  {
+    "date":"2014-07-13T15:08:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"grr..."
+  },
+  {
+    "date":"2014-07-13T15:08:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"You have to pull first, then push."
+  },
+  {
+    "date":"2014-07-13T15:08:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"since Omar was updating files."
+  },
+  {
+    "date":"2014-07-13T15:09:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had this happen to me a few times."
+  },
+  {
+    "date":"2014-07-13T15:09:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"last time I did that it messed up and lost half a day this time I will loose two days..."
+  },
+  {
+    "date":"2014-07-13T15:09:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I pulled, then right click on project in git mode and select push to upstream"
+  },
+  {
+    "date":"2014-07-13T15:10:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It solved it for me."
+  },
+  {
+    "date":"2014-07-13T15:13:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"making a copy just in case..."
+  },
+  {
+    "date":"2014-07-13T15:14:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"phew..."
+  },
+  {
+    "date":"2014-07-13T15:15:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"saved ok?"
+  },
+  {
+    "date":"2014-07-13T15:16:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Everything is implemented - since my data model does not have preorder limits and bessellers those list are not programmed - only one line code for each anyways."
+  },
+  {
+    "date":"2014-07-13T15:16:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yes - saved and pushed."
+  },
+  {
+    "date":"2014-07-13T15:16:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i just pulled."
+  },
+  {
+    "date":"2014-07-13T15:17:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Please play with it ... and lets get back at 11:30."
+  },
+  {
+    "date":"2014-07-13T15:17:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i'm still working on the database class.  Every page Omar sends me to gives me more includes and leaves me more confused."
+  },
+  {
+    "date":"2014-07-13T15:17:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-13T15:18:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"It might be too late if we are still implementing db ... see if we can go with my data model for this submission.  We can incorporate your data model next submit."
+  },
+  {
+    "date":"2014-07-13T15:19:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We mgiht need to."
+  },
+  {
+    "date":"2014-07-13T15:47:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed again with TODO comments.  No change in functionality."
+  },
+  {
+    "date":"2014-07-13T15:48:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, i'll pull again."
+  },
+  {
+    "date":"2014-07-13T15:49:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"The TODO's are for switching data model once DB implementation is complete."
+  },
+  {
+    "date":"2014-07-13T15:57:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I pushed the DatabaseHelperJSON with updated createcustomer and getcustomer methods. I'd like @OmarRamos  to look at them before I continue to make sure I'm doing it right."
+  },
+  {
+    "date":"2014-07-13T15:58:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i'll be back on later."
+  },
+  {
+    "date":"2014-07-13T16:39:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter The approach you're using in createCustomer \/ getCustomer now looks like it should do the trick :-)"
+  },
+  {
+    "date":"2014-07-13T16:41:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Hopefully now with using the HttpClient stuff you should be able to remove some of the java.sql.* and java.net.* imports at the top of your file once it's all converted ;-)"
+  },
+  {
+    "date":"2014-07-13T16:42:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, i'll continue on this vein.  "
+  },
+  {
+    "date":"2014-07-13T16:45:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"One quick thing I noticed, which might cause an issue with getCustomer() is that the request should be an HttpGet vs. an HttpPost (if it's left as a POST you'll probably get a 404 response automatically, which happens when the request doesn't match any of the accepted ones...so if you notice a 404 response right away it should indicate there was an issue with the URL or the GET was used instead of POST, etc.)"
+  },
+  {
+    "date":"2014-07-13T16:49:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"guys...I think its time to test what we have...even if you get the db connection completed we wont be able to integrate in time."
+  },
+  {
+    "date":"2014-07-13T16:50:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We can continue on db after we finalize our submission."
+  },
+  {
+    "date":"2014-07-13T16:50:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup we should have plenty of time to integrate the web service API portion in the coming week"
+  },
+  {
+    "date":"2014-07-13T16:51:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I've been holding off testing the app since I knew you were both working on the updates"
+  },
+  {
+    "date":"2014-07-13T16:51:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"so i can start doing some testing this morning"
+  },
+  {
+    "date":"2014-07-13T16:52:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"the app is working on the data model from last week...we should clean out any bugs and submit."
+  },
+  {
+    "date":"2014-07-13T16:57:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just quickly testing...when adding an item to the cart should any info be displayed back on the main screen currently? I'm not seeing any updates on the main screen at the moment"
+  },
+  {
+    "date":"2014-07-13T16:58:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"notedd"
+  },
+  {
+    "date":"2014-07-13T17:00:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos use the back button at the top - I am looking into why the bottom back is not working."
+  },
+  {
+    "date":"2014-07-13T17:02:54+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"thanks, that worked!"
+  },
+  {
+    "date":"2014-07-13T17:04:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Were there going to be two separate buttons (one to add a coffee, one to add a dessert) on the main page?"
+  },
+  {
+    "date":"2014-07-13T17:05:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yes - but it messed up the layout so I deleted it for the moment.  you can use the bottom for desserts."
+  },
+  {
+    "date":"2014-07-13T17:06:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"That's what I ended up trying which worked"
+  },
+  {
+    "date":"2014-07-13T17:07:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"After Checkout can we clear out the currently selected Customer automatically? (Empty Cart works perfeclty)"
+  },
+  {
+    "date":"2014-07-13T17:08:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Do you want to..."
+  },
+  {
+    "date":"2014-07-13T17:08:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Have to reselect if you want to buy more..."
+  },
+  {
+    "date":"2014-07-13T17:10:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The way I'm seeing it, usually you have a line of folks coming to get their stuff so once the checkout is completed it should clear everything out so you can start fresh with the process again with the next person (technically you can still do this now because you can still click on the button and type in the next person's vip card number, but clearing out the value would make it clearer I think that we're starting with a new transaction)"
+  },
+  {
+    "date":"2014-07-13T17:14:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Pre-Orders should be a completely different screen (right now you can intermingle that info with a regular order). Also, we're not able to choose a Requested Date for a Pre-Ordered Item when we select that option...having a separate screen to handle pre-orders should help us to add the Requested Date field along with the appropriate checks (to see if the Pre-Order slots have all been taken already or not)"
+  },
+  {
+    "date":"2014-07-13T17:16:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"preorder logic not implemented in the data model...I was hoping to use Tony's.  @TonyPotter did you implement preorder slots?"
+  },
+  {
+    "date":"2014-07-13T19:04:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I haven't implemented PreOrder logic yet."
+  },
+  {
+    "date":"2014-07-13T19:05:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It's implemented in the Web Service API side of things, (just for reference: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/Deliverable3\/6300Sum14Project2\/php-webservice-api\/docs\/preorders.md)"
+  },
+  {
+    "date":"2014-07-13T19:06:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I know. I haven't implemented it yet in my DBHelper, nor has Murali in his model."
+  },
+  {
+    "date":"2014-07-13T22:36:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter @OmarRamos Pre Order Logic added and pushed."
+  },
+  {
+    "date":"2014-07-13T22:37:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks for the update Murali ;-)"
+  },
+  {
+    "date":"2014-07-13T22:37:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll pull down the changes and try it out in just a bit here"
+  },
+  {
+    "date":"2014-07-13T23:34:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just updated the sample data in the live database for the web service, so when we start integrating that in it should be populated with a little bit of data (and I kept the customers as the soccer players ;-).\\n\\nExample links:\\nhttp:\/\/coffeecart.orware.com\/api\/reports\/purchases-made-today\\nhttp:\/\/coffeecart.orware.com\/api\/reports\/preorders-created-today\\nhttp:\/\/coffeecart.orware.com\/api\/customers\\nhttp:\/\/coffeecart.orware.com\/api\/items\\nhttp:\/\/coffeecart.orware.com\/api\/beverages\\nhttp:\/\/coffeecart.orware.com\/api\/desserts\\nhttp:\/\/coffeecart.orware.com\/api\/bestsellers"
+  },
+  {
+    "date":"2014-07-13T23:35:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I'm going to test out your updates right now"
+  },
+  {
+    "date":"2014-07-13T23:44:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Another issue I noticed...if the entered VIP Card Number doesn't match one of the available ones it causes the app to quit unexpectedly."
+  },
+  {
+    "date":"2014-07-13T23:49:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju For the Pre-Orders I was able to test adding an item until the pre-order slots were filled"
+  },
+  {
+    "date":"2014-07-13T23:51:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter On my end, in order to get the app working I have to remove some of methods in DatabaseHelperJSON temporarily that are referring to a DatabaseManager class so the project can compile (that's the only problem I ran into trying to run the app)"
+  },
+  {
+    "date":"2014-07-13T23:52:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's fine. i'm still workin gon that DBJson class so it's not readyd"
+  },
+  {
+    "date":"2014-07-13T23:53:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"no problem, just wanted to mention it ;-)"
+  }
+]

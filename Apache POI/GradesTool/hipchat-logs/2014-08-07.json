@@ -1,0 +1,207 @@
+[
+  {
+    "date":"2014-08-07T00:37:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter new gui classes are pushed and ready for you.  Any changes to GUI have to be made by opening the class with WindowsBuilder editor only not the normal java editor. (right click>open with>windowsbuilder).  Non gui code can be added in default editor."
+  },
+  {
+    "date":"2014-08-07T00:38:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos I will look at Project class."
+  },
+  {
+    "date":"2014-08-07T00:38:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thank you!"
+  },
+  {
+    "date":"2014-08-07T00:39:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all can we get together and plan out tasks for each of us.  Appears like Tony is still tied up with the family thing."
+  },
+  {
+    "date":"2014-08-07T00:41:40+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i am working on writing the codes for the team & teams class, i should have something to show for by tomorrow"
+  },
+  {
+    "date":"2014-08-07T00:44:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju If you're able to sort out the initialize() method for me in the Project class I should be able to apply the same or a similar approach in the Assignment(s) and Rating(s) classes too. The main issue I had been running into was just the debugger not behaving for me so if you run into that same \"ClassNotFoundException\" let me know."
+  },
+  {
+    "date":"2014-08-07T00:44:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Is the GUI already working or is it stubbed out with example data?"
+  },
+  {
+    "date":"2014-08-07T00:45:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(I'm just wondering since we haven't built the other classes out yet so I'm not sure how it's pulling in data yet)"
+  },
+  {
+    "date":"2014-08-07T00:45:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Also, what's the best way to test\/run the GUI so we can try it out?"
+  },
+  {
+    "date":"2014-08-07T01:32:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos GUI does not have data.  @TonyPotter  was going to provide the data methods.  If we dont hear from Tony by tomorrow we will have to plan for data integration."
+  },
+  {
+    "date":"2014-08-07T01:34:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Once we have Team(s) and Project(s) going we should have most of it available and the others (Assignment(s) and Rating(s)) should come pretty quickly after that and should provide the methods you need for the data integration I believe."
+  },
+  {
+    "date":"2014-08-07T01:36:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"We additionally have for extra credit this week extending GradesDB and implementing the interface they provided and have it handle the additional functionality they described."
+  },
+  {
+    "date":"2014-08-07T02:02:06+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos to test GUI  you should be able to run the GUIcontroller class which has a main in it."
+  },
+  {
+    "date":"2014-08-07T02:08:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"you can also check the design in the design tab in the windowbuilder editor."
+  },
+  {
+    "date":"2014-08-07T02:11:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Is the GUIController class new?"
+  },
+  {
+    "date":"2014-08-07T02:33:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yes.  Pull again - I added Save button."
+  },
+  {
+    "date":"2014-08-07T02:34:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"That's it for tonight.  "
+  },
+  {
+    "date":"2014-08-07T04:53:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"GradesDB.java",
+      "size":8306,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/EXbLkxhI5oxkLn6\/GradesDB.java"
+    },
+    "message":"@all sorry for being gone so long.  I worked on the GradesDB.java, but am having trouble pushing the changes, so I'm putting them here."
+  },
+  {
+    "date":"2014-08-07T05:16:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter thanks tony!"
+  },
+  {
+    "date":"2014-08-07T05:16:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think i got it to upload, let me know if I pushed it correclty."
+  },
+  {
+    "date":"2014-08-07T14:04:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter It seems like it's only picking up this change in that commit:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/commit\/fcfdd94387324ba3457c77954e1a50ddfed6e7c4"
+  },
+  {
+    "date":"2014-08-07T18:37:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@all i have just added the codes in the team and teams classes. When you have time please check to see if it is any good. I have tried my best but it may not be good enough though especially teams class. Thanks guys!!"
+  },
+  {
+    "date":"2014-08-07T18:37:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Thanks for the update!"
+  },
+  {
+    "date":"2014-08-07T19:32:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@all the new changes should be up."
+  },
+  {
+    "date":"2014-08-07T19:33:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks Tony, I'll check them out once I get home ;-)"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "date":"2014-07-09T01:02:06+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Were we meeting today?"
+  },
+  {
+    "date":"2014-07-09T01:02:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I just assumed we were meeting every other day lol"
+  },
+  {
+    "date":"2014-07-09T01:03:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"me too.  I was hoping @MuraliRaju had a chance to give me feedback on the testing suites."
+  },
+  {
+    "date":"2014-07-09T01:04:00+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"we can switch it up this time and meet tomorrow with a formal notice i guess so everyone can join"
+  },
+  {
+    "date":"2014-07-09T01:04:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I don't have too much to report yet myself"
+  },
+  {
+    "date":"2014-07-09T01:04:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think meeting tomorrow would be a good idea ;-)"
+  },
+  {
+    "date":"2014-07-09T01:05:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Me too.  I still need to work on updating that software architecture"
+  },
+  {
+    "date":"2014-07-09T01:05:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ya i am also working on the traceability and don't have anything to show yet :)"
+  },
+  {
+    "date":"2014-07-09T01:05:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I found this which looks more promising.  http:\/\/www.codingthearchitecture.com\/pages\/book\/software-architecture-document-guidelines.html"
+  },
+  {
+    "date":"2014-07-09T01:06:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I saw that one too the other night it did look good (I was tempted to buy the book right then and there but decided to hold off a bit, but I think it would be an excellent resource)"
+  },
+  {
+    "date":"2014-07-09T01:07:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So tomorrow then? That'll give me some more time to work on some experiments tonight with the SQLite stuff"
+  },
+  {
+    "date":"2014-07-09T01:07:46+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good to me, see you guys then"
+  },
+  {
+    "date":"2014-07-09T01:08:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Good luck! Till then :D"
+  },
+  {
+    "date":"2014-07-09T01:15:06+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter  I did post comment about the test suite last week.  Let me find it."
+  },
+  {
+    "date":"2014-07-09T01:15:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had seen you mentioned it didn't match exactly what you had written"
+  },
+  {
+    "date":"2014-07-09T01:15:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I thought you had mentioned we were going to go through them and revise them"
+  },
+  {
+    "date":"2014-07-09T01:16:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"If you want i can do that tonight\/tomorrow and compare notes."
+  },
+  {
+    "date":"2014-07-09T01:18:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yes.  I thought the test case review should be combined with our plan for the final product.  Test Case -> Design vs Requirements->Design->Test Case."
+  },
+  {
+    "date":"2014-07-09T01:18:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Other wise we will be doing a lot of coding just to pass the test cases."
+  },
+  {
+    "date":"2014-07-09T01:19:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok. I'll continue to work on them and we'll talk tomorro wthen?"
+  },
+  {
+    "date":"2014-07-09T01:19:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I think we should do this as a team - based on time availability for coding."
+  },
+  {
+    "date":"2014-07-09T01:20:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Before you spend any more time on test cases we should freeze design\/requirements."
+  },
+  {
+    "date":"2014-07-09T01:20:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had written those based on what I thought were expected behaviors."
+  },
+  {
+    "date":"2014-07-09T01:20:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so for requirements we're freezing?"
+  },
+  {
+    "date":"2014-07-09T01:21:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"are we allowing editing of VIP account?"
+  },
+  {
+    "date":"2014-07-09T01:21:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I meant UI requirements - details we did not get into."
+  },
+  {
+    "date":"2014-07-09T01:21:34+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ah."
+  },
+  {
+    "date":"2014-07-09T01:22:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Lets walk through the test cases also tomorrow. That way we can freeze everything at once."
+  },
+  {
+    "date":"2014-07-09T01:22:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok. sounds good."
+  },
+  {
+    "date":"2014-07-09T01:23:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any ideas on the code and class design.  Use as is or change some classes?"
+  },
+  {
+    "date":"2014-07-09T01:24:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I took some short cuts because it was proto."
+  },
+  {
+    "date":"2014-07-09T01:24:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It depends how we can integrate MySQL.  Do we want db to take care of data structures or do we want to code data structures?"
+  },
+  {
+    "date":"2014-07-09T01:24:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"And I was running out of time."
+  },
+  {
+    "date":"2014-07-09T01:24:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I was thinking the former, "
+  },
+  {
+    "date":"2014-07-09T01:25:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"for persistance is there any other choice."
+  },
+  {
+    "date":"2014-07-09T01:25:36+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"The database class was for temporary use."
+  },
+  {
+    "date":"2014-07-09T01:26:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"More along the lines, do we want to create objects and load from DB into objects or directly call data from db fields?"
+  },
+  {
+    "date":"2014-07-09T01:26:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I prefer load into objects - we can then use the db class."
+  },
+  {
+    "date":"2014-07-09T01:26:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Do we need to create a customer class, load all the fields, and edit as needed, then update all fields in DB or do we want to have direct access to db fields?"
+  },
+  {
+    "date":"2014-07-09T01:26:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It's an encapsulation issue, s'why I'm asking"
+  },
+  {
+    "date":"2014-07-09T01:27:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Customer class."
+  },
+  {
+    "date":"2014-07-09T01:28:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So we'll need to code tohse classes up - customer, purchase, and db hooks to interact with them."
+  },
+  {
+    "date":"2014-07-09T01:29:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can work on those classes, Omar mentioned he was looking up ways to connect to db"
+  },
+  {
+    "date":"2014-07-09T01:30:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Ok as before I dont mind you taking the lead on alpha and beta and I will assist."
+  },
+  {
+    "date":"2014-07-09T01:30:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-09T01:31:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll get some rough classes up tomorrow then."
+  },
+  {
+    "date":"2014-07-09T01:31:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"tomorrow we can talk about db hooks and freezing "
+  },
+  {
+    "date":"2014-07-09T01:33:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK tomorrow the. Gnite."
+  },
+  {
+    "date":"2014-07-09T20:41:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@MuraliRaju  I pushed Customer.java to represent customer, Item.java as an interface implemented by Coffee.java and Dessert.java, and Purchase.java to represent purchases.  I put in some empty methods to allow data to be loaded or saved to\/from db.  Let me know ifyou have any questions, otherwise I'll be back around eight."
+  }
+]

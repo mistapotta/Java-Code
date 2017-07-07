@@ -1,0 +1,338 @@
+[
+  {
+    "date":"2014-07-30T01:02:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed first cut of GUI."
+  },
+  {
+    "date":"2014-07-30T01:26:41+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Working on fine tuning elements in GUI."
+  },
+  {
+    "date":"2014-07-30T01:27:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter will you be integrating the data into the GUI?"
+  },
+  {
+    "date":"2014-07-30T01:29:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"actually we're supposed to be writing JUnit test cases for GUI, not actually coding the GUI"
+  },
+  {
+    "date":"2014-07-30T01:30:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"but yes, in Deliverabel 3 I'll implement the data into it."
+  },
+  {
+    "date":"2014-07-30T01:31:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I was referring to future deliverables. "
+  },
+  {
+    "date":"2014-07-30T01:31:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah, we'll do that."
+  },
+  {
+    "date":"2014-07-30T01:32:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Is your data model complete?"
+  },
+  {
+    "date":"2014-07-30T01:33:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"afaik GradesDB and Student tests are"
+  },
+  {
+    "date":"2014-07-30T01:33:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"still checking the others."
+  },
+  {
+    "date":"2014-07-30T01:35:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"GUI class requirement for this deliverable is just the components implemented as described right?  "
+  },
+  {
+    "date":"2014-07-30T01:35:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"GUI Test should be Junit tests that test the requirements.  The GUI itself shouldn't be coded"
+  },
+  {
+    "date":"2014-07-30T01:36:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"or should just have dummy methods so the Junit tests can be compiled"
+  },
+  {
+    "date":"2014-07-30T01:36:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"If you pull Project.java and Projects.java you'll see they're just empty stubs"
+  },
+  {
+    "date":"2014-07-30T01:36:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Create a GradesToolGUI class with a title bar to display the application name, combo box to display a list of students, text box to display information about the selected student, and a save button to save the student information to a text file"
+  },
+  {
+    "date":"2014-07-30T01:37:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If I read this right...its asking for implementation of components."
+  },
+  {
+    "date":"2014-07-30T01:37:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Those are task cards.  The deliverable 2 submission says just to add JUnit test cases, and possibly skeleton code to make test cases compile.  "
+  },
+  {
+    "date":"2014-07-30T01:39:42+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like I was working ahead..."
+  },
+  {
+    "date":"2014-07-30T01:40:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@omar I added a Teams.java and a stub, which I needed for @ChandraSapkota ProjectTest.java"
+  },
+  {
+    "date":"2014-07-30T01:40:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"not a problem.  it's hard to restrain when you know what's eventually coming down the pike."
+  },
+  {
+    "date":"2014-07-30T01:41:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Actually ... I was not paying attention... forgot the whole agile thing..."
+  },
+  {
+    "date":"2014-07-30T01:42:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"GUI is optional at this phase so don't sweat it."
+  },
+  {
+    "date":"2014-07-30T01:42:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"If you wanted to come up with extra task cards, that's also something we can do"
+  },
+  {
+    "date":"2014-07-30T01:45:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter thanks for the update I'll catch up on the rest of the notes above a little later this evening (just got home)"
+  },
+  {
+    "date":"2014-07-30T01:49:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will finish up the GUI tonight instead of deferring it to next week...while I am in the swing...will work on tests tommorow."
+  },
+  {
+    "date":"2014-07-30T01:50:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good.  just make sure you push a skeleton gui instead of the formal one."
+  },
+  {
+    "date":"2014-07-30T01:50:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I already pushed ver 2.  We can always push an skeleton."
+  },
+  {
+    "date":"2014-07-30T01:51:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Working on ver 3."
+  },
+  {
+    "date":"2014-07-30T01:52:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I used swing...and with my luck they will switch requirements to awt or android or something else."
+  },
+  {
+    "date":"2014-07-30T01:53:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm more comfortable with swing anyway.  We'll adapt when we need to."
+  },
+  {
+    "date":"2014-07-30T01:53:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so we'll meet back Thursday to discuss any issues?"
+  },
+  {
+    "date":"2014-07-30T01:55:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK.  If you get a chance review my data implementation using Tables class.  See if it will make your life easier in getting the data .... when we get there."
+  },
+  {
+    "date":"2014-07-30T01:56:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk :)"
+  },
+  {
+    "date":"2014-07-30T01:56:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Do you have the classes I posted here."
+  },
+  {
+    "date":"2014-07-30T01:56:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've pulled everything up to date."
+  },
+  {
+    "date":"2014-07-30T01:57:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did not push them to git.  I dropped them in hipchat."
+  },
+  {
+    "date":"2014-07-30T01:57:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"There are in the files tab."
+  },
+  {
+    "date":"2014-07-30T01:58:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Talk to you on thursday."
+  },
+  {
+    "date":"2014-07-30T01:58:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I see it."
+  },
+  {
+    "date":"2014-07-30T02:47:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter For GradesDBTest2 I think you should be able to just include the new test cases (I don't think we need to repeat the ones from the original file).\\n\\nAlso, I'm not sure exactly how to fully create the test for the Projects.refresh() method (in the current test, I added a note about assuming the Excel file was modified in some way or that we can manually add an additional Project to the list). I'm open to suggestions...maybe an addProject() method should be added that could help?"
+  },
+  {
+    "date":"2014-07-30T05:28:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@all i just pushed the classes for TeamTest and TeamsTest, i'm sure there is ton of mistakes as you know i kinda suck at coding, so please feel free to look at it and comment\/make changes on it. It is very similar to what @OmarRamos has since his and mine and pretty much the same. Also in the team.refresh is same as Omar's and will make changes as we come up with a solution. Thanks!!"
+  },
+  {
+    "date":"2014-07-30T23:07:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all Pushed GUI and GUITest.  We can discuss tomorrow.  I am not too sure what to remove from the code to make them \"skeletons\"."
+  }
+]

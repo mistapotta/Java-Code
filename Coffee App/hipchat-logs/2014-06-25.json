@@ -1,0 +1,1715 @@
+[
+  {
+    "date":"2014-06-25T00:49:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"bhupatiraju_assignment4.pdf",
+      "size":60313,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/3zFKunTrwqjF7SG\/bhupatiraju_assignment4.pdf"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-25T00:49:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"not much of an uml - hopefully sufficient for the TA."
+  },
+  {
+    "date":"2014-06-25T00:51:23+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"coffeeCartSystemDesign.pdf",
+      "size":76833,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/oB6c2VvB7ODODrr\/coffeeCartSystemDesign.pdf"
+    },
+    "message":"And here is mine, not sure if it's correct lol"
+  },
+  {
+    "date":"2014-06-25T00:52:18+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"And guys i have been doing some research in risk assessment, i have prepared several questions that would help us assess the risk involved"
+  },
+  {
+    "date":"2014-06-25T00:53:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"good - I did not get the risk assesment and what it involves from the lecture."
+  },
+  {
+    "date":"2014-06-25T00:53:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The lectures actually didn't seem to cover quite a few of the documents we're supposed to create it looks like"
+  },
+  {
+    "date":"2014-06-25T00:53:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"at least not in any detail"
+  },
+  {
+    "date":"2014-06-25T00:54:21+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I agree, it was not detailed, i guess he wants us to research on that ourselves"
+  },
+  {
+    "date":"2014-06-25T00:54:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yeah...I am loosing interest in the lectures...especially the hand wavin is bugging me to no end..."
+  },
+  {
+    "date":"2014-06-25T00:55:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"LOL"
+  },
+  {
+    "date":"2014-06-25T00:55:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup and I also think since a lot of the documents out there are super detailed, they don't necessarily want us to go to that extreme, so for each document we'll pick the necessary pieces and focus on those for the documents we have to create"
+  },
+  {
+    "date":"2014-06-25T00:56:33+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"agree, i am a little confused on the project plan, showing phases and iterations, how is project plan different than vision document?"
+  },
+  {
+    "date":"2014-06-25T00:57:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Assignment4 - Class Diagram - tpotter8.pdf",
+      "size":31800,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/gHPEm1XCdJneaUA\/Assignment4 - Class Diagram - tpotter8.pdf"
+    },
+    "message":"Here's mine."
+  },
+  {
+    "date":"2014-06-25T00:57:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I was wondering about that too, though screenshot #2 above seems to have a small thumbnail about how it might look, which may help us"
+  },
+  {
+    "date":"2014-06-25T00:57:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"bottom line :"
+  },
+  {
+    "date":"2014-06-25T00:57:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"use case"
+  },
+  {
+    "date":"2014-06-25T00:57:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"uml"
+  },
+  {
+    "date":"2014-06-25T00:57:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"code"
+  },
+  {
+    "date":"2014-06-25T00:58:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"test"
+  },
+  {
+    "date":"2014-06-25T00:58:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"everything else is embellished course material..."
+  },
+  {
+    "date":"2014-06-25T00:58:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"In this deliverable i believe it's more how we will do it rather than what we have in terms of code and testing"
+  },
+  {
+    "date":"2014-06-25T01:00:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"true, like the last project a lot of it has to do more with the planning process than the end result (though the end result is still required ;-)"
+  },
+  {
+    "date":"2014-06-25T01:00:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm happy to take a crack at the vision document"
+  },
+  {
+    "date":"2014-06-25T01:01:29+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I will take a crack at the risk assesment"
+  },
+  {
+    "date":"2014-06-25T01:01:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sounds good :D"
+  },
+  {
+    "date":"2014-06-25T01:02:16+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Use case model we can brain storm i guess and evolve one of ours"
+  },
+  {
+    "date":"2014-06-25T01:02:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can do architecture."
+  },
+  {
+    "date":"2014-06-25T01:02:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"the Project Plan looks awfully similar to a gant-type chart in screenshot #2 above"
+  },
+  {
+    "date":"2014-06-25T01:03:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Use Case models are the stick figure ones right?"
+  },
+  {
+    "date":"2014-06-25T01:03:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1d\/Use_case_restaurant_model.svg\/320px-Use_case_restaurant_model.svg.png"
+  },
+  {
+    "date":"2014-06-25T01:04:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"prototype for me then...?"
+  },
+  {
+    "date":"2014-06-25T01:04:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju we know you wanted to code anyway ;-)"
+  },
+  {
+    "date":"2014-06-25T01:04:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":":)"
+  },
+  {
+    "date":"2014-06-25T01:05:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"it fell in my lap..."
+  },
+  {
+    "date":"2014-06-25T01:05:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-06-25T01:06:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"whatever works.  It worked out well last time :)"
+  },
+  {
+    "date":"2014-06-25T01:06:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"how are we going to show phases and iterations?"
+  },
+  {
+    "date":"2014-06-25T01:07:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":" phases could be shown as documents are pushed, although I know Murali wanted to limit pushes to necessary."
+  },
+  {
+    "date":"2014-06-25T01:09:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"one thing I was wondering about with these documents is how we should organize them in the repository (some we can simply start working on in Markdown format pretty easily, but for others that are more graphical we may need to place the works in progress in a subdirectory in the Deliverable1 folder and then just place the final output PDF file directly in the Deliverable1 root...in particular for something like the use-case model)"
+  },
+  {
+    "date":"2014-06-25T01:09:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"any freeware for use case models"
+  },
+  {
+    "date":"2014-06-25T01:10:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think ArgoUML should work for the use case models"
+  },
+  {
+    "date":"2014-06-25T01:10:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"i like argo"
+  },
+  {
+    "date":"2014-06-25T01:10:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So each of the documents in Note 2 would have a corresponding In_Progress folder?"
+  },
+  {
+    "date":"2014-06-25T01:10:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"https:\/\/www.youtube.com\/watch?v=U-sH0_rhgPU"
+  },
+  {
+    "date":"2014-06-25T01:12:05+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"nice music there Omar haha"
+  },
+  {
+    "date":"2014-06-25T01:12:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I don't think every document needs an in-progress folder created. I was just thinking to have one in-progress folder for those documents that will have a diffferent file format than the ones they want...so let's say the real ArgoUML format files will go in the Deliverable1\/in-progress folder, and the final PDF version would go into the Deliverable1 folder directly)"
+  },
+  {
+    "date":"2014-06-25T01:12:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk."
+  },
+  {
+    "date":"2014-06-25T01:14:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds goo to me"
+  },
+  {
+    "date":"2014-06-25T01:14:46+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*good"
+  },
+  {
+    "date":"2014-06-25T01:15:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm creating a Deliverable1 branch for us to work in:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1"
+  },
+  {
+    "date":"2014-06-25T01:16:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"How did you do it so fast, man i got learn it well :)"
+  },
+  {
+    "date":"2014-06-25T01:17:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"command line...i guess."
+  },
+  {
+    "date":"2014-06-25T01:17:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ya thats the fastest way"
+  },
+  {
+    "date":"2014-06-25T01:19:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll upload a screenshot of the commands right now ;-)"
+  },
+  {
+    "date":"2014-06-25T01:19:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I just added the in-progress folder for Deliverable1 as well"
+  },
+  {
+    "date":"2014-06-25T01:19:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"git_adding_Deliverable1_branch.png",
+      "size":41722,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/wBxtKcuQhF7x71L\/git_adding_Deliverable1_branch.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-25T01:20:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1\/6300Sum14Project2\/Deliverable1"
+  },
+  {
+    "date":"2014-06-25T01:20:23+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"cool, thanks Omar"
+  },
+  {
+    "date":"2014-06-25T01:22:57+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So, lets recap who is doing we will get to it i guess ;)"
+  },
+  {
+    "date":"2014-06-25T01:23:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*what"
+  },
+  {
+    "date":"2014-06-25T01:24:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":" - Vision Document (Omar)\\n - Initial use-case model \\n - Initial risk assessment (Chandra)\\n - Project plan, showing phases and iterations (Tony...not sure if this one or the use case model fell under \"architecture\"?)\\n - [Optionally] One or more prototypes (Murali)"
+  },
+  {
+    "date":"2014-06-25T01:26:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"oramos6_assignment_04.zargo",
+      "size":18241,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/Gl4yI3FlbqvDfR6\/oramos6_assignment_04.zargo"
+    },
+    "message":"Just adding my ArgoUML document in case we end needing to use any of it"
+  },
+  {
+    "date":"2014-06-25T01:26:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We probably should discuss our submissions for Assign 4 and see what we want to implement in our project."
+  },
+  {
+    "date":"2014-06-25T01:27:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Where should we start?"
+  },
+  {
+    "date":"2014-06-25T01:27:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"probably with the customer"
+  },
+  {
+    "date":"2014-06-25T01:28:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what fields do we feel are essential"
+  },
+  {
+    "date":"2014-06-25T01:28:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and what do we feel are \"nice to have\""
+  },
+  {
+    "date":"2014-06-25T01:28:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and what are extraneous."
+  },
+  {
+    "date":"2014-06-25T01:30:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"by fields you mean attributes Tony?"
+  },
+  {
+    "date":"2014-06-25T01:30:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So first, should we look at it as a Customer or a CustomerAccount or a VIPCustomer or VIPAccount?"
+  },
+  {
+    "date":"2014-06-25T01:30:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah."
+  },
+  {
+    "date":"2014-06-25T01:31:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"This whole system is for VIP customers and the owner, so i would say VIPCustomer?"
+  },
+  {
+    "date":"2014-06-25T01:32:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"My only concern with that is that we have to keep track of points until they become VIP"
+  },
+  {
+    "date":"2014-06-25T01:32:38+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so do we want a VIPCustomer class that extends Customer?"
+  },
+  {
+    "date":"2014-06-25T01:32:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"or is it enough to have a boolean attribute?"
+  },
+  {
+    "date":"2014-06-25T01:33:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The boolean attribute should be enough (in my case, I switched it from a boolean to a calculated method since really that value depends on the purchases)"
+  },
+  {
+    "date":"2014-06-25T01:33:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(though you could potentially cache the value after calculating it once inside of the customer as a boolean)"
+  },
+  {
+    "date":"2014-06-25T01:34:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i agree it should be a calculated method, even though I originally put it as two boolean variables (isTempGold and isPermGold)"
+  },
+  {
+    "date":"2014-06-25T01:34:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"maybe a boolean for PermGold?"
+  },
+  {
+    "date":"2014-06-25T01:35:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Overall though, I think your Customer class is pretty darn close to how it probably should look since you included a lot of the extra methods that we would probably need to add"
+  },
+  {
+    "date":"2014-06-25T01:35:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so then what attributes are essential and what is \"nice to have\"?"
+  },
+  {
+    "date":"2014-06-25T01:35:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cardNumber, clearly, and Name"
+  },
+  {
+    "date":"2014-06-25T01:35:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"though I think just having a simple isGold() method should suffice (since there really isn't a difference between a temporary gold person and a permanent gold person...they're both \"GOLD\")"
+  },
+  {
+    "date":"2014-06-25T01:36:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"a decision on the name would be to break it down into first\/last name"
+  },
+  {
+    "date":"2014-06-25T01:36:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I decided to go ahead and do that for mine since I know with databases it can be quite handy to have that breakdown down the road"
+  },
+  {
+    "date":"2014-06-25T01:36:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"only reason I thought a isPermGold as an attribute was to check first, almost as a short circuit in the isGold() method."
+  },
+  {
+    "date":"2014-06-25T01:37:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i agree isTempGold is useless."
+  },
+  {
+    "date":"2014-06-25T01:38:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"i gotcha on the short circuit (that would be the cached value you would update after isGold() is run for the first time correct? So initially it's false and the isGold() body runs and at the end it updates the internal attribute...then for subsequent calls it can just short circuit and return that value correct?)"
+  },
+  {
+    "date":"2014-06-25T01:38:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-06-25T01:38:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so if (isPermGold) return true; "
+  },
+  {
+    "date":"2014-06-25T01:38:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"then \/\/test last 30 days."
+  },
+  {
+    "date":"2014-06-25T01:39:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so phone and address - essential or nice to have?"
+  },
+  {
+    "date":"2014-06-25T01:39:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Address was not part of the original requirements IIRC?"
+  },
+  {
+    "date":"2014-06-25T01:39:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"but I think it's a nice to have"
+  },
+  {
+    "date":"2014-06-25T01:39:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I would leave it"
+  },
+  {
+    "date":"2014-06-25T01:40:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"leave it in?"
+  },
+  {
+    "date":"2014-06-25T01:40:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"phone number was part of the original requirements so we should keep that as well"
+  },
+  {
+    "date":"2014-06-25T01:40:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, so we'll need an Address class to implement?"
+  },
+  {
+    "date":"2014-06-25T01:40:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"store phone as a long or as fields (area code\/prefix\/number?)"
+  },
+  {
+    "date":"2014-06-25T01:40:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup, unless there's something already built-in to java that handles that (addresses)"
+  },
+  {
+    "date":"2014-06-25T01:41:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think a long would be easier to work with, but breaking it down could be useful...let me take a quick look at something (to help decide on the area code breakdown yay\/nay)"
+  },
+  {
+    "date":"2014-06-25T01:41:41+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I vote on skipping address class - does not help any other requirement either."
+  },
+  {
+    "date":"2014-06-25T01:41:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"like mailing vip status etc."
+  },
+  {
+    "date":"2014-06-25T01:41:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right Murali, address is nice to have."
+  },
+  {
+    "date":"2014-06-25T01:42:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"not essential"
+  },
+  {
+    "date":"2014-06-25T01:42:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"maybe implement in a later stage."
+  },
+  {
+    "date":"2014-06-25T01:43:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"not a big deal to implement...we will add it at the end."
+  },
+  {
+    "date":"2014-06-25T01:43:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so purchases, I implemented as a List of type Purchase"
+  },
+  {
+    "date":"2014-06-25T01:44:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and for accessors I had getPurchases() returning a List"
+  },
+  {
+    "date":"2014-06-25T01:44:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"getPointsLast30Days and getPointsLIfetime() returning ints"
+  },
+  {
+    "date":"2014-06-25T01:44:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and addPurchase(Purchase) which adds to the list."
+  },
+  {
+    "date":"2014-06-25T01:44:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"what do you think?"
+  },
+  {
+    "date":"2014-06-25T01:45:31+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter for the phone numbers question, I would break out the area code separate from the rest (ideally), so you'd end up with two fields making up the phone number, but leaving it all as one field is perfectly ok as well."
+  },
+  {
+    "date":"2014-06-25T01:45:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"looking at your uml..."
+  },
+  {
+    "date":"2014-06-25T01:47:07+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"As an extra functionality we can also add the points received in each purchase?"
+  },
+  {
+    "date":"2014-06-25T01:47:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@OmarRamos  so you want a long phonenumber that we could mask to format or divide by 10000000 to get area code?"
+  },
+  {
+    "date":"2014-06-25T01:47:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Purchase as list might become a large object over 30 days...hey are we jumping into coding..."
+  },
+  {
+    "date":"2014-06-25T01:47:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think that looks good (I think I did mine somewhat similarly)"
+  },
+  {
+    "date":"2014-06-25T01:47:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we're just discussing architecture"
+  },
+  {
+    "date":"2014-06-25T01:48:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"good..."
+  },
+  {
+    "date":"2014-06-25T01:48:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"implementation comes much later.  we're basically coming up with a combined Assignment 4 :)"
+  },
+  {
+    "date":"2014-06-25T01:48:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we're \"prototyping\" our methods :)"
+  },
+  {
+    "date":"2014-06-25T01:48:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"As an aside, I'm guessing for data storage we're going to be using some sort of SQLite database"
+  },
+  {
+    "date":"2014-06-25T01:48:41+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah...prototyping..."
+  },
+  {
+    "date":"2014-06-25T01:49:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Omar, storage is something we can decide later."
+  },
+  {
+    "date":"2014-06-25T01:49:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I think that approach for the phone number should work :-)"
+  },
+  {
+    "date":"2014-06-25T01:49:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"only reason I wanted a List of all purchases was to easily access the last 30 days.  We could keep a running total of lifetime points in a attribute"
+  },
+  {
+    "date":"2014-06-25T01:51:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"30 day purchase list is not a requirement...right...a running total will be more effecient"
+  },
+  {
+    "date":"2014-06-25T01:51:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"issue is how do we keep track of expiring points leaving the 30 day window?"
+  },
+  {
+    "date":"2014-06-25T01:52:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"i see your point..."
+  },
+  {
+    "date":"2014-06-25T01:52:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Since I was looking at things from a database perspective, I knew the total points could be easily calculated at that level and simply returned via a method we create pretty quickly (without having to store too much data within the object...just the numeric results)."
+  },
+  {
+    "date":"2014-06-25T01:52:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Same goes for the 30 day window bit (with a database query)"
+  },
+  {
+    "date":"2014-06-25T01:52:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, then just accessors but no record in the object.  all db calls, right?"
+  },
+  {
+    "date":"2014-06-25T01:53:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"or actually"
+  },
+  {
+    "date":"2014-06-25T01:53:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if its all in db, we don't really care how many points they have at one time"
+  },
+  {
+    "date":"2014-06-25T01:53:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"just if they're gold right now, whether temp or perm."
+  },
+  {
+    "date":"2014-06-25T01:53:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I would say it's ok to leave the record of the object in for now, but we may end up removing it by the end depending on how it ends up fleshing out"
+  },
+  {
+    "date":"2014-06-25T01:53:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"which is a db call."
+  },
+  {
+    "date":"2014-06-25T01:53:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup that sounds about right"
+  },
+  {
+    "date":"2014-06-25T01:54:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so should getPhoneNumber() return String or long?"
+  },
+  {
+    "date":"2014-06-25T01:55:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"string"
+  },
+  {
+    "date":"2014-06-25T01:55:37+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"In the example the professor used as String"
+  },
+  {
+    "date":"2014-06-25T01:55:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I know the instructor used a string in an example, but I think long is probably a bit better (so long as we assume we're stripping out any non-numeric characters on save)"
+  },
+  {
+    "date":"2014-06-25T01:55:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"PEnnsylvania 6-5000 :)"
+  },
+  {
+    "date":"2014-06-25T01:56:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"string is just easier to work with I think if we're not thinking of \"normalizing\" all of the input"
+  },
+  {
+    "date":"2014-06-25T01:56:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we could have getPhoneNumber() and getFormattedPhoneNumber()"
+  },
+  {
+    "date":"2014-06-25T01:56:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think that'll work nicely"
+  },
+  {
+    "date":"2014-06-25T01:56:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":";-)"
+  },
+  {
+    "date":"2014-06-25T01:58:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we are getting ahead...of our current phase..."
+  },
+  {
+    "date":"2014-06-25T01:59:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"OK, going back to the Deliverables list:\\n- Vision Document (Omar)\\n- Initial use-case model \\n- Initial risk assessment (Chandra)\\n- Project plan, showing phases and iterations (Tony...not sure if this one or the use case model fell under \"architecture\"?)\\n- [Optionally] One or more prototypes (Murali)"
+  },
+  {
+    "date":"2014-06-25T02:00:27+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"does the use-case model have to be as detailed as the UML diagram?"
+  },
+  {
+    "date":"2014-06-25T02:00:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It sounded like for this week it should be relatively light weight"
+  },
+  {
+    "date":"2014-06-25T02:01:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and be concerned with the main \"actors\" and how they would be using the application"
+  },
+  {
+    "date":"2014-06-25T02:01:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If I understood the videos correctly"
+  },
+  {
+    "date":"2014-06-25T02:01:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Next week those would be fleshed out in even more detail"
+  },
+  {
+    "date":"2014-06-25T02:01:45+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"gotcha"
+  },
+  {
+    "date":"2014-06-25T02:02:24+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So let me work on the use case model too and then we can always change it around"
+  },
+  {
+    "date":"2014-06-25T02:03:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota  Sounds great :D"
+  },
+  {
+    "date":"2014-06-25T02:03:29+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok cool"
+  },
+  {
+    "date":"2014-06-25T02:03:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For Deliverable 2's \"Initial Design Model\" item...would that correspond with the UML diagrams we had to do create for Assignment #4? "
+  },
+  {
+    "date":"2014-06-25T02:03:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm trying to recall if a Design Model was something else or if that's what it was"
+  },
+  {
+    "date":"2014-06-25T02:05:10+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"not sure again on the 3rd deliverable, it says complete use-case model rather than design model"
+  },
+  {
+    "date":"2014-06-25T02:05:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah...I am confused ... design\/architecture...need to check pressman."
+  },
+  {
+    "date":"2014-06-25T02:06:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yeah, it looks like there might be a few blanks there we'll have to fill in, that's why they pay us the big bucks ;-)"
+  },
+  {
+    "date":"2014-06-25T02:07:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It looks a Design Model does more or less correspond with what we had to do for Assignment 4 though, at least from this picture:\\nhttp:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/RSA_Design_Model.jpg"
+  },
+  {
+    "date":"2014-06-25T02:08:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Then why are they not asking for a complete design model in deliverable 3, it would make more sense that way "
+  },
+  {
+    "date":"2014-06-25T02:08:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think they want it in Deliverable 4 @ChandraSapkota "
+  },
+  {
+    "date":"2014-06-25T02:09:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I agree...it was probably just an oversight on their part"
+  },
+  {
+    "date":"2014-06-25T02:09:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if we're implementing beta release in Deliverable 3, we're almost done with it by then."
+  },
+  {
+    "date":"2014-06-25T02:09:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"No real major tweaks, only minor ones."
+  },
+  {
+    "date":"2014-06-25T02:09:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(Deliverable 4 in particular is pretty broad...seems like we'll just be spending most of that week cleaning up and finalizing things)"
+  },
+  {
+    "date":"2014-06-25T02:10:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It makes sense, complete design model on deliverable 4, cool :)"
+  },
+  {
+    "date":"2014-06-25T02:10:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"the phases within a cycle pic is pretty helpful to visualize things (at least for me):\\nhttps:\/\/s3.amazonaws.com\/uploads.hipchat.com\/122253\/890397\/2JTK4oGqWt1H1Ud\/P3L4_phases_within_a_cycle.png"
+  },
+  {
+    "date":"2014-06-25T02:13:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah as I said...use case\/uml\/code\/test repackaged as software engineering..."
+  },
+  {
+    "date":"2014-06-25T02:14:06+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"delete that comment please..."
+  },
+  {
+    "date":"2014-06-25T02:14:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol you are multitasking Murali ?"
+  },
+  {
+    "date":"2014-06-25T02:15:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"haha, nope he's just giving our instructors a hard time ;-)"
+  },
+  {
+    "date":"2014-06-25T02:15:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"good actor though...."
+  },
+  {
+    "date":"2014-06-25T02:16:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"was impressed with his presentation and librarian skit..."
+  },
+  {
+    "date":"2014-06-25T02:17:10+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"he was quite poised, i wish i could say the same about the librarian though ;)"
+  },
+  {
+    "date":"2014-06-25T02:17:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Ok we have our tasks for this week...we will have plenty of opportunity to fine tune....lets go."
+  },
+  {
+    "date":"2014-06-25T02:17:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"sounds good team (I'm pretty sure our east coast teammates probably want to get some rest as well :-))"
+  },
+  {
+    "date":"2014-06-25T02:18:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"good chat...let's say we meet up again on Thursday same time?"
+  },
+  {
+    "date":"2014-06-25T02:18:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good, lets chat then"
+  },
+  {
+    "date":"2014-06-25T02:18:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"since I did not sign up for any docs I will stand by for helping all...shoot me you work in progress if you run into a roadblock."
+  },
+  {
+    "date":"2014-06-25T02:18:49+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"will do Murali"
+  },
+  {
+    "date":"2014-06-25T02:19:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will get strated on proto starting with Tony's uml."
+  },
+  {
+    "date":"2014-06-25T02:19:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"cool (I'll be working on the vision document tomorrow morning...I'm off from work this week so I have a bit of extra time to devote)"
+  },
+  {
+    "date":"2014-06-25T02:20:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sorry, had to put the boy to bed.  We're meeting up on Thurs to discuss issues? or when?"
+  },
+  {
+    "date":"2014-06-25T02:20:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Before we part ways, i have some questions as a risk assesement, let me what you guys think"
+  },
+  {
+    "date":"2014-06-25T02:20:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Thu will work."
+  },
+  {
+    "date":"2014-06-25T02:20:33+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Risk Assessment:\\n1. Can the hardware or software chosen to do the project handle the workload required to complete the project? Is the development platform suitable?\\n\\n2. Is the cost of labor, support costs and other charges within the budget and will it increase year to year?\\n\\n3. Do we have enough resources \/ manpower and will the project team member be in place when required?\\n\\n4. Has the requirements been gathered and defined adequetly?\\n\\n5. Is the requirements continually changing?\\n\\n6. Will the project be completed on time?\\n\\n7. Do we have the correct platform for testing and modeling?\\n\\n8. Will the system require continuos maintenance and debugging?\\n\\n9. Has the project been planned carefully and do we have a vision document?\\n\\n10. Do we have experienced team members and has the work been divided correctly?\\n\\n11. Is the user interface correct, clear and easy to use?"
+  },
+  {
+    "date":"2014-06-25T02:21:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"work in progress though"
+  },
+  {
+    "date":"2014-06-25T02:21:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota  looks good so far"
+  },
+  {
+    "date":"2014-06-25T02:21:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Thats the general idea...we need to get to specifics in this app."
+  },
+  {
+    "date":"2014-06-25T02:22:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Great point"
+  },
+  {
+    "date":"2014-06-25T02:22:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"looks like a good start Chandra"
+  },
+  {
+    "date":"2014-06-25T02:22:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"things specific to this project in particular would be great additions"
+  },
+  {
+    "date":"2014-06-25T02:22:29+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"yes, i should have 10-12 more more specific with the system"
+  },
+  {
+    "date":"2014-06-25T02:23:18+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I will send you guys a copy when i have an initial draft ready :)"
+  },
+  {
+    "date":"2014-06-25T02:23:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"example will android switch away from dalvik and break our program..."
+  },
+  {
+    "date":"2014-06-25T02:24:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"haha"
+  },
+  {
+    "date":"2014-06-25T02:24:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I guess we should all keep an eye out for what gets announced tomorrow at Google I\/O 2014 ;-)"
+  },
+  {
+    "date":"2014-06-25T02:24:45+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"haha"
+  },
+  {
+    "date":"2014-06-25T02:24:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":":D\\n"
+  },
+  {
+    "date":"2014-06-25T02:25:11+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"nexus 8 for sure"
+  },
+  {
+    "date":"2014-06-25T02:26:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I still use nexus 4...best phone ever made...gave the iphone to the wife..."
+  },
+  {
+    "date":"2014-06-25T02:26:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"good meeting everyone ;-). \\n\\nIf you have any updates between now and thursday feel free to share them here to keep us posted (I believe you can use the @all tag to ping everyone, if needed)"
+  },
+  {
+    "date":"2014-06-25T02:27:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good.  nite all!"
+  },
+  {
+    "date":"2014-06-25T02:27:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"g'nite..."
+  },
+  {
+    "date":"2014-06-25T02:27:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"gudnite.."
+  }
+]

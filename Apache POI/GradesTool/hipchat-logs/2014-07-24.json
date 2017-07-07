@@ -1,0 +1,66 @@
+[
+  {
+    "date":"2014-07-24T02:27:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Since everything is complete for this week's Deliverable do you want me to go ahead and merge in Deliverable-1 and turn in the project?"
+  },
+  {
+    "date":"2014-07-24T02:28:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think so.  did you and @ChandraSapkota  have a successful go at it yet?"
+  },
+  {
+    "date":"2014-07-24T02:30:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think Chandra was going to take a few days to work on his own version for learning purposes. In my case I'm not seeing a lot of value in going at it on my own since I've already been able to review both yours and Murali's approaches so I'm good for this week"
+  },
+  {
+    "date":"2014-07-24T02:38:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So if you're ok with that I can go ahead and take care of submitting it early (Murali approved yesterday and I'm happy with the code as well, and I believe Chandra was good with it too)"
+  },
+  {
+    "date":"2014-07-24T02:39:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok with me. :)"
+  },
+  {
+    "date":"2014-07-24T02:39:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Nice ;-). That way we can have a few clear days of not having to worry about too much until they post the next Deliverable :D"
+  },
+  {
+    "date":"2014-07-24T02:47:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Alright we should be all set now (Project 03 - Deliverable 1 should be submitted and the email confirmation has been forwarded to each of you :-))"
+  },
+  {
+    "date":"2014-07-24T03:40:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good, i was actually pretty close in creating my version of the code, had to see some advanced Java tutorials though, it was great to have a reference when i needed some guidance. Rest of the week i'll be working on it till the point where i would be fully satisfied :D "
+  }
+]

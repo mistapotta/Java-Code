@@ -1,0 +1,1114 @@
+[
+  {
+    "date":"2014-07-06T00:11:05+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hey guys, I am in a post of 4th of July family get together, I won't be able to make it today but I have written contingency for risk assessment"
+  },
+  {
+    "date":"2014-07-06T00:11:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I will push it later tonight or tomorrow"
+  },
+  {
+    "date":"2014-07-06T00:13:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also I have updated use case model also written description for it so please let me know if there is any changes guys"
+  },
+  {
+    "date":"2014-07-06T00:13:56+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Happy 4th, enjoy!!!"
+  },
+  {
+    "date":"2014-07-06T00:58:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Pushed my latest Proto."
+  },
+  {
+    "date":"2014-07-06T01:00:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I was able to finally implement fragments - actually I copied from Android tutorial from googles developer website.  I left the class names the same on one fragment incase you want to follow against the tutorial to understand.  We will change the names once you guys understand how it works."
+  },
+  {
+    "date":"2014-07-06T01:01:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"just pulled it."
+  },
+  {
+    "date":"2014-07-06T01:01:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Adding a new VIP is available in the VIP activity using the login button - kind of roundabout but will fix it next revision."
+  },
+  {
+    "date":"2014-07-06T01:02:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I just pulled it as well, I'lll go ahead and try it out in just a moment ;-)"
+  },
+  {
+    "date":"2014-07-06T01:03:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Did you get a chance to look at the tests I put?  Are those reasonable tests?"
+  },
+  {
+    "date":"2014-07-06T01:04:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I have spent over two days just coding this - so there is a lot of clean up I could not get to.  But the good news is we are very close to a beta also so next week is easy sailing. Play with it and let me know."
+  },
+  {
+    "date":"2014-07-06T01:04:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony - did not check out the tests."
+  },
+  {
+    "date":"2014-07-06T01:06:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've still yet to bea ble to run the project as loaded.  I tried making a new project, then copying the files to it, but it still runs the \"Hello World\" screen."
+  },
+  {
+    "date":"2014-07-06T01:06:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Since I hogged the coding on this project I would like to give you guys an opportunity take this to next level with me as support.  As I said in the commit comment its kind of crude and needs lot of polishing and improvement in user interface."
+  },
+  {
+    "date":"2014-07-06T01:07:37+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Hello world - I dont have that screen anywhere.  Did you try importing the project rather than copying."
+  },
+  {
+    "date":"2014-07-06T01:08:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I was able to get the new up and running ok"
+  },
+  {
+    "date":"2014-07-06T01:08:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It does look a bit different than the initial one from last week"
+  },
+  {
+    "date":"2014-07-06T01:08:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I tried.  @OmarRamos  can you give me a step-by-step how you did it?"
+  },
+  {
+    "date":"2014-07-06T01:08:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i tried from @MuraliRaju but it still runs the default Hello World screen when you create a project."
+  },
+  {
+    "date":"2014-07-06T01:09:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I imported over it but it's still not working."
+  },
+  {
+    "date":"2014-07-06T01:09:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Starting a new clone is the best way to get over the issues."
+  },
+  {
+    "date":"2014-07-06T01:11:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"On my end I had the same project-02 folder where I had checked out a fresh copy of the team repo the other week. For this week I have it checked out to the Deliverable2 branch so when I saw Murali had posted the update I just pulled in the changes (I already have my local eclipse workspace setup to show that project so that updated automatically and I just went ahead and tried running it as an Android App at that point and the updated one came through). I did have GenyMotion closed down during this time though, so I had to open up the emulator fresh before running the Android App."
+  },
+  {
+    "date":"2014-07-06T01:12:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok got a clean clone"
+  },
+  {
+    "date":"2014-07-06T01:15:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did not use GenyMotion."
+  },
+  {
+    "date":"2014-07-06T01:16:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Just ADK."
+  },
+  {
+    "date":"2014-07-06T01:16:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"That part shouldn't matter necessarily (I just mentioned it since for the other android assignment, leaving GenyMotion open over a long period would cause it to behave weird so I'd need to close it and restart it and it would respond normally again)"
+  },
+  {
+    "date":"2014-07-06T01:20:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will check for a moment will be back in 10."
+  },
+  {
+    "date":"2014-07-06T01:20:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i can see all the code, I just can' trun  it."
+  },
+  {
+    "date":"2014-07-06T01:21:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So the project is open in eclipse and everything? But when you hit Run as Android App, it doesn't actually do anything? Or it deploys an incorrect app?"
+  },
+  {
+    "date":"2014-07-06T01:21:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It shows the \"Hello World\" screen."
+  },
+  {
+    "date":"2014-07-06T01:21:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"under the Coffee Cart package"
+  },
+  {
+    "date":"2014-07-06T01:22:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So you have a HellowWorldActivity.java fil;e in the edu.gatech.coffeecart package?"
+  },
+  {
+    "date":"2014-07-06T01:23:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"no."
+  },
+  {
+    "date":"2014-07-06T01:27:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hmm...I wonder where it's picking it up from"
+  },
+  {
+    "date":"2014-07-06T01:27:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had tried what Murali originally recommended"
+  },
+  {
+    "date":"2014-07-06T01:28:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"to creat ea new project, then copy the files onto it, replacing the original files."
+  },
+  {
+    "date":"2014-07-06T01:28:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"did that work?"
+  },
+  {
+    "date":"2014-07-06T01:30:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"no."
+  },
+  {
+    "date":"2014-07-06T01:30:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I don't have a helloworld anywhere."
+  },
+  {
+    "date":"2014-07-06T01:31:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"you don't.  it's from the default project I built"
+  },
+  {
+    "date":"2014-07-06T01:31:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"you told me to create a new project, then copy the files onto it."
+  },
+  {
+    "date":"2014-07-06T01:31:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"But you already deleted it?"
+  },
+  {
+    "date":"2014-07-06T01:31:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"overwriting MainActivity and creating the other Activities in that folder."
+  },
+  {
+    "date":"2014-07-06T01:31:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did you do a project>clean"
+  },
+  {
+    "date":"2014-07-06T01:32:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"[2014-07-05 20:30:31 - CoffeeCart] ------------------------------\\n[2014-07-05 20:30:31 - CoffeeCart] Android Launch!\\n[2014-07-05 20:30:31 - CoffeeCart] adb is running normally.\\n[2014-07-05 20:30:31 - CoffeeCart] Performing edu.gatech.coffeecart.MainActivity activity launch\\n[2014-07-05 20:30:31 - CoffeeCart] Automatic Target Mode: using existing emulator 'emulator-5554' running compatible AVD 'Nexus4'\\n[2014-07-05 20:30:31 - CoffeeCart] Application already deployed. No need to reinstall.\\n[2014-07-05 20:30:31 - CoffeeCart] Starting activity edu.gatech.coffeecart.MainActivity on device emulator-5554\\n[2014-07-05 20:30:31 - CoffeeCart] ActivityManager: WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.\\n[2014-07-05 20:30:31 - CoffeeCart] New package not yet registered with the system. Waiting 3 seconds before next attempt.\\n[2014-07-05 20:30:34 - CoffeeCart] Starting activity edu.gatech.coffeecart.MainActivity on device emulator-5554\\n[2014-07-05 20:30:35 - CoffeeCart] ActivityManager: WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.\\n[2014-07-05 20:30:35 - CoffeeCart] New package not yet registered with the system. Waiting 3 seconds before next attempt.\\n[2014-07-05 20:30:38 - CoffeeCart] Starting activity edu.gatech.coffeecart.MainActivity on device emulator-5554\\n[2014-07-05 20:30:38 - CoffeeCart] ActivityManager: WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.\\n[2014-07-05 20:30:38 - CoffeeCart] New package not yet registered with the system. Waiting 3 seconds before next attempt.\\n[2014-07-05 20:30:41 - CoffeeCart] Starting activity edu.gatech.coffeecart.MainActivity on device emulator-5554\\n[2014-07-05 20:30:41 - CoffeeCart] ActivityManager: WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.\\n[2014-07-05 20:30:41 - CoffeeCart] New package not yet registered with the system. Waiting 3 seconds before next attempt.\\n[2014-07-05 20:30:44 - CoffeeCart] Starting activity edu.gatech.coffeecart.MainActivity on device emulator-5554\\n[2014-07-05 20:30:44 - CoffeeCart] ActivityManager: WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.\\n[2014-07-05 20:30:44 - CoffeeCart] ActivityManager: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=edu.gatech.coffeecart\/.MainActivity }\\n[2014-07-05 20:30:44 - CoffeeCart] ActivityManager: Error type 3\\n[2014-07-05 20:30:44 - CoffeeCart] ActivityManager: Error: Activity class {edu.gatech.coffeecart\/edu.gatech.coffeecart.MainActivity} does not exist."
+  },
+  {
+    "date":"2014-07-06T01:32:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"let me try project\/clean"
+  },
+  {
+    "date":"2014-07-06T01:33:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, i have a running (well, greyed out) application that looks right."
+  },
+  {
+    "date":"2014-07-06T01:33:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Copying files is not a good ..."
+  },
+  {
+    "date":"2014-07-06T01:33:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"On a separate note, was the Initial Desigin Model intended to be a document, or simply this newest version of the application?"
+  },
+  {
+    "date":"2014-07-06T01:33:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Awesome ;-)"
+  },
+  {
+    "date":"2014-07-06T01:34:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Best to try new workspace new clone and import project from the clone."
+  },
+  {
+    "date":"2014-07-06T01:34:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let eclipse create new project that way."
+  },
+  {
+    "date":"2014-07-06T01:34:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"my success with git has been less than present lately."
+  },
+  {
+    "date":"2014-07-06T01:34:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"but it's working now"
+  },
+  {
+    "date":"2014-07-06T01:36:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Design got modified a little - will have to update design doc."
+  },
+  {
+    "date":"2014-07-06T01:37:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"brb"
+  },
+  {
+    "date":"2014-07-06T01:37:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I want Tony to review proto before we go any further."
+  },
+  {
+    "date":"2014-07-06T01:38:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i've run through a few simulations, the customer numbers are five digits, i've ordered a few coffees and desserts"
+  },
+  {
+    "date":"2014-07-06T01:38:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"pre-ordering doesn't seem to do anything yet."
+  },
+  {
+    "date":"2014-07-06T01:38:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"but i've checked out and gotten the pop up"
+  },
+  {
+    "date":"2014-07-06T01:38:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it looks pretty good!"
+  },
+  {
+    "date":"2014-07-06T01:41:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so when I check out it always goes to 10001 customer number?"
+  },
+  {
+    "date":"2014-07-06T01:44:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm a little confused by the UI, but as Murali mentioned it still needs some work"
+  },
+  {
+    "date":"2014-07-06T01:45:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It seems intuitive to me. "
+  },
+  {
+    "date":"2014-07-06T01:45:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"+ to deal with a new customer"
+  },
+  {
+    "date":"2014-07-06T01:45:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Where are you seeing the Pre-Order option in the UI? Or is that only in the code part?"
+  },
+  {
+    "date":"2014-07-06T01:45:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Under Dessert - long press bring up three options - buy, Pre-order, and Nutrition facts."
+  },
+  {
+    "date":"2014-07-06T01:46:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if I select buy then checkout cart, I get the message that my chosen item is \"purchased\""
+  },
+  {
+    "date":"2014-07-06T01:47:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"butfor preorders, checkout does nothing."
+  },
+  {
+    "date":"2014-07-06T01:47:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Go ahead and post the issues; I will do the quickfixes."
+  },
+  {
+    "date":"2014-07-06T01:48:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Preorder needs fixing."
+  },
+  {
+    "date":"2014-07-06T01:48:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Since all of the actions have been incorporated into the bottom activity bar area, maybe making the main screen an area where the current customer\/cart information can be listed would make it a little easier to use"
+  },
+  {
+    "date":"2014-07-06T01:48:34+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I enter number 10003, then select a coffee, and when I checkout, it's applied to 10001."
+  },
+  {
+    "date":"2014-07-06T01:50:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"on checkout, the purchase list doesn't seem to clear, but continues to grow."
+  },
+  {
+    "date":"2014-07-06T01:51:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if you enter a new customer number and make a new purchase, it's added to the original purchase with the first customer number entered."
+  },
+  {
+    "date":"2014-07-06T01:55:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it would be nice if there was a screen response to entering a new customer number, like perhaps showing the first and last name of the customer so the salesperson could address them by name."
+  },
+  {
+    "date":"2014-07-06T02:00:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I think that could be covered with the change I mentioned above...I really feel like we need that main screen to contain the current customer \/ cart information (and possibly move Checkout \/ Clear Cart options into there and out of the bottom Activity Bar if we do that)"
+  },
+  {
+    "date":"2014-07-06T02:01:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"agreed."
+  },
+  {
+    "date":"2014-07-06T02:01:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The PayPal Here app is kind of what I'm thinking of in my head: https:\/\/play.google.com\/store\/apps\/details?id=com.paypal.here&referrer=utm_fiksu_adid%3D187736%26"
+  },
+  {
+    "date":"2014-07-06T02:02:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(Mainly the Items listing the 2nd screenshot on the page above) with the total shown for the selected items (and then we can additional show Customer info above that)"
+  },
+  {
+    "date":"2014-07-06T02:02:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yep."
+  },
+  {
+    "date":"2014-07-06T02:03:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"For the proto we will just fix the non working items."
+  },
+  {
+    "date":"2014-07-06T02:03:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"New features for beta."
+  },
+  {
+    "date":"2014-07-06T02:04:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Right?"
+  },
+  {
+    "date":"2014-07-06T02:04:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah."
+  },
+  {
+    "date":"2014-07-06T02:04:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it seems to me if you enter a new customer number, it shoudl clear the cart.  What do you think?"
+  },
+  {
+    "date":"2014-07-06T02:05:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup I agree"
+  },
+  {
+    "date":"2014-07-06T02:05:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Otherwise it makes it difficult to start with the next person"
+  },
+  {
+    "date":"2014-07-06T02:06:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so do we really need a clear cart button then?"
+  },
+  {
+    "date":"2014-07-06T02:06:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"since each new customer clears the cart?"
+  },
+  {
+    "date":"2014-07-06T02:07:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if a customer changes their mind and doesn't make a purchase, we just wait until the next customer gives their number"
+  },
+  {
+    "date":"2014-07-06T02:07:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and that clears the cart."
+  },
+  {
+    "date":"2014-07-06T02:07:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think the Clear Cart is intended for those situations where a customer says they want this and this, but then change their mind around and end up wanting that and that"
+  },
+  {
+    "date":"2014-07-06T02:07:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(or employee typo, incorrectly selecting something)"
+  },
+  {
+    "date":"2014-07-06T02:09:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"This is fun...watching you guys figure it out."
+  },
+  {
+    "date":"2014-07-06T02:09:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"glad we can amuse you Murali :)"
+  },
+  {
+    "date":"2014-07-06T02:12:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Kind of like watching users...interact with program."
+  },
+  {
+    "date":"2014-07-06T02:13:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Manage VIP and View report say \"Use similar button\" but there is no similar button."
+  },
+  {
+    "date":"2014-07-06T02:14:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Should be under the ... on the right hand side"
+  },
+  {
+    "date":"2014-07-06T02:15:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, but they don't show up"
+  },
+  {
+    "date":"2014-07-06T02:15:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"they're under the ... but it's not intuitive"
+  },
+  {
+    "date":"2014-07-06T02:15:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I agree, but I think we'll get that sorted out"
+  },
+  {
+    "date":"2014-07-06T02:18:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm going to need to leave soon, so is there anything else we need to discuss before tomorrow?"
+  },
+  {
+    "date":"2014-07-06T02:18:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So what's our current next step? It sounded like Chandra was going to go ahead and put in a few updates later tonight\/early tomorrow. Murali mentioned an update to the Design Model and it sounded like he also wanted to interegrate any bug fixes we mentioned here in our current review."
+  },
+  {
+    "date":"2014-07-06T02:18:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Will we be doing any major additions for this week to the code, or will we leave that for the upcoming week?"
+  },
+  {
+    "date":"2014-07-06T02:19:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm thinking what we have is a great \"Alpha\" to show functionality"
+  },
+  {
+    "date":"2014-07-06T02:19:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll need to type up a software hierarchy, which I can do now that I have a running version."
+  },
+  {
+    "date":"2014-07-06T02:19:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've already submitted the updated project plan and test suites"
+  },
+  {
+    "date":"2014-07-06T02:19:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"That's right the software arch. document was also needed"
+  },
+  {
+    "date":"2014-07-06T02:19:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup yup"
+  },
+  {
+    "date":"2014-07-06T02:20:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"that's what we added on Thursday rigth?"
+  },
+  {
+    "date":"2014-07-06T02:20:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so If Murali can look at the test suites, tell me what we need to tweak on there for Deliverable3"
+  },
+  {
+    "date":"2014-07-06T02:20:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"The main screen was for you guys not intended for users we will have a manual.\\n"
+  },
+  {
+    "date":"2014-07-06T02:20:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right.  Not a problem.  It's working well."
+  },
+  {
+    "date":"2014-07-06T02:21:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So I'll type up Software Architecture Document and post later tonight or tomorrow."
+  },
+  {
+    "date":"2014-07-06T02:21:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We can meet tomorrow same bat time to disucss what we need for D3?"
+  },
+  {
+    "date":"2014-07-06T02:21:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sure"
+  },
+  {
+    "date":"2014-07-06T02:21:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"And for submitting Deliverable2"
+  },
+  {
+    "date":"2014-07-06T02:22:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-07-06T02:22:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I can go ahead and do that once all of the documents are set tomorrow?"
+  },
+  {
+    "date":"2014-07-06T02:22:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"excellent.  Until then, then?"
+  },
+  {
+    "date":"2014-07-06T02:22:42+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK."
+  },
+  {
+    "date":"2014-07-06T02:22:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Gnite."
+  },
+  {
+    "date":"2014-07-06T02:23:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Feel free to keep me posted on any document updates (using @OmarRamos) and I'll try and get Deliverable2 submitted as soon as we're good to go tomorrow"
+  },
+  {
+    "date":"2014-07-06T02:23:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Have a good night guys and Good work @MuraliRaju ;-)"
+  },
+  {
+    "date":"2014-07-06T02:23:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"will do. nite!"
+  },
+  {
+    "date":"2014-07-06T17:03:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos just pushed the RevisedRiskAssessment with a mitigation plan for each, please let me know if you guys have any questions. Will talk to guys later tonight :)"
+  },
+  {
+    "date":"2014-07-06T19:13:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Nice work! This should be good to mark as final ;-)"
+  },
+  {
+    "date":"2014-07-06T19:31:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter: Checked the test cases - I see a lot of UI features that need to be implemented if we use the test cases for coding.  I am OK if you guys have the patience for more coding..."
+  },
+  {
+    "date":"2014-07-06T19:32:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We will have to review it in detail because the test cases kind of imply more requirements..."
+  },
+  {
+    "date":"2014-07-06T19:32:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Example - monthly reports."
+  },
+  {
+    "date":"2014-07-06T19:37:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"My thinking is we will have our hands full just implementing the core functionality."
+  },
+  {
+    "date":"2014-07-06T19:40:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Somebody tell me what a Design Model is?"
+  },
+  {
+    "date":"2014-07-06T19:51:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Perhaps that is something like our previous assignment using ArgoUML ?"
+  },
+  {
+    "date":"2014-07-06T19:51:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm not sure if Tony has any thoughts on it"
+  },
+  {
+    "date":"2014-07-06T19:53:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"So the UML wont be a part of Architecture document then?"
+  },
+  {
+    "date":"2014-07-06T19:53:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter That's what I'm not sure about, I'm hoping Tony might have a bit more insight"
+  },
+  {
+    "date":"2014-07-06T20:08:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Here's some info on the Design Document:\\nhttps:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=545\\nFrom Professor Orso: \"I think there is a difference between initial design model and initial design document. The design model should be like a class diagram where you clearly show the classes involved and how they are related.\""
+  },
+  {
+    "date":"2014-07-06T20:09:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I'm not sure if my comment above to Murali may tie in with what's being done with the Software Architecture document or not, but it might be useful to you as well, so just FYI."
+  }
+]

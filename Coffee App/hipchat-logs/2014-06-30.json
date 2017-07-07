@@ -1,0 +1,2175 @@
+[
+  {
+    "date":"2014-06-30T00:56:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I uploaded the Project Plan document, "
+  },
+  {
+    "date":"2014-06-30T00:58:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hi Team, I just got online at Starbucks (the network guys at work are still sorting out the issues for my home connection...they did a pretty major replacement of some of the core switches or something along those lines...I didn't have a connection for most of Friday and then I think they reverted and tried again a few minutes into our meeting last night when things cut out for me)"
+  },
+  {
+    "date":"2014-06-30T00:59:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I was keeping track on my phone, but the connection was pretty bad (as you guys noticed)"
+  },
+  {
+    "date":"2014-06-30T00:59:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"it looks like we made some good progress though last night"
+  },
+  {
+    "date":"2014-06-30T01:01:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter it looks like we got another accidental commit into the master branch (instead of the Deliverable1 one)...no worries though I can get that sorted out"
+  },
+  {
+    "date":"2014-06-30T01:01:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm not sure why it's doing that for the master branch, and I pulled right before I updated that one file and pushed."
+  },
+  {
+    "date":"2014-06-30T01:02:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and the Deliverable1 branch was checked out on your end?"
+  },
+  {
+    "date":"2014-06-30T01:02:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yep."
+  },
+  {
+    "date":"2014-06-30T01:02:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"command line or eclipse?"
+  },
+  {
+    "date":"2014-06-30T01:02:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"command line. I don't trust eclipse much"
+  },
+  {
+    "date":"2014-06-30T01:03:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"hmm...did you type \"git push origin Deliverable1\" too?"
+  },
+  {
+    "date":"2014-06-30T01:03:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I did git push, which worked when we were on the temporary branch last project."
+  },
+  {
+    "date":"2014-06-30T01:04:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"hmm...weird then"
+  },
+  {
+    "date":"2014-06-30T01:04:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"not sure why it would be doing that if it worked before"
+  },
+  {
+    "date":"2014-06-30T01:04:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll try git push origin Deliverable2 next time, since that's what we'll be working on."
+  },
+  {
+    "date":"2014-06-30T01:05:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok just rebased and applied that one commit to the Deliverable1 branch so we're good again :-)"
+  },
+  {
+    "date":"2014-06-30T01:06:26+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ty."
+  },
+  {
+    "date":"2014-06-30T01:06:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so for Deliverable 1,"
+  },
+  {
+    "date":"2014-06-30T01:07:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we worked on use-case model quite a bit and got a lot done"
+  },
+  {
+    "date":"2014-06-30T01:07:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so it should be a good initial model"
+  },
+  {
+    "date":"2014-06-30T01:07:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we also tweaked the project plan, which we will continue to update for deliverable 2"
+  },
+  {
+    "date":"2014-06-30T01:07:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so it should be good for D1."
+  },
+  {
+    "date":"2014-06-30T01:07:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Let me go ahead and place the last one Chandra uploaded above @ 2:16PM into the repo (use case model)"
+  },
+  {
+    "date":"2014-06-30T01:08:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We have an initial risk assessment categories, do we need to decide level of risk for each, or save that for D2?"
+  },
+  {
+    "date":"2014-06-30T01:09:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"And the vision document and Murali's prototype screenshots should be good to go."
+  },
+  {
+    "date":"2014-06-30T01:10:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Is the last version of your Project Plan the final one?"
+  },
+  {
+    "date":"2014-06-30T01:11:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If so I can go ahead and get it moved into the Deliverable1 folder (out of the in-progress one)"
+  },
+  {
+    "date":"2014-06-30T01:11:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"final for deliverable 1, we'll update it for deliverable 2 if necessary."
+  },
+  {
+    "date":"2014-06-30T01:11:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For the risk assessment I think it might be good for us to at least give an initial assessment for each of the questions"
+  },
+  {
+    "date":"2014-06-30T01:12:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok cool, I'll go ahead and update that in the repo real quick (so it'll just be down to risk assessment, really). Do you think we should compile the prototype screenshots we posted in here into a single PDF and put that in place in the Deliverable1 folder?"
+  },
+  {
+    "date":"2014-06-30T01:12:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(Since you mentioned screenshots a few moments ago)"
+  },
+  {
+    "date":"2014-06-30T01:13:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think that would be best.  I can't access them as they've rolled off the top of the screen.  Are they in the Deliverable\/in progress folder?"
+  },
+  {
+    "date":"2014-06-30T01:13:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"or Murali is here, so he has access to them."
+  },
+  {
+    "date":"2014-06-30T01:13:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"nope they were only in here (but in the top right of hip chat you should be able to switch to the Files tab and see them)"
+  },
+  {
+    "date":"2014-06-30T01:15:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Hip chat won't let me run Chromium as root, and I can't run hipchat unless I am root, so I can't access them (can't copy the link like I can when they're in here.)"
+  },
+  {
+    "date":"2014-06-30T01:17:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok let me grab them on my end and compile them together and get them added into the repo ;-)"
+  },
+  {
+    "date":"2014-06-30T01:17:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Project Plan is now in the Deliverable1 folder:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1\/6300Sum14Project2\/Deliverable1"
+  },
+  {
+    "date":"2014-06-30T01:18:38+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"sorry guys - I was reading the chat I missed."
+  },
+  {
+    "date":"2014-06-30T01:19:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"not a problem, and Chandra mentioned he won't be on until half past."
+  },
+  {
+    "date":"2014-06-30T01:19:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I can redo the screen shots."
+  },
+  {
+    "date":"2014-06-30T01:19:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju No worries I got them ;-)"
+  },
+  {
+    "date":"2014-06-30T01:19:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"They're in the files folder, I just can't access them."
+  },
+  {
+    "date":"2014-06-30T01:20:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"cool - did not realize the files tab.  I am liking hipchat."
+  },
+  {
+    "date":"2014-06-30T01:22:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Review risk doc?"
+  },
+  {
+    "date":"2014-06-30T01:22:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we need to pick low\/med\/high for each risk posed."
+  },
+  {
+    "date":"2014-06-30T01:23:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"1-low"
+  },
+  {
+    "date":"2014-06-30T01:24:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"We can just list\/discuss what we think for each one and I can go ahead and update the risk assessment doc"
+  },
+  {
+    "date":"2014-06-30T01:25:04+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"1. The hardware or software chosen to do the project can\u00d5t handle the workload required to complete \\nthe project.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:25:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"in the deliverable folder, the items are each numbered #1 and there are artifacts where apostraphes are supposed to be (can't\/aren\/t in first three risks"
+  },
+  {
+    "date":"2014-06-30T01:26:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"And who is santosh?"
+  },
+  {
+    "date":"2014-06-30T01:26:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll get all that corrected (since it wasn't originally formatted in markdown that has to be done still)"
+  },
+  {
+    "date":"2014-06-30T01:26:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's Chandra's account"
+  },
+  {
+    "date":"2014-06-30T01:26:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I guess it's chandra, but it must be a local account name"
+  },
+  {
+    "date":"2014-06-30T01:26:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"everyone agreed 1 is a low."
+  },
+  {
+    "date":"2014-06-30T01:26:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah."
+  },
+  {
+    "date":"2014-06-30T01:26:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"2. The cost of labor, support costs and other charges aren\u00d5t within the budget and will it increase \\nyear to year.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:27:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"low"
+  },
+  {
+    "date":"2014-06-30T01:27:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"should be low if we do our job right."
+  },
+  {
+    "date":"2014-06-30T01:27:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"3. We do not have enough resources \/ manpower and the project team member aren\u00d5t in place when required.\\n\\nLow\t\tMedium\t\tHigh\\n"
+  },
+  {
+    "date":"2014-06-30T01:27:36+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Medium in my opinion."
+  },
+  {
+    "date":"2014-06-30T01:28:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"medium. four weeks from origination to deployment is a bit rushed."
+  },
+  {
+    "date":"2014-06-30T01:28:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"4. The requirements has not been gathered and defined adequately.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:28:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:28:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low"
+  },
+  {
+    "date":"2014-06-30T01:29:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"5. The requirements is continually changing.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:29:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:29:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low, for now.  the owners may decide they want additional features"
+  },
+  {
+    "date":"2014-06-30T01:29:45+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"6. The project will not be completed on time.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:29:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...medium"
+  },
+  {
+    "date":"2014-06-30T01:29:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"medium?"
+  },
+  {
+    "date":"2014-06-30T01:30:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"7. There is no correct platform for testing and modeling.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:30:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low "
+  },
+  {
+    "date":"2014-06-30T01:31:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...medium...how do we test 30 days of data and multiple sources of input."
+  },
+  {
+    "date":"2014-06-30T01:31:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I think we can only test  a local (one cart) implementation."
+  },
+  {
+    "date":"2014-06-30T01:32:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"depending on how server is set up we could spend one of our evenings making transactions interacting with it."
+  },
+  {
+    "date":"2014-06-30T01:32:40+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all The Initial Prototype Screenshots document has been uploaded now:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1\/6300Sum14Project2\/Deliverable1"
+  },
+  {
+    "date":"2014-06-30T01:32:43+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"all four of us with the common implementation"
+  },
+  {
+    "date":"2014-06-30T01:33:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Let start integrating in some of these changes to the RiskAssessment document now as you guys are discussing them"
+  },
+  {
+    "date":"2014-06-30T01:33:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I guess we can try four carts atleast.  Ill go with low,"
+  },
+  {
+    "date":"2014-06-30T01:33:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can see either low or medium, so let's go medium"
+  },
+  {
+    "date":"2014-06-30T01:34:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"we dont want too many lows."
+  },
+  {
+    "date":"2014-06-30T01:34:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah, let's go with medium."
+  },
+  {
+    "date":"2014-06-30T01:34:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"8. The system require continuos maintenance and debugging.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:34:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:34:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low, again dependent on owner's desire for more feature creep."
+  },
+  {
+    "date":"2014-06-30T01:35:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"9. The project has not been planned carefully and do not have a vision document.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:35:06+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low"
+  },
+  {
+    "date":"2014-06-30T01:35:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"low"
+  },
+  {
+    "date":"2014-06-30T01:35:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"10. We do not have experienced team members and the work has not been divided correctly.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:35:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I have zero experience with android\/datbase."
+  },
+  {
+    "date":"2014-06-30T01:35:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hey guys sorry, finally here "
+  },
+  {
+    "date":"2014-06-30T01:36:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"me either, so let's say medium."
+  },
+  {
+    "date":"2014-06-30T01:36:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Who is santosh."
+  },
+  {
+    "date":"2014-06-30T01:36:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"11. The user interface is not correct, clear and easy to use.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:36:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think several of use had github accounts before the clas.  I'm mistapotta, Omar is orware"
+  },
+  {
+    "date":"2014-06-30T01:36:51+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Thats me Chandra, its showing Santosh lol, thats my nickname( home name)"
+  },
+  {
+    "date":"2014-06-30T01:37:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"at this point medium, since we're still working on it."
+  },
+  {
+    "date":"2014-06-30T01:37:29+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Just making sure you did not outsource your homework to AT&T in India."
+  },
+  {
+    "date":"2014-06-30T01:37:52+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Hahaha that's hilarious, nope"
+  },
+  {
+    "date":"2014-06-30T01:37:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"12.  The system is affected when more customers are added as members.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:38:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"medium, again i'm not familiar with building a scaling system on android."
+  },
+  {
+    "date":"2014-06-30T01:38:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Agreed."
+  },
+  {
+    "date":"2014-06-30T01:38:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"13.  The compilers or code generators available are not  appropriate for the system to be built.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:38:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:38:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"based on Assignment 4 I'll say low."
+  },
+  {
+    "date":"2014-06-30T01:39:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"14. The testing tools available are not appropriate for the system to be built?\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:39:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...medium distributed system as we discussed."
+  },
+  {
+    "date":"2014-06-30T01:39:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"medium b\/c I'm not sure about how we're implementing the server and haven't tried connectivity on android."
+  },
+  {
+    "date":"2014-06-30T01:39:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"15. The formal technical reviews of test procedures and test cases are not conducted regularly.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:40:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...medium..."
+  },
+  {
+    "date":"2014-06-30T01:40:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"medium - we havne't even discussed test procedures\/cases"
+  },
+  {
+    "date":"2014-06-30T01:40:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and we don't have a junit for android or do we?"
+  },
+  {
+    "date":"2014-06-30T01:40:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"16. A delay in one deliverable causes cascading delays in the completion of the project.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:41:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'd say medium again"
+  },
+  {
+    "date":"2014-06-30T01:41:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...medium..."
+  },
+  {
+    "date":"2014-06-30T01:41:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"17.  The compilers or code generators available are not appropriate for the product to be built.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:41:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:41:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low"
+  },
+  {
+    "date":"2014-06-30T01:41:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"18. The software configuration management tools are not available.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:41:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low"
+  },
+  {
+    "date":"2014-06-30T01:42:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"is the customer the user or is management?"
+  },
+  {
+    "date":"2014-06-30T01:42:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"if it's the customer, I'd say medium, if it's management, low."
+  },
+  {
+    "date":"2014-06-30T01:42:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I dont understand the Q then..."
+  },
+  {
+    "date":"2014-06-30T01:42:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I would say the management\/employees are the main users"
+  },
+  {
+    "date":"2014-06-30T01:42:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"because the customers really just get to reap the benefits"
+  },
+  {
+    "date":"2014-06-30T01:42:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":";-)"
+  },
+  {
+    "date":"2014-06-30T01:42:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"low on 18.  if management is customer on 17 then I say low."
+  },
+  {
+    "date":"2014-06-30T01:43:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sorry I was looking ahead."
+  },
+  {
+    "date":"2014-06-30T01:43:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"18 - low, 19 was my question."
+  },
+  {
+    "date":"2014-06-30T01:43:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"19. The End-user input is not solicited, causing ultimate failure of the product and  to meet user \\nexpectations.\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:44:26+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...med..."
+  },
+  {
+    "date":"2014-06-30T01:44:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"this was my question.  Is customer the end user or is management?"
+  },
+  {
+    "date":"2014-06-30T01:44:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"because we have brad and janet's expectations laid out"
+  },
+  {
+    "date":"2014-06-30T01:44:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"cart maangers"
+  },
+  {
+    "date":"2014-06-30T01:44:57+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Management is the wnd user"
+  },
+  {
+    "date":"2014-06-30T01:45:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*end"
+  },
+  {
+    "date":"2014-06-30T01:45:06+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so I say low then."
+  },
+  {
+    "date":"2014-06-30T01:45:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"20. The requirements demand the use of new analysis, design, or testing methods and  use of \\nunconventional software development methods?\\n\\nLow\t\tMedium\t\tHigh"
+  },
+  {
+    "date":"2014-06-30T01:45:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...low..."
+  },
+  {
+    "date":"2014-06-30T01:45:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"perhaps medium since we're not fluent in this development style?"
+  },
+  {
+    "date":"2014-06-30T01:46:25+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I agree medium, its kind of trick question"
+  },
+  {
+    "date":"2014-06-30T01:46:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ok...med..."
+  },
+  {
+    "date":"2014-06-30T01:47:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"WE NEED A HIGH RISK ITEM..."
+  },
+  {
+    "date":"2014-06-30T01:47:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so Omar, you get all that? :)"
+  },
+  {
+    "date":"2014-06-30T01:47:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"low...loow..med...low...med...just kiddin"
+  },
+  {
+    "date":"2014-06-30T01:48:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ANY HIGH RISK things..."
+  },
+  {
+    "date":"2014-06-30T01:48:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Murali will tell me to get some coffee...high risk."
+  },
+  {
+    "date":"2014-06-30T01:48:29+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-06-30T01:48:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"were we too genenous saying everything medium and low?"
+  },
+  {
+    "date":"2014-06-30T01:48:47+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*generous"
+  },
+  {
+    "date":"2014-06-30T01:48:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Here is the Updated Risk Assessment from the comments above:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/Deliverable1\/6300Sum14Project2\/Deliverable1\/RiskAssessment.md"
+  },
+  {
+    "date":"2014-06-30T01:49:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"how about team will have risks come up unexpectedly during the development of the project."
+  },
+  {
+    "date":"2014-06-30T01:49:16+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"High."
+  },
+  {
+    "date":"2014-06-30T01:50:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"like in performance reviews...risk assessment can also be judged by the end result."
+  },
+  {
+    "date":"2014-06-30T01:50:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Maybe break #10 into two parts"
+  },
+  {
+    "date":"2014-06-30T01:50:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"one for Experience building Android Apps"
+  },
+  {
+    "date":"2014-06-30T01:50:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah...significant changes in roles..."
+  },
+  {
+    "date":"2014-06-30T01:50:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(and that could be the high risk one?)"
+  },
+  {
+    "date":"2014-06-30T01:50:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"true"
+  },
+  {
+    "date":"2014-06-30T01:50:37+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"lead roles..."
+  },
+  {
+    "date":"2014-06-30T01:51:33+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"16. A delay in one deliverable causes cascading delays in the completion of the project."
+  },
+  {
+    "date":"2014-06-30T01:51:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"how about the numerous flavors of Android...."
+  },
+  {
+    "date":"2014-06-30T01:51:50+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"This could be high too, since the question says delayed deliverable 1"
+  },
+  {
+    "date":"2014-06-30T01:51:52+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that one could be high."
+  },
+  {
+    "date":"2014-06-30T01:51:56+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"make 16 high too"
+  },
+  {
+    "date":"2014-06-30T01:52:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So 16 for sure"
+  },
+  {
+    "date":"2014-06-30T01:52:56+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"How about this?"
+  },
+  {
+    "date":"2014-06-30T01:52:57+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"18. The software configuration management tools are not available."
+  },
+  {
+    "date":"2014-06-30T01:52:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"was there another one that needed to be high?"
+  },
+  {
+    "date":"2014-06-30T01:53:18+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"if there is a but in the system after it's been delivered, do we have a management tool for the user?"
+  },
+  {
+    "date":"2014-06-30T01:53:23+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*bug"
+  },
+  {
+    "date":"2014-06-30T01:53:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"or may be change 18 to make it high"
+  },
+  {
+    "date":"2014-06-30T01:55:23+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"hold on let me think of a question that would make sense on what i just said above lol"
+  },
+  {
+    "date":"2014-06-30T01:57:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Are we clear on which ones should be converted to high risk?"
+  },
+  {
+    "date":"2014-06-30T01:57:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Once we get that sorted\/committed I think we're pretty much set for Deliverable1 :D"
+  },
+  {
+    "date":"2014-06-30T01:58:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I think we're clear"
+  },
+  {
+    "date":"2014-06-30T01:58:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So was it 16 and 18?"
+  },
+  {
+    "date":"2014-06-30T01:58:47+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I just got a little confused once we started talking about the high risk ones"
+  },
+  {
+    "date":"2014-06-30T01:58:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"No not the 18"
+  },
+  {
+    "date":"2014-06-30T01:59:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"16, and flavor of Android, and the new one Chandra was coming up with"
+  },
+  {
+    "date":"2014-06-30T01:59:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Which was the flavor of android one?"
+  },
+  {
+    "date":"2014-06-30T01:59:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"new one..."
+  },
+  {
+    "date":"2014-06-30T02:00:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Gotcha"
+  },
+  {
+    "date":"2014-06-30T02:00:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Ok so we're going to have a 21 and 22 to add in"
+  },
+  {
+    "date":"2014-06-30T02:00:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":":D"
+  },
+  {
+    "date":"2014-06-30T02:00:26+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I was thinking of changing it like, \"The program doesn't auto debug when the system fails? \", would that be a high risk, coming off of thin air this one lol "
+  },
+  {
+    "date":"2014-06-30T02:01:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"or does that even sound right :D "
+  },
+  {
+    "date":"2014-06-30T02:01:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For the Android flavors one...how does this wording sound? \"Allowing the application to cope with the numerous versions of Android and devices available\""
+  },
+  {
+    "date":"2014-06-30T02:01:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"The android one was the correct platform for testing and modeling.  we don't know what flavor of androidthe client will use."
+  },
+  {
+    "date":"2014-06-30T02:02:43+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"sounds good Om."
+  },
+  {
+    "date":"2014-06-30T02:02:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The platform probably wouldn't matter too much though...since the owners would probably standardize on a single device \/ android version."
+  },
+  {
+    "date":"2014-06-30T02:03:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok"
+  },
+  {
+    "date":"2014-06-30T02:03:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think only having one high risk item is perfectly fine for a smaller project like this"
+  },
+  {
+    "date":"2014-06-30T02:04:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"agreed Omar"
+  },
+  {
+    "date":"2014-06-30T02:04:16+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i agree too"
+  },
+  {
+    "date":"2014-06-30T02:04:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I know there are other more mission critical projects that might have a few high risky-bits to them, but this one, probably not that much"
+  },
+  {
+    "date":"2014-06-30T02:06:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So far, I've updated #16 to be high risk, but we can still add another high risk item if there is one we missed?"
+  },
+  {
+    "date":"2014-06-30T02:06:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"But currently we have all of the documents in for Deliverable1 so it's just this last bit of fine-tuning :-)"
+  },
+  {
+    "date":"2014-06-30T02:07:38+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I think we have it all for the first one, may be in the second one we will have to describe how we can eliminate the risk on these"
+  },
+  {
+    "date":"2014-06-30T02:08:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, we can make other revisions to the risk assessment then as well for D2."
+  },
+  {
+    "date":"2014-06-30T02:08:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"On a side note, some (hopefully) nice notes on SQLite for Android:\\nhttps:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=507"
+  },
+  {
+    "date":"2014-06-30T02:08:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup"
+  },
+  {
+    "date":"2014-06-30T02:08:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully everyone can do one more quick review to sign off on Deliverable1:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1\/6300Sum14Project2\/Deliverable1"
+  },
+  {
+    "date":"2014-06-30T02:09:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Then I can go ahead and merge in the branch and we can get it turned in ;-)"
+  },
+  {
+    "date":"2014-06-30T02:09:30+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am easy...merge away..."
+  },
+  {
+    "date":"2014-06-30T02:10:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cool.  Then we can finish by discussing roles for Delivery 2?"
+  },
+  {
+    "date":"2014-06-30T02:10:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I gotta go..."
+  },
+  {
+    "date":"2014-06-30T02:10:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"just kiddin.."
+  },
+  {
+    "date":"2014-06-30T02:10:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-06-30T02:11:01+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol"
+  },
+  {
+    "date":"2014-06-30T02:11:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"going to TSQ to get delivs 2"
+  },
+  {
+    "date":"2014-06-30T02:11:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hmmm...just checking out some of threads on Piazza and just saw this one where they say they're using the term Project Plan interchangeably with the Process Plan from the first project:\\nhttps:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=474"
+  },
+  {
+    "date":"2014-06-30T02:12:30+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"kind of annoying"
+  },
+  {
+    "date":"2014-06-30T02:13:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Almost complete use-case model\\nSupplementary requirements\\nSoftware architecture\\nInitial design model\\nTest cases\\nExecutable prototype\\nRevised risk assessment\\nRevised project plan\\nPreliminary user manual\\n"
+  },
+  {
+    "date":"2014-06-30T02:14:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So Chandra's still working on Test Case and I'm still working on Project plan, right?"
+  },
+  {
+    "date":"2014-06-30T02:14:30+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"use case you mean?"
+  },
+  {
+    "date":"2014-06-30T02:14:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-06-30T02:14:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will take initial design, exec proto."
+  },
+  {
+    "date":"2014-06-30T02:14:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ya i could do use-case, risk assessment, user manual as well"
+  },
+  {
+    "date":"2014-06-30T02:15:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Need help on sql lite end of things."
+  },
+  {
+    "date":"2014-06-30T02:15:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I can do Software architecture and Test cases"
+  },
+  {
+    "date":"2014-06-30T02:15:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"May be I wil wrap proto with local storage."
+  },
+  {
+    "date":"2014-06-30T02:16:02+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am always confused about arch and design."
+  },
+  {
+    "date":"2014-06-30T02:16:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I thought software arch was what we wer doing last time, discussing what instance variables and methods each class needs"
+  },
+  {
+    "date":"2014-06-30T02:16:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"and design?"
+  },
+  {
+    "date":"2014-06-30T02:16:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so working with you on coding like last time."
+  },
+  {
+    "date":"2014-06-30T02:17:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"well, you were working on the design model in your prototype"
+  },
+  {
+    "date":"2014-06-30T02:17:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"so design is more of the actual code specific things..."
+  },
+  {
+    "date":"2014-06-30T02:17:43+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I can definitely help on the database side"
+  },
+  {
+    "date":"2014-06-30T02:17:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm basically implementing chandra's use-case into classes, where you implement the classes into the android stuff."
+  },
+  {
+    "date":"2014-06-30T02:18:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so we're working together on the coding aspects."
+  },
+  {
+    "date":"2014-06-30T02:18:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"got it."
+  },
+  {
+    "date":"2014-06-30T02:18:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Om if you can research(may be you know already) how to store purchases and vip info."
+  },
+  {
+    "date":"2014-06-30T02:19:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"in prototype we can just implement dummy methods to send info until we learn how to do it proper."
+  },
+  {
+    "date":"2014-06-30T02:19:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all also looking at my Piazza link above, it looks like we may want a ProcessPlan.md document for this project as well from the looks of it, so I can help work on that too for this week (i'll note it in our submission we didn't notice that answer till this evening, so there wasn't enough time to put it into this deliverable)"
+  },
+  {
+    "date":"2014-06-30T02:19:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Copy out first project - its pretty generic."
+  },
+  {
+    "date":"2014-06-30T02:19:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I can work on the User Manual as well"
+  },
+  {
+    "date":"2014-06-30T02:20:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so that leaves supplementary requirements"
+  },
+  {
+    "date":"2014-06-30T02:20:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"...no clue here..."
+  },
+  {
+    "date":"2014-06-30T02:20:59+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I can take the supplementary requirements if only i knew what that would be"
+  },
+  {
+    "date":"2014-06-30T02:21:07+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"let me do some research on it"
+  },
+  {
+    "date":"2014-06-30T02:21:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good.  we want to meet on Tuesday to discuss progress and concerns?"
+  },
+  {
+    "date":"2014-06-30T02:21:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good, but let's recap in the responsibilities"
+  },
+  {
+    "date":"2014-06-30T02:22:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Use case - Chandra"
+  },
+  {
+    "date":"2014-06-30T02:22:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Supp Req - Chandra"
+  },
+  {
+    "date":"2014-06-30T02:22:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Soft Arch - Tony"
+  },
+  {
+    "date":"2014-06-30T02:22:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Init Design - Murali"
+  },
+  {
+    "date":"2014-06-30T02:22:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Test Cases - Tony"
+  },
+  {
+    "date":"2014-06-30T02:22:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Exec. Proto - Murali"
+  },
+  {
+    "date":"2014-06-30T02:22:47+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Risk Assess - Chandra"
+  },
+  {
+    "date":"2014-06-30T02:22:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Project Plan - Tony"
+  },
+  {
+    "date":"2014-06-30T02:22:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"User Manual - Omar"
+  },
+  {
+    "date":"2014-06-30T02:23:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"is that everything for D2?"
+  },
+  {
+    "date":"2014-06-30T02:23:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Yeah.Process Plan for Deliv 1?\\n"
+  },
+  {
+    "date":"2014-06-30T02:23:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"That's it, looks good"
+  },
+  {
+    "date":"2014-06-30T02:23:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll work with Omar on that."
+  },
+  {
+    "date":"2014-06-30T02:24:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Somehow combine the project 1 process plan into your project plan?"
+  },
+  {
+    "date":"2014-06-30T02:24:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup most of it will be similar but has to be updated for the new work\/project info"
+  },
+  {
+    "date":"2014-06-30T02:25:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We'll tweak the one we had for the first project to discuss what we've updated."
+  },
+  {
+    "date":"2014-06-30T02:25:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all the Deliverable1 branch has been merged in so I'm going to go ahead and submit on T-Square ;-)"
+  },
+  {
+    "date":"2014-06-30T02:25:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"great!!"
+  },
+  {
+    "date":"2014-06-30T02:25:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"See you guys on Tue."
+  },
+  {
+    "date":"2014-06-30T02:25:58+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good.  "
+  },
+  {
+    "date":"2014-06-30T02:26:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"see you guys then, g'nite"
+  },
+  {
+    "date":"2014-06-30T02:27:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":31034,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/2Os8JXWFRrNLH5e\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"Updated Project Plan to include Deliverable 2 Assignments"
+  },
+  {
+    "date":"2014-06-30T02:31:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Just forwarded everyone the email confirming the assignment submission."
+  },
+  {
+    "date":"2014-06-30T02:33:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Just added a Deliverable2 branch for us to work on for the upcoming week ;-)"
+  },
+  {
+    "date":"2014-06-30T02:34:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Alright, I'm going to head out from Starbucks now...unless there's anything else for tonight :D ?"
+  },
+  {
+    "date":"2014-06-30T02:34:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully my internet will get fixed tomorrow ;-)"
+  },
+  {
+    "date":"2014-06-30T02:35:04+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Great work everyone for Deliverable1"
+  },
+  {
+    "date":"2014-06-30T02:35:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"lol, good work guys. tc"
+  }
+]

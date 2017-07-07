@@ -1,0 +1,562 @@
+[
+  {
+    "date":"2014-07-12T00:51:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"So, i've updated the class files to include a DatabaseHelper which allows the other classes to interact with the database through static methods"
+  },
+  {
+    "date":"2014-07-12T00:52:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it then uses the database to determine if enough purchases have accrued to raise the customer to Gold level."
+  },
+  {
+    "date":"2014-07-12T00:53:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Each customer can get a list of all purchases in last 30 days or their lifetime through appropriate methods in Customer class."
+  },
+  {
+    "date":"2014-07-12T00:55:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll be creating a ReportGenerator class tonight that will generate reports for date and bestsellers, as well as handling\/limiting preorders of desserts"
+  },
+  {
+    "date":"2014-07-12T00:56:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The past few nights I've been working on the API (the approach mentioned in those articles I had linked to before), but I'm finishing it up right now and will start documenting how we should interact with it later tonight. (Since it's a web service, we won't shouldn't need to write \/ interact with MySQL directly in the Java code...we'll simply create HttpClients and send GET \/ POST \/ PUT \/ DELETE requests with JSON page bodies and the API will return the appropriate data\/result). As an example, on the Java side we'd generate a JSON object that would look like this when added to the HttpClient and then POSTed to the appropriate URL for the API (and it'll create a new purchase record along with the associated items): http:\/\/pastebin.com\/XY90DKRT"
+  },
+  {
+    "date":"2014-07-12T00:57:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(hopefully all of the above makes sense...if you haven't worked with web services before it may sound a bit foreign)"
+  },
+  {
+    "date":"2014-07-12T00:58:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm writing a whole bunch of queries on my end though ;-)"
+  },
+  {
+    "date":"2014-07-12T00:59:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I had difficulty understangind the JSON requests in the article you posted.  I looked at this article http:\/\/php.about.com\/od\/phpwithmysql\/fl\/MySQL-and-Java.htm and understood it a bit better so that' show I implemented it."
+  },
+  {
+    "date":"2014-07-12T01:03:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup, that article is the normal way you'd expect to work with MySQL when working with Java...I thought it was a bit weird when I saw all of the web service examples when I searched for \"android + mysql\" the other week, but after a while it started to make sense since all of our modern applications are going to the web services route (and typically it's a lot easier to initiate an HTTP Request and get a response back from a server, rather than having to go through the overhead of establishing the database connection, querying the database, getting the results, and then closing the connection, particularly on a mobile device where the latency could be a bit higher). I'm pretty confident we'll be able to easily adapt what's there to use the web service instead)"
+  },
+  {
+    "date":"2014-07-12T01:03:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok"
+  },
+  {
+    "date":"2014-07-12T01:04:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"are you currently testing with a local MySQL database or setting up placeholders?"
+  },
+  {
+    "date":"2014-07-12T01:04:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I set up placeholders as static variables in the Database class."
+  },
+  {
+    "date":"2014-07-12T01:06:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok, I remember now you mentioned that a little while ago ;-)"
+  },
+  {
+    "date":"2014-07-12T01:07:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Task 1 is done. still need to do task 2"
+  },
+  {
+    "date":"2014-07-12T01:08:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Task 9 & 10 need to be adjusted - i forgot to round each purchase."
+  },
+  {
+    "date":"2014-07-12T01:08:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I still need to do 12"
+  },
+  {
+    "date":"2014-07-12T01:08:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"And also need to develop reports class."
+  },
+  {
+    "date":"2014-07-12T01:09:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Did we end up creating a list of desserts we wanted to have in the system? Towards the end of the API creation I was planning on populating the database with a few records (I already put in a few locations based on the neighborhoods around Atlanta :-)) but I couldn't remember us talking about the items we'd be selling"
+  },
+  {
+    "date":"2014-07-12T01:10:42+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I don't think it's been determined. "
+  },
+  {
+    "date":"2014-07-12T01:12:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll have my wife come up with a list ;-) (she's pretty into desserts, lol)."
+  },
+  {
+    "date":"2014-07-12T01:12:33+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cute :)"
+  },
+  {
+    "date":"2014-07-12T01:12:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"neither I nor my wife are coffee drinkers."
+  },
+  {
+    "date":"2014-07-12T01:12:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"what about smoothies?"
+  },
+  {
+    "date":"2014-07-12T01:13:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Well if we are getting wives into this I am out... :p "
+  },
+  {
+    "date":"2014-07-12T01:14:07+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"haha"
+  },
+  {
+    "date":"2014-07-12T01:14:18+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"moms can be included too ;-)"
+  },
+  {
+    "date":"2014-07-12T01:17:36+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"LOL"
+  },
+  {
+    "date":"2014-07-12T01:35:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@MuraliRaju  have you had a chance to look over the Customer\/Item\/Purchase\/Coffee\/Dessert\/DB classes i wrote?"
+  },
+  {
+    "date":"2014-07-12T01:35:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Will they work well with what you've writen?"
+  },
+  {
+    "date":"2014-07-12T01:41:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"ofcourse they will - "
+  },
+  {
+    "date":"2014-07-12T01:42:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I wish I had the patience you do when coding."
+  },
+  {
+    "date":"2014-07-12T01:43:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos should I make a new branch to avoid conflict.  You will have to merge it later thats why I am asking."
+  },
+  {
+    "date":"2014-07-12T01:46:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Were you guys going to be overlapping on what's being worked on at all? If not, then you should be able to continue working in the Deliverable3 branch, after pulling down the latest changes of course. If you do decide to make an additional branch we'll have to keep track of it (and rebase when it gets behind Deliverable3, so it might make things a little more complicated)"
+  },
+  {
+    "date":"2014-07-12T01:47:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I didn't think we'd overlap much.  I was working more in pure java where Murali was doing the Android-specific code, I thought."
+  },
+  {
+    "date":"2014-07-12T01:47:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"No plan to overlap - but you know how it goes."
+  },
+  {
+    "date":"2014-07-12T01:47:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I try to pull before pushing just to make sure i've got all changes."
+  },
+  {
+    "date":"2014-07-12T01:48:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I wont branch."
+  },
+  {
+    "date":"2014-07-12T01:48:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup, so long as you do the pull beforehand you shouldn't run into much issue"
+  },
+  {
+    "date":"2014-07-12T02:00:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter the java files are not compiling - appears to be mostly missing import for libraries - any reason you are not importing required itms for each class."
+  },
+  {
+    "date":"2014-07-12T02:01:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"which libraries are missing?"
+  },
+  {
+    "date":"2014-07-12T02:02:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Date, BigDec etc in Customer for example."
+  },
+  {
+    "date":"2014-07-12T02:02:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"In customer? "
+  },
+  {
+    "date":"2014-07-12T02:02:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah. fixing that."
+  },
+  {
+    "date":"2014-07-12T02:02:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"usually eclipse gives me a heads up on that."
+  },
+  {
+    "date":"2014-07-12T02:03:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"s'what I get for trusting my ide. better go back to vi."
+  },
+  {
+    "date":"2014-07-12T02:03:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will check and post others..."
+  },
+  {
+    "date":"2014-07-12T02:04:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"haha"
+  },
+  {
+    "date":"2014-07-12T02:04:30+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"-.-;;"
+  },
+  {
+    "date":"2014-07-12T02:04:54+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Are those old text editors sometimes more productive? It seems like there's folks like myself that probably couldn't live without an IDE, and it seems that there's others that can just code straight in a basic text editor all day long"
+  },
+  {
+    "date":"2014-07-12T02:05:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Here you go:"
+  },
+  {
+    "date":"2014-07-12T02:05:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Description\tResource\tPath\tLocation\tType\\nThe import android.widget.AdapterView is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 24\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tCoffeeActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 110\tJava Problem\\nThe import java.util.Iterator is never used\tCoffeeCart.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\/model\/cart\tline 4\tJava Problem\\nThe import android.view.ContextMenu.ContextMenuInfo is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 19\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tCoffeeActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 110\tJava Problem\\nThe import android.view.ContextMenu is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 18\tJava Problem\\nThe import java.util.Map is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 10\tJava Problem\\nThe import android.text.Editable is never used\tCoffeeActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 16\tJava Problem\\nThe import android.widget.TextView is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 29\tJava Problem\\nThe import android.widget.SimpleAdapter is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 28\tJava Problem\\nThe import android.widget.ListView is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 27\tJava Problem\\nThe import android.widget.AdapterView.AdapterContextMenuInfo is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 25\tJava Problem\\nThe import java.util.List is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 8\tJava Problem\\nThe import java.util.HashMap is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 7\tJava Problem\\nThe import java.util.ArrayList is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 5\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 70\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 154\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 63\tJava Problem\\nThe method setGold(boolean) in the type Customer is not applicable for the arguments ()\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 69\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 49\tJava Problem\\nCannot invoke getTime() on the primitive type void\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 49\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 35\tJava Problem\\nThe method setGold(boolean) in the type Customer is not applicable for the arguments ()\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 48\tJava Problem\\nThe method getCost() is undefined for the type Purchase\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 228\tJava Problem\\nThe method getCost() is undefined for the type Purchase\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 230\tJava Problem\\nThe import android.widget.Toast is never used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 30\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 225\tJava Problem\\nThe value of the local variable string is not used\tVipActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 62\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 225\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 224\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 224\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 156\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 223\tJava Problem\\nThe import android.widget.ListView is never used\tVipEditFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 18\tJava Problem\\nThe import android.widget.TextView is never used\tVipEditFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 20\tJava Problem\\nThe import android.app.ListFragment is never used\tVipEditFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 11\tJava Problem\\nThe import android.widget.ArrayAdapter is never used\tVipEditFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 16\tJava Problem\\nThe import android.widget.TextView is never used\tArticleFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 34\tJava Problem\\nThe import android.widget.ListView is never used\tArticleFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 32\tJava Problem\\nThe import edu.gatech.coffeecart.model.cart.PurchaseItem is never used\tVipEditFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 8\tJava Problem\\nThe import android.app.Fragment is never used\tArticleFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 25\tJava Problem\\nThe import edu.gatech.coffeecart.model.cart.PurchaseItem is never used\tArticleFragment.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 24\tJava Problem\\nThe import edu.gatech.coffeecart.model.cart.PurchaseOrder is never used\tMainActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 5\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tDessertActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 113\tJava Problem\\nThe import edu.gatech.coffeecart.model.util.DateUtil is never used\tMainActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 6\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tDessertActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 113\tJava Problem\\nThe method initCart() from the type MainActivity is never used locally\tMainActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 30\tJava Problem\\nThe import edu.gatech.coffeecart.model.cart.CoffeeCart is never used\tMainActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 3\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tReportActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 104\tJava Problem\\nHashMap is a raw type. References to generic type HashMap<K,V> should be parameterized\tReportActivity.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 104\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 232\tJava Problem\\nThe method exequteQuery(String) is undefined for the type Statement\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 296\tJava Problem\\nThe method getAmount() is undefined for the type Purchase\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 247\tJava Problem\\nBigDecimal cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 232\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 243\tJava Problem\\nPurchases cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 300\tJava Problem\\nLinkedList cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 300\tJava Problem\\nSyntax error, insert \")\" to complete Expression\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 232\tJava Problem\\nDateFormat cannot be resolved\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 159\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 253\tJava Problem\\nresult cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 303\tJava Problem\\nDate cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 245\tJava Problem\\nPurchaseResult cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 301\tJava Problem\\nSyntax error on token(s), misplaced construct(s)\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 162\tJava Problem\\nLinkedList cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 311\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 256\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 255\tJava Problem\\npurchases cannot be resolved to a variable\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 309\tJava Problem\\nvipNumber cannot be resolved to a variable\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 68\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 270\tJava Problem\\nLinkedList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 256\tJava Problem\\nThe import java.util.DateFormat cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 4\tJava Problem\\nSyntax error, insert \";\" to complete ReturnStatement\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 273\tJava Problem\\nThe constructor Customer(long, String, String, long, boolean, Date) is undefined\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 110\tJava Problem\\nDateFormat cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 108\tJava Problem\\nList cannot be resolved to a type\tCustomer.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 272\tJava Problem\\nThe method getAmount() is undefined for the type Purchase\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 245\tJava Problem\\nThe method getDate() is undefined for the type Purchase\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 244\tJava Problem\\nvipnumber cannot be resolved to a variable\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 247\tJava Problem\\nThe method getDate() is undefined for the type Purchase\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 247\tJava Problem\\nType mismatch: cannot convert from Dessert to Item\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 174\tJava Problem\\ndate cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 334\tJava Problem\\nDessert cannot be resolved to a variable\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 173\tJava Problem\\nThe method exequteQuery(String) is undefined for the type Statement\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 338\tJava Problem\\nLinkedList cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 342\tJava Problem\\nCoffee cannot be resolved to a variable\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 171\tJava Problem\\nCannot invoke length() on the array type String[]\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 163\tJava Problem\\nPurchases cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 342\tJava Problem\\nPurchaseResult cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 343\tJava Problem\\npurchaeDate cannot be resolved to a variable\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 179\tJava Problem\\nresult cannot be resolved\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 345\tJava Problem\\ntheseItems cannot be resolved to a variable\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 178\tJava Problem\\npurchases cannot be resolved to a variable\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 351\tJava Problem\\nThe type VipActivity is deprecated\tVipActivity2.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 131\tJava Problem\\ntheseItems cannot be resolved\tPurchase.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 176\tJava Problem\\nLinkedList cannot be resolved to a type\tDatabaseHelper.java\t\/6300Sum14Project2\/src\/edu\/gatech\/coffeecart\tline 353\tJava Problem\\n"
+  },
+  {
+    "date":"2014-07-12T02:06:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Adapterview isn't mine"
+  },
+  {
+    "date":"2014-07-12T02:06:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Hashmap isn't mine"
+  },
+  {
+    "date":"2014-07-12T02:07:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"..."
+  },
+  {
+    "date":"2014-07-12T02:07:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Dont worry about the Android items - "
+  },
+  {
+    "date":"2014-07-12T02:07:15+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"let me look at these and update them."
+  },
+  {
+    "date":"2014-07-12T02:07:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll push updates in a few minutes."
+  },
+  {
+    "date":"2014-07-12T02:07:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"printing now"
+  },
+  {
+    "date":"2014-07-12T02:10:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Customer\/DatabaseHelper\/Purchase are the problem classes."
+  },
+  {
+    "date":"2014-07-12T02:17:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, let me know how those work."
+  },
+  {
+    "date":"2014-07-12T02:18:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've ogt to help with the boy. I'll be back tomorrow.  Let me know of any issues here."
+  },
+  {
+    "date":"2014-07-12T02:20:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos did you get a chance to look at the traceability, please let me know what you think and also if you could push it to the repo i'd appreciate it :)"
+  },
+  {
+    "date":"2014-07-12T03:25:57+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Sure I'll go ahead and review it and push it up to repo for you. Just finishing up the last bits of the API I can think of adding in at the moment...going to start deploying it on my server (it'll live over at http:\/\/coffeecart.orware.com\/api once I get it up there) and writing the documentation so we can start using it ;-)."
+  },
+  {
+    "date":"2014-07-12T03:55:04+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Finished up with the errors, let me know if you find others."
+  },
+  {
+    "date":"2014-07-12T04:01:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just pushed up the initial version of the PHP Web Service API (still need to continue working on the documentation and deploying it). I'll add Chandra's Traceability document in just a bit after I get to review it real quick."
+  },
+  {
+    "date":"2014-07-12T04:33:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok, afaik all the errors are fixed and patched.  I also fixed the rounding issue, so it should determine gold correctly."
+  },
+  {
+    "date":"2014-07-12T19:38:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter Are you using Customer class anywhere?  We should eliminate it.  Modify CoffeCart to use VIPCustomer instead of Customer.  Let me know if you are cool with this."
+  },
+  {
+    "date":"2014-07-12T22:23:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"The customer class creates customer objects that determine if they are gold level by calling upon all their prior purchases.  It also provides a summary of all customer purchases for last 30 days and for lifetime, and Databasehelper uses the constructor to load customers from the database. I didn't see a VIPCustomer class. waht file is it in?"
+  },
+  {
+    "date":"2014-07-12T22:57:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"VIPCustomer.java"
+  },
+  {
+    "date":"2014-07-12T22:58:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Customer.java is empty."
+  }
+]

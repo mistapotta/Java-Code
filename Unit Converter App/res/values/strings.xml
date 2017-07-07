@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_distance">DistanceActivity</string>
+    <string name="title_activity_temperature">TemperatureActivity</string>
+    <string name="title_activity_weight">WeightActivity</string>
+    <string name="select_conversion_type">Select Conversion Type</string>
+
+</resources>

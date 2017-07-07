@@ -1,0 +1,142 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+
+    <Button
+        android:id="@+id/deleteVipBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/saveVipBtn"
+        android:layout_alignBottom="@+id/saveVipBtn"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="54dp"
+        android:onClick="deleteVip"
+        android:text="Delete" />
+
+    <TextView
+        android:id="@+id/textVipNum1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editName"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:text="12345" />
+
+    <EditText
+        android:id="@+id/editPhoneNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editName"
+        android:layout_below="@+id/editName"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/editDob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editPhoneNum"
+        android:layout_below="@+id/editPhoneNum"
+        android:ems="10"
+        android:inputType="date" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editPhoneNum"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="20dp"
+        android:text="name"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editDob"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="20dp"
+        android:text="phone"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editDob"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="20dp"
+        android:text="DOB"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textVipNum1"
+        android:layout_marginRight="32dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textPurchases"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDob"
+        android:layout_below="@+id/editDob"
+        android:layout_marginTop="36dp"
+        android:text="purchases:" />
+
+    <Button
+        android:id="@+id/saveVipBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textPurchases"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="60dp"
+        android:onClick="saveVip"
+        android:text="Save" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textVipNum1"
+        android:layout_alignParentTop="true"
+        android:text="Card No:"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/editName"
+        android:text="Points(30d/Life):"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/vipPoints"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/editName"
+        android:layout_below="@+id/textView5"
+        android:text="5000" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDob"
+        android:layout_below="@+id/editDob"
+        android:text="mm-dd-yyyy"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

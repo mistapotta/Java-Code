@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${packageName}.${activityClass}" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:onClick="loginVip"
+                android:src="@drawable/ic_action_person" />
+
+            <TextView
+                android:id="@+id/mainVipName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:text="Customer:" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="200dp" >
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="2dp"
+                android:onClick="editCart"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:id="@+id/mainCoffeeList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:text="Purchases:" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/imageButton7"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="2dp"
+                android:onClick="emptyCart"
+                android:src="@drawable/ic_action_remove" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:text="Empty Cart" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/imageButton6"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="2dp"
+                android:onClick="checkout"
+                android:src="@drawable/ic_action_accept" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:text="Checkout" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

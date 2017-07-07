@@ -1,0 +1,66 @@
+[
+  {
+    "date":"2014-08-09T00:14:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Just pushed up a semi-complete Teams class (tests are passing now). I'm going to try and finalize it a bit more and then start on the Ratings class next I think (since the Teams class depends on it)."
+  },
+  {
+    "date":"2014-08-09T00:15:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I also created a new Students class and moved the implementations of those related methods into it to slim GradesDB down a bit (since we can't completely remove the methods in GradesDB, I've modified them so they call the methods in the new Students class now)."
+  },
+  {
+    "date":"2014-08-09T02:32:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just pushed up an implemented Ratings class (still need to tie it into the Teams class though). Tests should be passing."
+  },
+  {
+    "date":"2014-08-09T03:42:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Pushed up another commit (I tied the Ratings class to the Teams class and also populated each Student object with its associated Teams). I also fixed a few tests...all of them are pretty much passing at this point except for the Assignments related ones...I should be able to work on and finish up the Assignments class before heading to bed tonight."
+  },
+  {
+    "date":"2014-08-09T03:43:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I noticed a lot of the GradesDB stuff got commented out.  Anything you need me to work on right now?"
+  },
+  {
+    "date":"2014-08-09T04:38:11+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I left the commented stuff in for now (earlier I was borrowing a few snippets here and there, but I don't think I've had to use any of it the last few hours so I'll probably go ahead and clear it out pretty soon to clean things up). At the moment I'm happy to continue working on the Assignments class...I think once it's done there'll probably just be a few additional methods I saw in the Students class which I haven't taken a close look at yet that haven't been implemented that should more or less wrap things up. Once I'm done tonight I'll be pretty much offline tomorrow so I'm thinking the main things to work on at that point would be the extra credit related stuff for this final Deliverable and reviewing everything again for accuracy, cleaning things up, etc."
+  },
+  {
+    "date":"2014-08-09T06:04:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Just pushed up the Assignments implementation. All tests were passing at this point except for the GUI ones and the testGetStudentInfo() method. I went ahead and modified getStudentInfo() to get that test to pass as well so it's really just the GUI Tests that are failing now. I'm not sure if the getProjectGrades(), getAssignmentGrades(), setAssignmentGrades() methods will be needed in the Student class (there don't seem to be any tests using them...I think only the getStudentInfo() method was making use of them before).\\n\\nTomorrow I'll have to compare the test classes in our Master branch to what's in Deliverable 3 since I ended up tweaking a few of the tests throughout the day, but didn't realize we needed to document those changes till I went back this evening to review the description for this week so I'll go ahead and handle that.\\n\\nI tried to do as much as I could today so we'll be on good footing for the next two days...should really just be cleanup and further documentation at this point, along with tying the GUI to the new functionality that's now available."
+  },
+  {
+    "date":"2014-08-09T06:05:41+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Tomorrow we'll be heading out to go watch the Ninja Turtles movie and hang out for a few hours so I probably won't be back at my desk until tomorrow evening, but I'll do my best to keep track of any conversations that crop up during the day ;-)"
+  }
+]

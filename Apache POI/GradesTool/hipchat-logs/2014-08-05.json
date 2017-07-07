@@ -1,0 +1,26 @@
+[
+  {
+    "date":"2014-08-05T01:40:26+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all looks like deliverables 3 are posted.  I will go ahead and finish the gui implementation. Let me know if I need to code anything else."
+  },
+  {
+    "date":"2014-08-05T03:18:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I had reverted the code for the GUI to the skeleton for turning in Deliverable2 but you should be able to easily revert that. Will you be creating the initial Deliverable-3 branch as well?"
+  },
+  {
+    "date":"2014-08-05T03:25:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all I went ahead and created a Deliverable-3 branch and added in the interfaces provided by the instructors in the description (https:\/\/www.udacity.com\/wiki\/ud494\/project3del3?nocache#p3). ;-)"
+  }
+]

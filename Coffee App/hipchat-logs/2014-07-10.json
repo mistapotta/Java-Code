@@ -1,0 +1,1583 @@
+[
+  {
+    "date":"2014-07-10T01:03:10+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@Tony, are the test cases you have in the test plan final or you plan to have changes in it?"
+  },
+  {
+    "date":"2014-07-10T01:03:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It is for the traceability purposes"
+  },
+  {
+    "date":"2014-07-10T01:03:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"We're still talking about them.."
+  },
+  {
+    "date":"2014-07-10T01:04:21+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok cool"
+  },
+  {
+    "date":"2014-07-10T01:05:44+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So for me so far i have done a little research in tracaebility, and since it is showing the relation between requirements, use cases and test cases, i am creating a matrix that shows two different relation"
+  },
+  {
+    "date":"2014-07-10T01:06:12+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"1st requirements to use case and then use case to test case, still work in progress though :)"
+  },
+  {
+    "date":"2014-07-10T01:07:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm about to head back to my house from work, but just a quick update from my end:\\nI worked on a MySQL database schema to hold the data last night and was going to work a bit on creating a web service to interact with the database that the Android App could easily take advantage via Android's built-in HttpClient and JSON handling capabilities. Once the web service piece is put together we should be able to write some code like that displayed in this article:\\nhttp:\/\/codeoncloud.blogspot.com\/2013\/07\/android-mysql-php-json-tutorial.html\\nto interact with the service and create\/read\/update\/delete data\\n\\nIf we can get this implemented it'll be a pretty neat capability that should hopefully earn us some extra points ;-)"
+  },
+  {
+    "date":"2014-07-10T01:07:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"be back on in a few :-)"
+  },
+  {
+    "date":"2014-07-10T01:07:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Cool @omar, not sure if you saw what i pushed earlier today.  I put places for db hooks"
+  },
+  {
+    "date":"2014-07-10T01:13:03+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Is a beta release due this week?"
+  },
+  {
+    "date":"2014-07-10T01:13:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yes"
+  },
+  {
+    "date":"2014-07-10T01:13:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i'm taking a look a the article omar posted and will try to incorporate the hooks into the classes i wrote"
+  },
+  {
+    "date":"2014-07-10T01:16:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"For a beta we are running out of time.  We need to get a project plan firmed up today."
+  },
+  {
+    "date":"2014-07-10T01:16:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"No personal assignments right?"
+  },
+  {
+    "date":"2014-07-10T01:16:53+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-07-10T01:16:56+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"not this week"
+  },
+  {
+    "date":"2014-07-10T01:19:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Wanna get started on the missing requirements.  We should implement those first and then get to bells and whistles."
+  },
+  {
+    "date":"2014-07-10T01:19:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok"
+  },
+  {
+    "date":"2014-07-10T01:20:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so VIP customer needs name, phone number, birth date, and vip number"
+  },
+  {
+    "date":"2014-07-10T01:21:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i need to add birth date to the customer class."
+  },
+  {
+    "date":"2014-07-10T01:21:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandar are you on a PC?"
+  },
+  {
+    "date":"2014-07-10T01:21:57+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"no a mac"
+  },
+  {
+    "date":"2014-07-10T01:23:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK can you add the task list we identify here in a separate screen and post back here at the end."
+  },
+  {
+    "date":"2014-07-10T01:23:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 1, add birth date."
+  },
+  {
+    "date":"2014-07-10T01:23:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok sure"
+  },
+  {
+    "date":"2014-07-10T01:24:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"each customer can hove only one vip card"
+  },
+  {
+    "date":"2014-07-10T01:24:24+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"how do we verify that? search for matching fields in existing db?"
+  },
+  {
+    "date":"2014-07-10T01:25:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Start with phone number,"
+  },
+  {
+    "date":"2014-07-10T01:25:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"If it matches reject add."
+  },
+  {
+    "date":"2014-07-10T01:25:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok."
+  },
+  {
+    "date":"2014-07-10T01:26:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 2.  Add check for phone number used and prevent VIP add."
+  },
+  {
+    "date":"2014-07-10T01:26:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Must be able to add or remove customers "
+  },
+  {
+    "date":"2014-07-10T01:27:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 3. Remove VIP menu."
+  },
+  {
+    "date":"2014-07-10T01:27:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We can override the X button during VIP activity,"
+  },
+  {
+    "date":"2014-07-10T01:28:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Must be able to edit customer data i.e. phone number"
+  },
+  {
+    "date":"2014-07-10T01:30:09+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did I put edit in the context menu."
+  },
+  {
+    "date":"2014-07-10T01:30:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I don't recall"
+  },
+  {
+    "date":"2014-07-10T01:31:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I did work on the starter screen."
+  },
+  {
+    "date":"2014-07-10T01:31:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 4,  Finish the edit screen."
+  },
+  {
+    "date":"2014-07-10T01:31:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Manage VIP only allows editing name or VIP Number"
+  },
+  {
+    "date":"2014-07-10T01:33:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"5.  Coffee shop sells coffee and essert, vip customers get points for each dollar, rounded up"
+  },
+  {
+    "date":"2014-07-10T01:33:31+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"rounded up from 0.5"
+  },
+  {
+    "date":"2014-07-10T01:35:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 5. Complete point accumulation function."
+  },
+  {
+    "date":"2014-07-10T01:35:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"so the the one you have 5 is not a task?"
+  },
+  {
+    "date":"2014-07-10T01:36:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I summarized it,"
+  },
+  {
+    "date":"2014-07-10T01:36:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, got it cool"
+  },
+  {
+    "date":"2014-07-10T01:36:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"that's actually 5 and 6 on requrements"
+  },
+  {
+    "date":"2014-07-10T01:37:09+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"7.  at any time the system should be able to calculate items purchased and points accrued in last 30 days"
+  },
+  {
+    "date":"2014-07-10T01:38:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"For a given VIP."
+  },
+  {
+    "date":"2014-07-10T01:38:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"?"
+  },
+  {
+    "date":"2014-07-10T01:38:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, for a given VIP customer."
+  },
+  {
+    "date":"2014-07-10T01:40:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"How do you calculate items purchased...does it men list items purchased."
+  },
+  {
+    "date":"2014-07-10T01:41:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"it says calculate, I assume you can give a total o feach item - 7 cappuccinos, 8 carrot cake, 3 cheesecakes, 33 refills"
+  },
+  {
+    "date":"2014-07-10T01:41:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I just pulled down the latest changes you mentioned a little earlier"
+  },
+  {
+    "date":"2014-07-10T01:41:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"for last 30 days and in total (since becoming a member.)"
+  },
+  {
+    "date":"2014-07-10T01:42:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@omar I just pushed a change to customer to include birthdates. I forgot that earlier."
+  },
+  {
+    "date":"2014-07-10T01:42:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar we are making a task list of prog activities."
+  },
+  {
+    "date":"2014-07-10T01:42:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Make this a short click on VIP name."
+  },
+  {
+    "date":"2014-07-10T01:42:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Long click allows edit."
+  },
+  {
+    "date":"2014-07-10T01:44:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 6.  Add points and purchase calculation to short click on VIP activity."
+  },
+  {
+    "date":"2014-07-10T01:45:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"8. VIP customers can preorder desserts a month in advance unless preorder slots are filled"
+  },
+  {
+    "date":"2014-07-10T01:45:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Each dessert has 5\/3 daily preorder slots."
+  },
+  {
+    "date":"2014-07-10T01:46:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 7.   Develop preorder slots and limits function."
+  },
+  {
+    "date":"2014-07-10T01:47:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"9. Gold status conveyed at 500 VIP points in 30 days, can lose if last 30 days goes under 500.  Permanent gold at 5000 lifetime points"
+  },
+  {
+    "date":"2014-07-10T01:47:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK why don't we renumber to match the numbers Tony is using."
+  },
+  {
+    "date":"2014-07-10T01:48:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra can you change earlier ones."
+  },
+  {
+    "date":"2014-07-10T01:48:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sure, i'll re number them"
+  },
+  {
+    "date":"2014-07-10T01:48:49+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm combining similar points.  5 is 5 and 6 (5. sell coffee and dessert, vip points per dollar\/ 6. Round up at 0.5)"
+  },
+  {
+    "date":"2014-07-10T01:49:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 9.  Complete 500\/30 5000\/life."
+  },
+  {
+    "date":"2014-07-10T01:49:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"9 was gold status gained at 500 points in 30 days, lost if under 500.  10 is lifetime at 5000 points"
+  },
+  {
+    "date":"2014-07-10T01:49:56+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"11.  Gold allows unlimited number of refills on coffee"
+  },
+  {
+    "date":"2014-07-10T01:50:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Its one task or function so let's call it 9\/10."
+  },
+  {
+    "date":"2014-07-10T01:50:29+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"note: doesn't actually say free refills"
+  },
+  {
+    "date":"2014-07-10T01:50:50+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"12.  VIP without gold can have coffee cup refilled at half price."
+  },
+  {
+    "date":"2014-07-10T01:51:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I think its implied."
+  },
+  {
+    "date":"2014-07-10T01:51:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@omar You might want to ask Piazza if the way it's worded, it can be inferred that Gold can have unlimited refills, nonGold can only have one."
+  },
+  {
+    "date":"2014-07-10T01:51:40+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@OmarRamos  You might want to ask Piazza if the way it's worded, it can be inferred that Gold can have unlimited refills, nonGold can only have one."
+  },
+  {
+    "date":"2014-07-10T01:52:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"just saying that if so, then refills are half price no matter what, we just count refills on the coffee."
+  },
+  {
+    "date":"2014-07-10T01:52:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think the main thing there is unlimited free refills, versus unlimited half price refills between the two (I don't think the coffee cart owner would say no to additional business from one customer who isn't at the gold level)"
+  },
+  {
+    "date":"2014-07-10T01:52:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"just asking."
+  },
+  {
+    "date":"2014-07-10T01:52:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"so 11\/12 - implement coffee refills"
+  },
+  {
+    "date":"2014-07-10T01:53:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I think I implemented this in Purchase."
+  },
+  {
+    "date":"2014-07-10T01:53:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk.13 - daily report of items purchased and preordered by VIP members on current day"
+  },
+  {
+    "date":"2014-07-10T01:53:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 11\/12. Check purchase logic for refill discount."
+  },
+  {
+    "date":"2014-07-10T01:54:37+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"All VIP members."
+  },
+  {
+    "date":"2014-07-10T01:54:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"?"
+  },
+  {
+    "date":"2014-07-10T01:54:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"All members are VIP.  Gold vs NonGold"
+  },
+  {
+    "date":"2014-07-10T01:55:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I meant purchase list by all VIPs or a given VIP."
+  },
+  {
+    "date":"2014-07-10T01:55:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"by VIP members, so I'd assume all purchases on a day"
+  },
+  {
+    "date":"2014-07-10T01:56:51+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 13.  Modify report to filter VIP purchases only."
+  },
+  {
+    "date":"2014-07-10T01:57:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"14. UI must be intuitive and responsive"
+  },
+  {
+    "date":"2014-07-10T01:57:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Done."
+  },
+  {
+    "date":"2014-07-10T01:57:21+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"those are requirements"
+  },
+  {
+    "date":"2014-07-10T01:57:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Just kidding I know Omar had issues."
+  },
+  {
+    "date":"2014-07-10T01:57:46+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"We have supplement requirements too"
+  },
+  {
+    "date":"2014-07-10T01:58:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"ok what are they?"
+  },
+  {
+    "date":"2014-07-10T01:58:11+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"VIP customers get free dessert for every 200 points"
+  },
+  {
+    "date":"2014-07-10T01:58:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar any UI friendliness issues from your trial?"
+  },
+  {
+    "date":"2014-07-10T01:58:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Owner generates report showing best seller dessert of the day"
+  },
+  {
+    "date":"2014-07-10T01:58:55+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Owner generated report showing all the VIP customers signed up in a day"
+  },
+  {
+    "date":"2014-07-10T01:59:00+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"These three"
+  },
+  {
+    "date":"2014-07-10T01:59:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Add it to dessert\/200 to 11\/12."
+  },
+  {
+    "date":"2014-07-10T02:00:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"done others?"
+  },
+  {
+    "date":"2014-07-10T02:00:27+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 15.  Complete bestseller screen."
+  },
+  {
+    "date":"2014-07-10T02:00:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"we need to edit test plan to conform with these requirements, and get rid of unnecessary tests."
+  },
+  {
+    "date":"2014-07-10T02:00:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did you add dessert\/200 to 11\/12."
+  },
+  {
+    "date":"2014-07-10T02:01:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"yes and the complete bestseller screen is Task14"
+  },
+  {
+    "date":"2014-07-10T02:01:23+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let's also review 1 thru 5 we skipped those."
+  },
+  {
+    "date":"2014-07-10T02:01:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Mainly I think it was that there wasn't a clear spot for you to see exactly what was in the cart at a glance (most of the important information was popping up in the notifications that appeared at the bottom of the screen but then they'd go away). I liked the Activity Bar at the bottom though. I was thinking the initial screen for the employee would look something like what we see in PayPal here: https:\/\/play.google.com\/store\/apps\/details?id=com.paypal.here&hl=en (so they can select a customer, add items, see the total, confirm the purchase \/ clear the cart, etc. on that main screen) "
+  },
+  {
+    "date":"2014-07-10T02:01:46+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Task 15.  Complete bestseller screen."
+  },
+  {
+    "date":"2014-07-10T02:02:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"no 14 reserved for Omar's UI changes."
+  },
+  {
+    "date":"2014-07-10T02:02:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok got it"
+  },
+  {
+    "date":"2014-07-10T02:02:21+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Task 1. Add birth date.\\nTask 2.  Add check for phone number used and prevent VIP add.\\nTask 3. Remove VIP menu\\nTask 4.  Finish the edit screen.\\nTask 5. Coffee shop sells coffee and dessert; VIP customers get points for each dollar, rounded up from 0.5\\nTask 6. Complete point accumulation function.\\nTask 7.  Add points and purchase calculation to short click on VIP activity\\nTask 8.  Develop preorder slots and limits function.\\nTask 9\/10.  Complete 500\/30 5000\/life.\\nTask 11\/12. Check purchase logic for refill discount , free dessert\/200\\nTask 13.  Modify report to filter VIP purchases only.\\nTask 15.  Complete bestseller screen.\\n"
+  },
+  {
+    "date":"2014-07-10T02:02:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Checking PayPal."
+  },
+  {
+    "date":"2014-07-10T02:03:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Square one has some nice screenshots too for inspiration: https:\/\/play.google.com\/store\/apps\/details?id=com.squareup&hl=en"
+  },
+  {
+    "date":"2014-07-10T02:03:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I updated Customer class to include birthdate instance variable"
+  },
+  {
+    "date":"2014-07-10T02:04:03+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and constructor\/accessor\/mutator"
+  },
+  {
+    "date":"2014-07-10T02:06:05+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 14A.  Develop checkout scree for purchase."
+  },
+  {
+    "date":"2014-07-10T02:07:06+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 14B.  Change Home screen to display VIP and cart contents."
+  },
+  {
+    "date":"2014-07-10T02:08:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony can you run through 1 to 5."
+  },
+  {
+    "date":"2014-07-10T02:08:20+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"From your list."
+  },
+  {
+    "date":"2014-07-10T02:09:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"1. VIP name\/phone\/birthdatea\/acct #"
+  },
+  {
+    "date":"2014-07-10T02:09:19+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"2. each customer only one vip card"
+  },
+  {
+    "date":"2014-07-10T02:09:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Done."
+  },
+  {
+    "date":"2014-07-10T02:09:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"3. manager must be able to add\/remove customers from system."
+  },
+  {
+    "date":"2014-07-10T02:09:47+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"4. manager must be able to edit info stored in system"
+  },
+  {
+    "date":"2014-07-10T02:10:00+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"5. shops sells coffee & dessert, vip get points per dollar spent"
+  },
+  {
+    "date":"2014-07-10T02:10:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK we match. Good,"
+  },
+  {
+    "date":"2014-07-10T02:10:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Who wants to do what."
+  },
+  {
+    "date":"2014-07-10T02:10:55+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I did 1 a few minutes ago, just pushed.."
+  },
+  {
+    "date":"2014-07-10T02:11:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Let me add the updated tasks"
+  },
+  {
+    "date":"2014-07-10T02:11:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Task 1. Add birth date.\\nTask 2.  Add check for phone number used and prevent VIP add.\\nTask 3. Remove VIP menu\\nTask 4.  Finish the edit screen.\\nTask 5. Coffee shop sells coffee and dessert; VIP customers get points for each dollar, rounded up from 0.5\\nTask 6. Complete point accumulation function.\\nTask 7.  Add points and purchase calculation to short click on VIP activity\\nTask 8.  Develop preorder slots and limits function.\\nTask 9\/10.  Complete 500\/30 5000\/life.\\nTask 11\/12. Check purchase logic for refill discount, free dessert\/200\\nTask 13.  Modify report to filter VIP purchases only.\\nTask 14A.  Develop checkout screen for purchase.\\nTask 14B.  Change Home screen to display VIP and cart contents\\nTask 15.  Complete bestseller screen.\\n"
+  },
+  {
+    "date":"2014-07-10T02:12:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Customer class has mutators for each field, just need db hooks"
+  },
+  {
+    "date":"2014-07-10T02:12:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"for #4"
+  },
+  {
+    "date":"2014-07-10T02:12:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra\/Omar do you guys want to do any coding or Tony and me wrap it up?"
+  },
+  {
+    "date":"2014-07-10T02:12:48+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I need to write a deleteCustomer method"
+  },
+  {
+    "date":"2014-07-10T02:13:24+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I will stick to the traceability, i don't want to mesh it up by writing code"
+  },
+  {
+    "date":"2014-07-10T02:13:33+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Task 16.  DB implementation."
+  },
+  {
+    "date":"2014-07-10T02:13:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'm going to be working on the API part for MySQL tonight so we can hopefully integrate that in once it's ready"
+  },
+  {
+    "date":"2014-07-10T02:14:53+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Let's plan SQL for next week you can do the work and we can incorporate as final update."
+  },
+  {
+    "date":"2014-07-10T02:15:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Tony shoot me an email with the tasks you want me to do and we will get them done by Saturday."
+  },
+  {
+    "date":"2014-07-10T02:16:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Any testing required in this phase?"
+  },
+  {
+    "date":"2014-07-10T02:17:07+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I wanted to go over tests and see what we nee dto get rid of"
+  },
+  {
+    "date":"2014-07-10T02:17:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and what needs to be tested."
+  },
+  {
+    "date":"2014-07-10T02:17:25+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Part 1 - Account setup"
+  },
+  {
+    "date":"2014-07-10T02:17:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"* create with all fields intact vs partial fields"
+  },
+  {
+    "date":"2014-07-10T02:17:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"As you said remove all the non essentials."
+  },
+  {
+    "date":"2014-07-10T02:17:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"current_mysql_schema.pdf",
+      "size":154324,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/qYEgeyzZpl9swo0\/current_mysql_schema.pdf"
+    },
+    "message":"Here's a quick overview on the current schema in MySQL (tonight I was going to be tying in some PHP code to talk to the database to do the CRUD operations and stuff)"
+  },
+  {
+    "date":"2014-07-10T02:18:34+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"OK, i'll work on that, update the list tomorrow so chandra can work with it"
+  },
+  {
+    "date":"2014-07-10T02:18:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think you and Tony will probably be able to cover most of those tasks (partially because some tie in with each other so they'll naturally go together) but whatever is left over you guys want me to handle I'm happy to do"
+  },
+  {
+    "date":"2014-07-10T02:18:55+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"ok, sounds good to me"
+  },
+  {
+    "date":"2014-07-10T02:20:58+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"We do need to submit partial test results for this deliverable"
+  },
+  {
+    "date":"2014-07-10T02:21:13+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right. i will update the tests and will run them with partial test results for the parts that currently work"
+  },
+  {
+    "date":"2014-07-10T02:21:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Will most of the be manual verification ones (actually using the app and testing stuff)?"
+  },
+  {
+    "date":"2014-07-10T02:22:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"*tests"
+  },
+  {
+    "date":"2014-07-10T02:22:08+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"for now, yeah. we have a hardcoded db class to test some of them, "
+  },
+  {
+    "date":"2014-07-10T02:23:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So should we end up documenting our manual run through results and submit that for this week?"
+  },
+  {
+    "date":"2014-07-10T02:23:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right. that's the plan, and to start getting mysql db set up"
+  },
+  {
+    "date":"2014-07-10T02:23:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota what did the traceability term actually mean?"
+  },
+  {
+    "date":"2014-07-10T02:24:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Its like showing which requirements is related to what use-cases and what test cases are associated with the use-case and the requirements"
+  },
+  {
+    "date":"2014-07-10T02:25:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"It's like creating a matrix showing one related to the other, so we can trace forward and backwards"
+  },
+  {
+    "date":"2014-07-10T02:25:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok, so we're ok on that one?"
+  },
+  {
+    "date":"2014-07-10T02:25:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right, i'll update the test list tonight and push tomorrow so we an use it."
+  },
+  {
+    "date":"2014-07-10T02:25:47+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"So Tony you will send me my task list tommorow?"
+  },
+  {
+    "date":"2014-07-10T02:26:10+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"From above list,"
+  },
+  {
+    "date":"2014-07-10T02:26:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra don't forget to add 16.  Not that Omar will forget."
+  },
+  {
+    "date":"2014-07-10T02:27:08+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Task 1. Add birth date.\\nTask 2.  Add check for phone number used and prevent VIP add.\\nTask 3. Remove VIP menu\\nTask 4.  Finish the edit screen.\\nTask 5. Coffee shop sells coffee and dessert; VIP customers get points for each dollar, rounded up from 0.5\\nTask 6. Complete point accumulation function.\\nTask 7.  Add points and purchase calculation to short click on VIP activity\\nTask 8.  Develop preorder slots and limits function.\\nTask 9\/10.  Complete 500\/30 5000\/life.\\nTask 11\/12. Check purchase logic for refill discount, free dessert\/200\\nTask 13.  Modify report to filter VIP purchases only.\\nTask 14A.  Develop checkout screen for purchase.\\nTask 14B.  Change Home screen to display VIP and cart contents\\nTask 15.  Complete bestseller screen.\\nTask 16.  DB implementation\\n"
+  },
+  {
+    "date":"2014-07-10T02:27:37+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@ChandraSapkota  I'll push it tomorrow"
+  },
+  {
+    "date":"2014-07-10T02:28:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sure Tony, i am pretty much done with requirements to use-case so take your time, no rush"
+  },
+  {
+    "date":"2014-07-10T02:28:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Did you guys see the horror stories on Pz."
+  },
+  {
+    "date":"2014-07-10T02:29:11+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"nope. i'll chekc it out"
+  },
+  {
+    "date":"2014-07-10T02:29:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"On GIT."
+  },
+  {
+    "date":"2014-07-10T02:29:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like EGit has issues be careful."
+  },
+  {
+    "date":"2014-07-10T02:29:56+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"LOL ya a lot people not happy with git"
+  },
+  {
+    "date":"2014-07-10T02:30:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I guess a #17 for Web Service API should be added too, since it's needed on top of the Database piece."
+  },
+  {
+    "date":"2014-07-10T02:31:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"All part of 16 my friend."
+  },
+  {
+    "date":"2014-07-10T02:31:15+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We want complete package."
+  },
+  {
+    "date":"2014-07-10T02:33:07+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"We also need to submit the final use case model, has anyone had a chance to look at to make sure it's all good?"
+  },
+  {
+    "date":"2014-07-10T02:33:39+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"My bed time...will look for Tony's coding instructions tommorow.  Omar and Chandra will cover all the doc requirements right?"
+  },
+  {
+    "date":"2014-07-10T02:33:51+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"kk. nite!"
+  },
+  {
+    "date":"2014-07-10T02:34:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"yup, good night!!"
+  },
+  {
+    "date":"2014-07-10T02:34:09+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"yup chandra and I can work through those"
+  },
+  {
+    "date":"2014-07-10T02:36:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota I'll take a closer look at the Use Case Model, but if i remember correctly it looked fairly final with the last revision I think but I'll help to make sure"
+  },
+  {
+    "date":"2014-07-10T02:36:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"As the app comes together some more I can use the latest version of the app to update the user manual"
+  },
+  {
+    "date":"2014-07-10T02:36:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"you have a handle on the traceability piece"
+  },
+  {
+    "date":"2014-07-10T02:37:01+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Perfect, sounds good. Thanks Omar "
+  },
+  {
+    "date":"2014-07-10T02:37:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"and I think all of us will work on the systems tests\/results"
+  },
+  {
+    "date":"2014-07-10T02:37:22+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just not sure how we're going to compile those"
+  },
+  {
+    "date":"2014-07-10T02:37:28+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Yes so far it looks good but i will have it ready by friday so we can go over it just to make sure"
+  },
+  {
+    "date":"2014-07-10T02:37:41+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"i'm thinking just in that text form, explainin how it conforms with expected results or doesn't."
+  },
+  {
+    "date":"2014-07-10T02:37:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"sounds great :-)"
+  },
+  {
+    "date":"2014-07-10T02:38:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"but as a separate document from the main test plan I'm guessing?"
+  },
+  {
+    "date":"2014-07-10T02:41:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"So we plan to meet again on Friday?"
+  },
+  {
+    "date":"2014-07-10T02:41:51+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yes :D"
+  },
+  {
+    "date":"2014-07-10T02:42:09+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"great, good night guys :)"
+  },
+  {
+    "date":"2014-07-10T18:30:06+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@ChandraSapkota  I updated the tests document.  It should still be in the Deliverable2 Folder."
+  },
+  {
+    "date":"2014-07-10T19:11:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ok, great. Thank you Tony"
+  }
+]

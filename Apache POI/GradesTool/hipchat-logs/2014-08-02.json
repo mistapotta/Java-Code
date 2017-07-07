@@ -1,0 +1,156 @@
+[
+  {
+    "date":"2014-08-02T00:30:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"team_and_project_classes_notes.pdf",
+      "size":1658613,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/E8Re8JAHvesFlZt\/team_and_project_classes_notes.pdf"
+    },
+    "message":"I'm just sharing some of the notes I made after reviewing the requirements one more time for the Team(s)\/Project(s) classes. I'm going to go ahead and update the interfaces in the current classes to fit what I'm describing in the notes (looking to come up with a consistent feel for the classes)."
+  },
+  {
+    "date":"2014-08-02T00:32:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "file":{
+      "name":"additional_task_card_notes.pdf",
+      "size":1618626,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/890397\/KWtwSuSqe8TVEa6\/additional_task_card_notes.pdf"
+    },
+    "message":"On a related note, after the additional review it also seemed like it might be good to add 4 additional task cards (for a Rating and Ratings class and a Assignment and Assignments class)"
+  },
+  {
+    "date":"2014-08-02T01:11:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota I'm going to do some cleanup to the Team\/Teams classes in a few minutes to reflect what I shared above a little while ago (mainly I'm going to clean up the tests since I removed the getFirst* type methods and the getTeamByNumber method since it was superseded by a new one I had to add in (since gettting a single team actually requires the team number and the project number to work)"
+  },
+  {
+    "date":"2014-08-02T01:11:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I should be able to push those updates up within an hour or so."
+  },
+  {
+    "date":"2014-08-02T05:16:15+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sounds good @OmarRamos , please let me know if u need any help from me, appreciate it , thanks :)"
+  },
+  {
+    "date":"2014-08-02T07:22:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I pushed up the cleaned up versions of the Team\/Teams classes (well the skeleton methods anyway) and the associated test classes about an hour ago and just pushed up the Rating\/Ratings skeletons and test classes. "
+  },
+  {
+    "date":"2014-08-02T07:38:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just added the extra task cards:\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/Deliverable-2\/6300Sum14Project3\/extra_task_cards_D2.md\\nGoing to try and add in the Assignment\/Assignments skeletons  and test classes before I go to bed ;-)"
+  },
+  {
+    "date":"2014-08-02T08:49:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Just pushed up the Assignment\/Assignments skeletons and test classes (and also did a small amount of additional cleanup work ;-))."
+  },
+  {
+    "date":"2014-08-02T10:40:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos I will wait until tonight for any feedback and convert my classes to skeletons for you to submit.  Will you be submitting tonight or tomorrow morning.  I should be in the chat room starting at 6:00 est until we wrap it."
+  },
+  {
+    "date":"2014-08-02T15:15:03+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos sounds good, thanks for the cleanup :)"
+  },
+  {
+    "date":"2014-08-02T19:38:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks for the update, feel free to make any changes you feel like making today on the GUI side. The only thing I was going to share on the GUI side would be to double-check this article and see if there's anything useful in it for JUnit testing Swing interfaces (it mentions a java.awt.Robot class): http:\/\/www.javaworld.com\/article\/2073056\/swing-gui-programming\/automate-gui-tests-for-swing-applications.html"
+  },
+  {
+    "date":"2014-08-02T19:56:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos I used a method similar to this but not as complicated."
+  },
+  {
+    "date":"2014-08-02T20:35:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Cool, thanks for the update!"
+  },
+  {
+    "date":"2014-08-02T21:29:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Thinking about the interfaces (and all of the refresh() methods were going to have and passing the GradesDB instance around) it seems like in the constructors for the plural classes (Assignments, Projects, Ratings, Teams) that once the GradesDB instance gets passed into the constructor the constructor will store it and then call the refresh method (and the refresh method is the one that actually interacts with the Excel file to extract the data for each of the data types). Even though we're not implementing anything this week, I just want to see if that approach sounds good since we'll probably have to start the implementation work within the next few days once Deliverable 3 is posted."
+  },
+  {
+    "date":"2014-08-02T21:59:35+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos I implemented excel extraction using Table class - we might also want to consider that option when we get to next phase."
+  },
+  {
+    "date":"2014-08-02T22:06:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Sounds like a good idea, it would probably make the needed code in the refresh() methods simpler because the basic data extraction stuff would be handled by the Table class ;-)."
+  },
+  {
+    "date":"2014-08-02T22:18:53+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll probably be offline the rest of today (I'll be heading out with the wife across the border to Mexicali for the afternoon\/evening and also pick up our daughter from her grandma's house so we probably won't be back until really late this evening because the line to come back usually takes a few hours). After Murali's updates later tonight there really shouldn't be much else to finish up this Deliverable so we should be able to go ahead and wrap things up tomorrow morning and get things turned in pretty easily ;-)."
+  },
+  {
+    "date":"2014-08-02T23:27:14+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"@all Sorry for being out of contact.  I'll be out until Tuesday evening to take care of family business.  Please e-mail me what I need to do in case any @TonyPotter scrolls off the top of the screen."
+  }
+]

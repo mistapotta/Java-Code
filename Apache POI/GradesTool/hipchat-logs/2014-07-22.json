@@ -1,0 +1,401 @@
+[
+  {
+    "date":"2014-07-22T03:11:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hi Team, here's a quick summary of what I've gathered from the project description and the test cases that were provided to us:"
+  },
+  {
+    "date":"2014-07-22T03:11:56+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Pre-Task:\\n - Use the Apache POI library to import data from the Details, Data, and Attendance worksheets from the GradesDatabase6300.xlsx file\\n - There are a whole bunch of other sheets in the Excel file that we will probably be using for the next Deliverables but don't seem to be required for this first Deliverable."
+  },
+  {
+    "date":"2014-07-22T03:12:06+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Task 1: Develop a class (Student) that holds the information about a student, such as name and GT ID.\\n - stu = new Student()\\n - stu.getName() [returns String]\\n - stu.getGtid() [returns String]\\n - stu.getAttendance() [returns int]"
+  },
+  {
+    "date":"2014-07-22T03:12:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Task 2: Develop a class (GradesDB) that encapsulates most of the system functionality and provides an intuitive interface towards the information in the spreadsheet.\\n - db = new GradesDB(Constants.GRADES_DB)\\n - db.getNumStudents() [returns int]\\n - db.getNumAssignments() [returns int]\\n - db.getNumProjects() [returns int]\\n - db.getStudents() [returns HashSet<Student>]\\n - db.getStudentByName(String name) [returns Student]\\n - db.getStudentById(String gtid) [returns Student]"
+  },
+  {
+    "date":"2014-07-22T03:20:12+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Additionally there will probably need to be setters or a constructor function where you can pass in the needed parameters for creating the new Student instances."
+  },
+  {
+    "date":"2014-07-22T03:21:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Next up will be divvying the tasks (it seems like the constructor for GradesDB where the Excel data will be imported \/ assembled into a usable data structure will probably be the most time intensive part of this Deliverable)"
+  },
+  {
+    "date":"2014-07-22T04:21:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"This article contains a decent tutorial on how to use the Apache POI's XSSF classes for reading info from .xlsx files:\\nhttp:\/\/viralpatel.net\/blogs\/java-read-write-excel-file-apache-poi\/\\n(\"Working with .xlsx files\" section)"
+  },
+  {
+    "date":"2014-07-22T13:50:40+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Omar thanks for the summary.  While you have been working on this I got started on the classes.  I will be unavailable rest of the week -    so I will work on the code today also and submit whats required coding wise by tonight.  You guys can focus on the othe stuff and get into code\/code review\/modification after I push my classes."
+  },
+  {
+    "date":"2014-07-22T14:12:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks for the update!"
+  },
+  {
+    "date":"2014-07-22T14:38:36+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I created Deliverable-1 branch for us to work in without messing the master."
+  },
+  {
+    "date":"2014-07-22T14:40:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks, that should work ;-)"
+  },
+  {
+    "date":"2014-07-22T18:17:10+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I've got most of it done. Do you want me to push what Iv'e got?"
+  },
+  {
+    "date":"2014-07-22T18:19:35+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"It passes all tests, and parses the XL document.  We probably should add to it to parse the additional data and store it."
+  },
+  {
+    "date":"2014-07-22T18:19:46+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"And for some reason I can't access Deliverable-1 branch. "
+  },
+  {
+    "date":"2014-07-22T18:21:54+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"nvm I got Deliverable1 branch."
+  },
+  {
+    "date":"2014-07-22T19:09:43+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Lol everyone is jumping in coding, so how do we plan to divide the work on this one guys, i don't see any documentation asked, how can i help?"
+  },
+  {
+    "date":"2014-07-22T19:31:18+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@TonyPotter does your code take care of this weeks deliverables."
+  },
+  {
+    "date":"2014-07-22T19:34:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Actually my initial suggestion for this week (since we haven't really provided a lot of opportunities for Chandra on the coding side) was to have him start out this one for us, but when Murali mentioned he had started already this morning that idea kind of went out the window, lol."
+  },
+  {
+    "date":"2014-07-22T19:34:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Now it looks like we might have two different versions (one Tony and one Murali)?"
+  },
+  {
+    "date":"2014-07-22T19:37:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"To avoid git problems - I will not push my classes .  I will just put them here instead.  As before this is working solution and should get us to clear deliverables - 1.  Use them if required.  Please let me know  today if you need anything further otherwise I will be MIA until next week."
+  },
+  {
+    "date":"2014-07-22T19:38:14+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"GradesDB.java",
+      "size":3048,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/XY4pA7yo3toU51z\/GradesDB.java"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-22T19:38:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"Student.java",
+      "size":994,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/4dV5VIcj4XorWbC\/Student.java"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-22T19:38:26+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"Table.java",
+      "size":1914,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/JFLCirfG3l1M6Kr\/Table.java"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-07-22T19:39:06+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I trust @OmarRamos will manage the project as before."
+  },
+  {
+    "date":"2014-07-22T19:40:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks Murali, luckily this week's workload is pretty light so this should pretty much be it for this Deliverable (I'll carefully review everything and integrate the best of both approaches, though I'm guessing you both had somewhat similar approaches)."
+  },
+  {
+    "date":"2014-07-22T19:40:42+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hopefully you're taking some time to go on vacation or something...if so, enjoy! We'll be able to take care of the rest for this week ;-)"
+  },
+  {
+    "date":"2014-07-22T19:42:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We will let Tony lead the programming from here on.  I have robbed him of coding in first two projects.  Lets use his classes and you can refer to mine if you have issues."
+  },
+  {
+    "date":"2014-07-22T19:42:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Sounds good, will do ;-)"
+  },
+  {
+    "date":"2014-07-22T19:43:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Talk to you next week - no more assignments right?"
+  },
+  {
+    "date":"2014-07-22T19:44:26+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju That right, it looks like we're done with all of the individual assignments :D"
+  },
+  {
+    "date":"2014-07-22T20:06:14+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Looks like may be i can just pull in the classes and try and see if the test cases passes or not, i will also try to write my version just so i can learn a little since i can refer to Murali's and Tony's code when needed. Also any help you guys need with anything else i'll be here :)"
+  },
+  {
+    "date":"2014-07-22T20:07:50+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Chandra if you look at the excel spreadsheet you will see lot of data in it - so there is more work coming.  Otherwise they would not put that much data in it."
+  },
+  {
+    "date":"2014-07-22T20:08:46+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"And my code might not be reader freindly as Tony's - Tony typically writes text book perfect."
+  },
+  {
+    "date":"2014-07-22T20:08:59+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I just hack it."
+  },
+  {
+    "date":"2014-07-22T20:09:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota Sounds great...I like the idea of going ahead and writing your own for learning purposes (and like Murali just mentioned, getting a light introduction this week on your own should make it easier to help contribute in the next deliverables where I\"m thinking things will get a little more complex). So it's all good ;-)"
+  },
+  {
+    "date":"2014-07-22T20:10:56+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ya there is 13 tabs so i am guessing we'll be busy the coming weeks lol and Murali you are a professional programmer and Tony is a teacher so it makes sense lol"
+  },
+  {
+    "date":"2014-07-22T20:14:19+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"We need to nail this project because I am concerned about our grade in project 2. "
+  },
+  {
+    "date":"2014-07-22T20:15:34+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ya and i am concerned about my own grade as well since assignment 6 went pretty rough lol"
+  },
+  {
+    "date":"2014-07-22T23:34:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Yes, mine passes all the tests."
+  },
+  {
+    "date":"2014-07-22T23:35:05+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"the question si do we want to go above\/beyond - do we want to parse the excel doc for grades and projects."
+  },
+  {
+    "date":"2014-07-22T23:36:54+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If we don't get started on it this week, I'm pretty certain it is part of what the next deliverables will probably be having us do."
+  },
+  {
+    "date":"2014-07-22T23:37:52+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"For this week I don't think there's much to go above and beyond with exactly, but if we do some of that additional processing of the Excel file we can probably look at that as prep work for the next two weeks"
+  },
+  {
+    "date":"2014-07-22T23:39:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I wouldn't mind us doing that for this week so long as I get to share in some of the coding effort too ;-)"
+  },
+  {
+    "date":"2014-07-22T23:39:44+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sure. You and Chandra could split parsing projects and assignments, and look at the code Murali\/I put up to model if you get stuck."
+  },
+  {
+    "date":"2014-07-22T23:41:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I can do that @ChandraSapkota Does that sound like something you'd like to help out with (I know it would take you away from working on your own independent version you mentioned you wanted to work on earlier for learning experience)?"
+  },
+  {
+    "date":"2014-07-22T23:42:17+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Sure, i can do that, that way i could be a little useful lol, sounds great"
+  },
+  {
+    "date":"2014-07-22T23:51:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Hmm...now I'm having a few doubts now that I'm thinking about this a bit more (looking at the expectations for the next two deliverables).\\n\\nSince the course is more about process than anything else, in some ways if we build ahead of the Story \/ Task Cards that'll be provided to us in Deliverable2, then it'll make building the JUnit Tests next week not as meaningful.\\n\\nAnd if we build code ahead of time that won't be needed until Deliverable3 (before we have the JUnit tests) then it also makes that process less meaningful as well (since the Test Driven Development model has you creating the tests first and then the code to make them pass).\\n\\nSo now I'm feeling maybe working ahead might be frowned upon a bit because we'd be circumventing the \"TDD\" process.\\n\\nOn the one hand I'm all for moving ahead, but looking at the bigger picture of the process we're supposed to be learning about, perhaps it might not actually be a great idea.\\n\\nWhat do you guys think?"
+  },
+  {
+    "date":"2014-07-22T23:55:20+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"Looking at thenew expectations now."
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "date":"2014-08-10T16:22:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all I didn't see any updates yesterday, but this morning I'm going to go ahead and start working on the \"changed_tests_D3.md\" file mentioned in the Important Notes in Deliverable 3 since I hadn't done that on Friday (https:\/\/www.udacity.com\/wiki\/ud494\/project3del3?nocache#p3). Additionally they mention we can add additional tests if we want to (we won't be penalized for not doing so if we don't need\/want to though). Aside from that and additional code cleanup\/commenting type work today, the main thing is getting the GUI working and the tests passing for it again. Then we can decide if we want to implement Task 3 or not for the extra credit ;-)."
+  },
+  {
+    "date":"2014-08-10T17:07:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all Just pushed up the changed_tests_D3.md file going over the small corrections in that were needed in the tests: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/blob\/Deliverable-3\/6300Sum14Project3\/GradesTool\/changed_tests_D3.md"
+  },
+  {
+    "date":"2014-08-10T17:10:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will lok at the GUiTests - must be a case of updating to Tony's implementation."
+  },
+  {
+    "date":"2014-08-10T17:11:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Anything else outstandin."
+  },
+  {
+    "date":"2014-08-10T17:11:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The GUI tests I think are the main ones at the moment out of the required parts"
+  },
+  {
+    "date":"2014-08-10T17:12:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"There's some minor cleanup\/commenting I still want to do but that's not related to any functionality."
+  },
+  {
+    "date":"2014-08-10T17:12:19+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The last bit would be deciding if the extra credit part is worth working on"
+  },
+  {
+    "date":"2014-08-10T17:19:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Should we be able to run the GradesToolGUI file directly as an application? In Eclipse I seem to only be able to run the GradesToolGUIController file and get the GUI to appear"
+  },
+  {
+    "date":"2014-08-10T17:27:25+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos the main is in the controller - hence it runs from there.  We can move main anywhee."
+  },
+  {
+    "date":"2014-08-10T17:29:14+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju In that case, it might be good to have it in the GradesToolGUI file instead (I'm thinking if they run their tests they might expect to be able to run that file and have the GUI show up)."
+  },
+  {
+    "date":"2014-08-10T17:34:24+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos in that case their test becomes the controller class and will not call our guicontroller.  So it will still show up."
+  },
+  {
+    "date":"2014-08-10T17:34:55+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Our GUIcontroller is for us to test the gui class."
+  },
+  {
+    "date":"2014-08-10T17:46:00+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I take that back - I have some listeners in the controller class."
+  },
+  {
+    "date":"2014-08-10T17:46:57+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Listener called functions not listeners themselves."
+  },
+  {
+    "date":"2014-08-10T17:48:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"How does that change things?"
+  },
+  {
+    "date":"2014-08-10T17:48:54+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I will have to move those functions back to gui class."
+  },
+  {
+    "date":"2014-08-10T17:49:35+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Gotcha, OK"
+  },
+  {
+    "date":"2014-08-10T18:21:37+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Just pushed up some changes (adding in comments and other cleanup) you may want to pull"
+  },
+  {
+    "date":"2014-08-10T18:21:55+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Shouldn't cause any issues with your GUI stuff (I left those untouched on my end)"
+  },
+  {
+    "date":"2014-08-10T19:29:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all I'm taking a look at the extra credit for Deliverable 3, but unfortunately it brings up additional questions so I'm not sure if we'll be able to complete it or not, but I went ahead and posted a question on Piazza asking for some clarifications on a few points to see if we can get some additional info that way."
+  },
+  {
+    "date":"2014-08-10T20:45:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I heard a response back for my Piazza question so I'll take a crack at the extra credit portion. How's the GUI part looking...any questions\/issues?"
+  },
+  {
+    "date":"2014-08-10T20:49:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It looks like an easy way I might be able to handle the formula parsing will be use Java's Built-in JavaScript parser as described here: http:\/\/stackoverflow.com\/questions\/3422673\/evaluating-a-math-expression-given-in-string-form so I'll try and take a crack at it from that perspective and see how it goes."
+  },
+  {
+    "date":"2014-08-10T20:50:58+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos gui is almost complete - added save functionality I overlooked earlier.  Modifying the tests and then will push."
+  },
+  {
+    "date":"2014-08-10T20:51:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Consolidated the classes as you requested also."
+  },
+  {
+    "date":"2014-08-10T20:51:36+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Awesome :-)"
+  },
+  {
+    "date":"2014-08-10T21:06:44+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos how do I lookup what we submitted for Deilv2."
+  },
+  {
+    "date":"2014-08-10T21:07:10+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"What do you mean?"
+  },
+  {
+    "date":"2014-08-10T21:07:39+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"What's in the master branch right now should be what we submitted in Deliverable 2"
+  },
+  {
+    "date":"2014-08-10T21:08:00+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"(that's what I used to compare against when I had to see what changes I made to the tests earlier this morning)"
+  },
+  {
+    "date":"2014-08-10T21:08:49+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I lost some code...looking for the file I pushed last week. You modified for submit so I am looking for my code before you \"skeletoned' it."
+  },
+  {
+    "date":"2014-08-10T21:10:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"This should do it too: https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/commit\/b4f69686fc897c5b498a0f9364c639703e0a4848 (I just went into the history for GUI file on GitHub)"
+  },
+  {
+    "date":"2014-08-10T22:16:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all strugling with making tests pass - for example the student list order in combo box keeps changing every time I run.  Will update after I figure it out."
+  },
+  {
+    "date":"2014-08-10T22:19:38+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Thanks for the update...I don't know if there's a way you can make sure the list is sorted by student name or not"
+  },
+  {
+    "date":"2014-08-10T22:26:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I just pushed up code for the extra credit portion of Deliverable 3 that you might have to pull down (I modified GradesDB, added a new test in GradesDBTest2, and added a note in the changed_tests_D3.md file)."
+  },
+  {
+    "date":"2014-08-10T22:27:16+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos OK - thanks."
+  },
+  {
+    "date":"2014-08-10T22:38:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I just heard back on my 2nd question on PIazza: https:\/\/piazza.com\/class\/huy90hs4g9g3jq?cid=888 so I'm going to go and update my code again to reflect Will's comments."
+  },
+  {
+    "date":"2014-08-10T23:23:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju OK, just pushed up the modifications using Will's comments from Piazza"
+  },
+  {
+    "date":"2014-08-10T23:24:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"So you'll need to pull those changes down when you get a chance. I think I'm good now and whatever else you might need from my end just let me know and I can help test the GUI portion or provide feedback so we can get things wrapped up and turned in ;-)"
+  },
+  {
+    "date":"2014-08-10T23:32:13+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos working on final test."
+  },
+  {
+    "date":"2014-08-10T23:33:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju awesome ;-)"
+  },
+  {
+    "date":"2014-08-10T23:38:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"It looks like the Extra Credit methods in GradesDB should be integrated into the UI too. It would be a text box for the formula and the some spots to output the average and median values for the class and overall calculated grade for the selected student. If you can manage those additions too it'd be good ;-)"
+  },
+  {
+    "date":"2014-08-10T23:51:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@all GUI pushed for review."
+  },
+  {
+    "date":"2014-08-10T23:52:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju thanks I'll take a look ;-)"
+  },
+  {
+    "date":"2014-08-10T23:53:22+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@omar is all the logic for extra credit implemented."
+  },
+  {
+    "date":"2014-08-10T23:54:49+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Yup, you would need to tap into getStudentGrade(student) to get the student's calculated grade, as well as getAverageGrade() and getMedianGrade() to get the Average\/Median for the entire course. And setFormula(formulaString) to set the formula"
+  },
+  {
+    "date":"2014-08-10T23:54:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"All of those are in GradesDB"
+  },
+  {
+    "date":"2014-08-10T23:55:17+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"OK I will take a look."
+  },
+  {
+    "date":"2014-08-10T23:59:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju The GUI looks good. The only suggestion I would have for the Save button would be this for the Save button (from Deliverable 2 Story Card 3):\\nThe users of the tool can select a student and save his\/her information in a file named after the student (e.g., LaraineSmith.txt) and saved in the current directory (i.e., the directory from which the tool is run)."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date":"2014-08-01T00:44:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I'll probably be late to the discussion tonight guys but I saw some notes on piazza that were related to the GUI side and the Teams classes that might be helpful for finalizing those for this deliverable"
+  },
+  {
+    "date":"2014-08-01T00:46:22+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"sounds good Omar, we really need to go over the classes and finalize them or make necessary changes, cool"
+  },
+  {
+    "date":"2014-08-01T00:55:07+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"yeah...checked pz ... we just have to delete some code from my guiclass and we are good to go..."
+  },
+  {
+    "date":"2014-08-01T00:56:31+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"I am working on better implementation of gui anyways for Del3...so we can hack this to our hearts content..."
+  },
+  {
+    "date":"2014-08-01T00:56:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"i was more concerned about my classes, i'm not too confident on what i wrote, i kinda followed Omar path but i'm not hundred percent on the codes"
+  },
+  {
+    "date":"2014-08-01T17:49:15+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota I'm going ahead and going to be doing some more in-depth review of your classes and my classes today comparing them to the requirements for this deliverable and see if there's any gaps we need to fill ;-)."
+  },
+  {
+    "date":"2014-08-01T19:26:27+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"@OmarRamos that would be awesome. Thank you Omar"
+  }
+]

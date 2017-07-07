@@ -1,0 +1,58 @@
+[
+  {
+    "date":"2014-07-21T17:36:08+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Looks like Pro3 is up.  Any takers on coding ... 3...2...1...OK I got it...just kidding...lets discuss a plan."
+  },
+  {
+    "date":"2014-07-21T22:20:21+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Is this room live...am I in the wrong place...@OmarRamos  @TonyPotter @ChandraSapkota "
+  },
+  {
+    "date":"2014-07-21T22:45:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all This is the correct place for Project 03 ;-)"
+  },
+  {
+    "date":"2014-07-21T22:46:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"From some of the comments on Piazza it sounds like there may not be a whole bunch of coding for this first deliverable but hopefully we can figure out a way to break things out evenly"
+  },
+  {
+    "date":"2014-07-21T22:46:48+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Is the Project 3 description available now too? I don't think it was up earlier when I had checked in the morning"
+  },
+  {
+    "date":"2014-07-21T22:47:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"alright, looks like it is posted here: https:\/\/www.udacity.com\/wiki\/ud494\/project3?nocache"
+  },
+  {
+    "date":"2014-07-21T23:02:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"From what I'm seeing in the link above it looks like we should be able to break up the tasks a bit and work in relay fashion (so that each of us can write a portion that fulfills some of the test cases until we have them all passing). I'll try and review the test cases in a little more detail later tonight to see if I can help figure out a logical breakdown for the 4 of us and share that here to discuss (if somebody gets to it before I do and cares to share their thoughts, feel free ;-))."
+  }
+]

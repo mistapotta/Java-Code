@@ -1,0 +1,574 @@
+[
+  {
+    "date":"2014-06-27T01:01:40+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"Use case model.pdf",
+      "size":134362,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/t0WKM1ptGtoWHCN\/Use case model.pdf"
+    },
+    "message":"Hey guys, this is the use-case model that i came up with, feel free for suggestions"
+  },
+  {
+    "date":"2014-06-27T01:04:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Also i have committed to git hub with a draft of risk assessment document"
+  },
+  {
+    "date":"2014-06-27T01:06:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I'm finding hard to come up with risks associated with the system in terms of coding, may be coz i'm not much of a coder, so feel free to suggest risk associate to those"
+  },
+  {
+    "date":"2014-06-27T01:09:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "file":{
+      "name":"Project Plan - Team 22 Project 2.pdf",
+      "size":19846,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891028\/ZK71HkmOATR2djl\/Project Plan - Team 22 Project 2.pdf"
+    },
+    "message":"Cool.  I've got the Project Plan started.  Here's a rough draft, based on the submittables.\n\nI'll be off all day tomorrow, so I can polish it up "
+  },
+  {
+    "date":"2014-06-27T01:10:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I like the way you used the colors, you are missing the brown on the column though ;)"
+  },
+  {
+    "date":"2014-06-27T01:11:02+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"yah, brown is the finished, so technically it's \"everything\""
+  },
+  {
+    "date":"2014-06-27T01:11:51+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"cool, so Tony since i created the use-case model based on your UML diagram, please let me know if you think something needs to be changed"
+  },
+  {
+    "date":"2014-06-27T01:12:01+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll be consolidating items, like where it says Develop *item* \/Revise *item* Complete *item*"
+  },
+  {
+    "date":"2014-06-27T01:12:57+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"the use case looks like a wonderful start."
+  },
+  {
+    "date":"2014-06-27T01:13:27+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'd be interesting in seeing Murali's input on it, but I think it's good for submission as is for a preliminary Use case model."
+  },
+  {
+    "date":"2014-06-27T01:14:19+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"thanks, ya since it's the initial use-case model, it should not be entirely complete but i would want to make sure that it's atleast correct :)"
+  },
+  {
+    "date":"2014-06-27T01:15:28+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"As well as, this is what i could come up so far as the risk assessment"
+  },
+  {
+    "date":"2014-06-27T01:15:39+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Risk Assessment\\n\\nPerforming a risk assessment is an important step in being prepared for potential problems that can occur during the development of the project. During the risk assessment, if a potential risk is identified, a solution or plan of action should be developed. The following is a list of potential project risks. Each risk that receives a high score should have a corresponding plan for management and control of the risk. The criteria that are applied when selecting the appropriate risk level are as follows:\\n\\nLow - Very unlikely that this will occur during the development of the project\\n\\nMedium - There is a 50 - 50 chance that this will occur during the development of the project\\n\\nHigh - Very likely that this will occur during the development of the project\\n\\n\\n1. The hardware or software chosen to do the project can\u2019t handle the workload required to complete the project.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n2. The cost of labor, support costs and other charges aren\u2019t within the budget and will it increase year to year.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n3. We do not have enough resources \/ manpower and the project team member aren\u2019t in place when required.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n4. The requirements has not been gathered and defined adequately.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n5. The requirements is continually changing.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n6. The project will not be completed on time.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n7. There is no correct platform for testing and modeling.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n8. The system require continuos maintenance and debugging.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n9. The project has not been planned carefully and do not have a vision document.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n10. We do not have experienced team members and the work has not been divided correctly.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n11. The user interface is not correct, clear and easy to use.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n12.  The system is affected when more customers are added as members.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n13.  The compilers or code generators available are not  appropriate for the system to be built.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n14. The testing tools available are not appropriate for the system to be built?\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n15. The formal technical reviews of test procedures and test cases are not conducted regularly.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n16. A delay in one deliverable causes cascading delays in the completion of the project.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n17.  The compilers or code generators available are not appropriate for the product to be built.\\n\\nLow\t\tMedium\t\tHigh\\n\\n18. The software configuration management tools are not available.\\n\\nLow\t\tMedium\t\tHigh\\n\\n19. The End-user input is not solicited, causing ultimate failure of the product and  to meet user expectations.\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n20. The requirements demand the use of new analysis, design, or testing methods and  use of unconventional software development methods?\\n\\nLow\t\tMedium\t\tHigh\\n\\n\\n"
+  },
+  {
+    "date":"2014-06-27T01:16:35+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"And of course, i would also suggest a possible resolution when we have a risk, so a way out of the risk of each of these"
+  },
+  {
+    "date":"2014-06-27T01:21:17+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"sorry guys (I wasn't feeling well earlier and fell asleep and bam, 6 PM came around). Let me catch up on what's been typed above."
+  },
+  {
+    "date":"2014-06-27T01:22:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"6pm? don't tell us you were lying on a beach there Omar?"
+  },
+  {
+    "date":"2014-06-27T01:22:28+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"silly west coast Omar :)"
+  },
+  {
+    "date":"2014-06-27T01:23:41+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I was originally from LA so i can understand the 3 hours time difference :D "
+  },
+  {
+    "date":"2014-06-27T01:26:58+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"The Vision Document was surprising kind of difficult to put together, mainly because I didn't really have a clear idea of what it needed to look I guess so I was looking at quite a few templates, before deciding on a simpler one, but still am not super happy with the content of it...I feel like it's too simple.\\nhttps:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\/tree\/Deliverable1\/6300Sum14Project2\/Deliverable1"
+  },
+  {
+    "date":"2014-06-27T01:28:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota For the Risk Assessment, will you be making anymore modifications to it today? For the Low \/ Medium \/ High options with each question, will we eventually go ahead and pick an answer for each question?"
+  },
+  {
+    "date":"2014-06-27T01:29:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"I was more thinking, not pick an answer but have a resolution in case the risk was high, but i am open to suggestions on that"
+  },
+  {
+    "date":"2014-06-27T01:29:32+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm guessing in our next meeting we'll pick which is mmost likely (low\/med\/high) and come up with contingency cases\/discussions for med\/high\/"
+  },
+  {
+    "date":"2014-06-27T01:30:06+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"That sounds good Tony, we could do that.."
+  },
+  {
+    "date":"2014-06-27T01:30:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok, so that meeting would be next week as part of Deliverable 2?"
+  },
+  {
+    "date":"2014-06-27T01:31:18+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right. we point out what the possibilities are and likelihoods for 1, then contingency for 2"
+  },
+  {
+    "date":"2014-06-27T01:32:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Well if we are choosing the risk then we have to have it chosen before deliverable 2, we are pointing out all the risks in the 1st are adding some some if applicable in 2"
+  },
+  {
+    "date":"2014-06-27T01:32:13+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"*and"
+  },
+  {
+    "date":"2014-06-27T01:35:36+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"cool."
+  },
+  {
+    "date":"2014-06-27T01:35:52+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"And how about the use-case model, would that be sufficient for initial use?"
+  },
+  {
+    "date":"2014-06-27T01:36:45+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":" I think it's fine.  It looks good."
+  },
+  {
+    "date":"2014-06-27T01:37:17+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll continue tweaking the Project plan, consolidating ideas on common lines, sorting for readibility"
+  },
+  {
+    "date":"2014-06-27T01:37:27+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok I was just going to suggest that I could go ahead and help rename the RiskAssessment file to RiskAssessment.md and then we can go ahead and make the initial answer marking for each question as a team (and mark that in bold). I'm thinking at the end of each of the sentences we can put what we think the risk is in parentheses.\\n\\nFor example:\\n1. The hardware or software chosen to do the project can't handle the workload required to complete the project.(Low Risk)"
+  },
+  {
+    "date":"2014-06-27T01:38:40+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"That sounds goo @OmarRamos , do we want to put a solution if incase the risk was high?"
+  },
+  {
+    "date":"2014-06-27T01:39:54+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"we can leave that part till next week if we want to (that's what I think Tony was mentioning above...just identifying the risk levels this week and then putting in plans for anything that happens to be at a higher risk level)"
+  },
+  {
+    "date":"2014-06-27T01:40:23+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"right."
+  },
+  {
+    "date":"2014-06-27T01:40:32+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"sounds great"
+  },
+  {
+    "date":"2014-06-27T01:40:38+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"and Murali seems to know where he's going on the prototype front"
+  },
+  {
+    "date":"2014-06-27T01:41:49+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Question, how can i upload the use-case model (as pdf) to the git hub?"
+  },
+  {
+    "date":"2014-06-27T01:45:02+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota One quick thing on the use case model...the Owner should also be able to Register \/ Update a Customer record. I really haven't created any of those Use Case Models before though so it's a little unclear to me as to how it should look but so far I think it looks pretty good"
+  },
+  {
+    "date":"2014-06-27T01:46:26+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Thats a good point Omar, may be instead of the line from customer to register, we have a line from owner to the register, that should solve the isssue, good point :)"
+  },
+  {
+    "date":"2014-06-27T01:47:45+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Or i'll add a new case saying change customer info and include all the parameter used while registering"
+  },
+  {
+    "date":"2014-06-27T01:50:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think it might be ok to have both the Customer and the Owner pointing to the Register option (I could see maybe at the cart where the Owner\/Employee might pass the phone\/tablet over to the customer to have them fill out their own info, and the other situation where they might type it in for them)"
+  },
+  {
+    "date":"2014-06-27T01:52:54+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"In case of the scenario where the owner needs to change only one info i.e. lets say the phone number, pointing to the register may not work, so i have added another class saying change info as below, let me know what you think"
+  },
+  {
+    "date":"2014-06-27T01:53:04+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "file":{
+      "name":"Use case model 1.png",
+      "size":86786,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/896485\/OE1BxeVvcxkdoHo\/Use case model 1.png"
+    },
+    "message":""
+  },
+  {
+    "date":"2014-06-27T01:53:42+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"In this case he has the choice of choosing only one or all if necessary"
+  },
+  {
+    "date":"2014-06-27T01:54:45+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"ok, that makes sense"
+  },
+  {
+    "date":"2014-06-27T01:55:29+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"overall, it looks like we're doing pretty good for this week (for some reason it seemed like there was more we needed to do this week the other day)"
+  },
+  {
+    "date":"2014-06-27T01:56:46+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Ya for the first deliverable we should be ok, next time when we meet we do need to identify the risk on each of those points, and we should be good"
+  },
+  {
+    "date":"2014-06-27T01:56:48+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":":)"
+  },
+  {
+    "date":"2014-06-27T01:57:44+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"I think we'll go ahead and meetup again on Saturday for sure, and depending on availability, pop in on here tomorrow evening if any updates are needed"
+  },
+  {
+    "date":"2014-06-27T01:57:59+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"sounds good."
+  },
+  {
+    "date":"2014-06-27T01:58:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota So it's ok if I rename the RiskAssessment file to RiskAssessment.md?"
+  },
+  {
+    "date":"2014-06-27T01:58:13+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"please do Omar"
+  },
+  {
+    "date":"2014-06-27T01:58:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If so I'll probably go ahead and do that a little later this evening ;-)"
+  },
+  {
+    "date":"2014-06-27T01:58:18+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"and sounds good on our plan"
+  },
+  {
+    "date":"2014-06-27T01:58:28+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"cool, thanks!"
+  },
+  {
+    "date":"2014-06-27T01:58:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'll push the Project plan up later tonight."
+  },
+  {
+    "date":"2014-06-27T01:59:03+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"If there's any further suggestions on the VisionDocument, feel free to make them or let me know ;-)."
+  },
+  {
+    "date":"2014-06-27T01:59:12+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"okay. :)"
+  },
+  {
+    "date":"2014-06-27T01:59:13+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter Sounds good "
+  },
+  {
+    "date":"2014-06-27T01:59:20+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Again @OmarRamos since you are the git expert, how can i push the use case model?"
+  },
+  {
+    "date":"2014-06-27T02:00:02+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"actually let me do a little research tomorrow, it's good to learn lol"
+  },
+  {
+    "date":"2014-06-27T02:00:31+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Then we meet up on saturday same time?"
+  },
+  {
+    "date":"2014-06-27T02:00:39+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"same bat time, same bat channel."
+  },
+  {
+    "date":"2014-06-27T02:01:24+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"cool, see you guys then, have a good night and to Omar have a good evening :)"
+  },
+  {
+    "date":"2014-06-27T02:03:25+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sure, no problem. The main thing I think would be to go ahead and checkout a fresh clone of the repository:\\ngit clone https:\/\/github.com\/gt-ud-softeng\/cs6300-summer-team22\\ngit checkout Deliverable1\\n\\nSince you would be starting at that point you should have the latest copy at that time. However, afterwards, there's always the chance someone might have committed something so you may want to pull down any changes first before doing anything else:\\ngit pull origin Deliverable1\\n\\nplace your file in the Deliverable1 in-progress folder (the ArgoUML one)\\nthen:\\ngit add 6300Sum14Project2\/Deliverable1\/in-progress\/YourFileName\\ngit commit -m \"Adding the Use Case Model Original\"\\n\\nAfter the commit then:\\ngit push origin Deliverable1"
+  },
+  {
+    "date":"2014-06-27T02:04:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Excellent, talk to everyone on Saturday :-)"
+  },
+  {
+    "date":"2014-06-27T02:04:31+0000",
+    "from":{
+      "name":"Chandra Sapkota",
+      "user_id":896485
+    },
+    "message":"Thanks Omar, talk to you guys on saturday"
+  },
+  {
+    "date":"2014-06-27T23:49:01+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "file":{
+      "name":"6300Sum14Project2.zip",
+      "size":329623,
+      "url":"http:\/\/uploads.hipchat.com\/122253\/891086\/Ji5VmZHbWxKRXGd\/6300Sum14Project2.zip"
+    },
+    "message":""
+  }
+]

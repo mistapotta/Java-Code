@@ -1,0 +1,138 @@
+[
+  {
+    "date":"2014-08-11T00:02:37+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"No File chooser then?"
+  },
+  {
+    "date":"2014-08-11T00:06:50+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"That's what it seems"
+  },
+  {
+    "date":"2014-08-11T00:19:20+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Just pushed up a correction to the AssignmentTest class (testGetAssignmentGrade() had one incorrect expected value) and added some additional notes to the changed_tests_D3.md file (I added a note in here for you about the GradesToolGUITests being modified in this deliverable)."
+  },
+  {
+    "date":"2014-08-11T00:57:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I'll be away from my keyboard for a few minutes here, but I'll be checking for any updates on my phone (I'm just mentioning it since if I need to test something it might take me a few minutes before I'm back at my computer and able to do so)."
+  },
+  {
+    "date":"2014-08-11T00:57:32+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos pretty close adding extra stuff."
+  },
+  {
+    "date":"2014-08-11T00:58:05+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Cool, I'll be here ;-)"
+  },
+  {
+    "date":"2014-08-11T01:34:28+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos all yours now.  Added the extras and changed save as you requested."
+  },
+  {
+    "date":"2014-08-11T01:38:01+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Nice! Let me do an initial test run, but if all's well then we should be able to finalize and submit ;-)"
+  },
+  {
+    "date":"2014-08-11T01:38:46+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Is the GUI Controller class needed still? Or is it ok to delete?"
+  },
+  {
+    "date":"2014-08-11T01:39:48+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Please delete."
+  },
+  {
+    "date":"2014-08-11T01:39:59+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Cool, I'll take care of that"
+  },
+  {
+    "date":"2014-08-11T01:42:54+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju Everything's working perfectly ;-)"
+  },
+  {
+    "date":"2014-08-11T01:43:12+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Off to bed I go then."
+  },
+  {
+    "date":"2014-08-11T01:43:24+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Sleep soundly ;-)"
+  },
+  {
+    "date":"2014-08-11T01:43:34+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Nice work!"
+  },
+  {
+    "date":"2014-08-11T01:44:34+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"Gnight.  BTW good job on the grade calculations."
+  },
+  {
+    "date":"2014-08-11T01:45:08+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"Thanks :D"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "date":"2014-07-16T02:32:16+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@TonyPotter I just added in the new method to take care of that capability for you. Here's an example:\\nhttp:\/\/coffeecart.orware.com\/api\/reports\/purchases-made-on\/2014-07-07\/to\/2014-07-07"
+  },
+  {
+    "date":"2014-07-16T17:21:26+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos looks like you are putting lot of effort into the DB.  We're you able to make the app connect? Or is @TonyPotter working on that."
+  },
+  {
+    "date":"2014-07-16T17:38:32+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@MuraliRaju I think tony was working on the java Class that would talk to the api I finished up over the weekend. I didn't hear an additional update after my last one to tony last night on here so I'm not sure what the current in progress status might be hopefully @TonyPotter can provide a quick update when he had a moment"
+  },
+  {
+    "date":"2014-07-16T18:23:22+0000",
+    "from":{
+      "name":"Tony Potter",
+      "user_id":891028
+    },
+    "message":"I'm working on making them connect.  When I have something fruitful i'lll push it."
+  }
+]

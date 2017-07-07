@@ -1,0 +1,18 @@
+[
+  {
+    "date":"2014-08-06T02:00:52+0000",
+    "from":{
+      "name":"Murali Raju",
+      "user_id":891086
+    },
+    "message":"@OmarRamos thanks. "
+  },
+  {
+    "date":"2014-08-06T05:18:33+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all I just pushed up some commits for the Project \/ Projects class implementing the new interface. However, I did run into some issues I'm hoping Mural or Tony might be able to take a look at. I was trying to run the ProjectsTest file specifically with a breakpoint in the setup() method so I could take a closer inspection of what was happening inside the new Projects initialize() method, but eclipse kept on saying there was a ClassNotFoundException and would just stop so I never received an opportunity to debug further so I could fully implement the initialize() method. If you have any suggestions please let me know and I can work on finalizing that one. The other dependency for Projects is that it requires the Teams class to be implemented too (because a list of teams for each project has to be added in)."
+  }
+]

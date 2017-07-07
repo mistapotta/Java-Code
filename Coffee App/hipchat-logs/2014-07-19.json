@@ -1,0 +1,18 @@
+[
+  {
+    "date":"2014-07-19T23:41:23+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@all In a few minutes I'll be reviewing the last updates that got pushed up to the codebase and see where we are and where I can help out. I'll also start collecting all of our documents from the various Deliverables and collecting them in the Deliverable4 folder as well to start off with and then we can update the files as necessary if there've been any major changes since we created the originals ;-)."
+  },
+  {
+    "date":"2014-07-19T23:44:21+0000",
+    "from":{
+      "name":"Omar Ramos",
+      "user_id":890397
+    },
+    "message":"@ChandraSapkota I'm not sure 100% coverage is completely expected (though I believe it is probably possible...there's a Piazza question on it though that hints 100% coverage is probably not required). Alright, that's it on the Assignment discussion...back to the Project stuff ;-). I'll put any updates I have on here once I've had some time to review things."
+  }
+]
